@@ -6,197 +6,23 @@
     <description>Euronews France</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 21:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 19:00:07 +0000</lastBuildDate>
     <item>
-      <title>Explosion d'un site Seveso près de Lyon : l'un des blessés n'a pas survécu</title>
-      <link>https://fr.euronews.com/2025/12/23/explosion-dans-une-usine-chimique-pres-de-lyon-le-pronostic-vital-dun-blesse-toujours-enga</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/explosion-dans-une-usine-chimique-pres-de-lyon-le-pronostic-vital-dun-blesse-toujours-enga</guid>
-      <pubDate>Fri, 02 Jan 2026 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Budget français : une loi spéciale pour éviter le blocage avant de nouvelles négociations</title>
-      <link>https://fr.euronews.com/2025/12/22/budget-2026-une-loi-speciale-pour-eviter-le-blocage-avant-de-nouvelles-negociations</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/budget-2026-une-loi-speciale-pour-eviter-le-blocage-avant-de-nouvelles-negociations</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Lyon : feu maîtrisé après une explosion sur un site chimique, confinement levé pour les riverains</title>
-      <link>https://fr.euronews.com/2025/12/22/france-plusieurs-blesses-apres-une-explosion-sur-un-site-chimique-classe-seveso-pres-de-ly</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/france-plusieurs-blesses-apres-une-explosion-sur-un-site-chimique-classe-seveso-pres-de-ly</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France :  Emmanuel Macron annonce la construction d'un nouveau porte-avions nucléaire</title>
-      <link>https://fr.euronews.com/2025/12/22/france-emmanuel-macron-annonce-la-construction-dun-nouveau-porte-avions-nucleaire</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/france-emmanuel-macron-annonce-la-construction-dun-nouveau-porte-avions-nucleaire</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
-      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
-      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
-      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
-      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
-      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
-      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
-      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
-      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
-      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
-      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
-      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
-      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France – Russie : un espoir pour Laurent Vinatier</title>
-      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
-      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France – Russie : un espoir pour Laurent Vinatier</title>
-      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
-      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France – Russie : un espoir pour Laurent Vinatier</title>
-      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
-      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
+      <title>Un groupe de cybercriminels prorusses revendique le piratage de La Poste</title>
+      <link>https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</guid>
+      <pubDate>Sat, 03 Jan 2026 20:00:00 +0100</pubDate>
     </item>
     <item>
       <title>France 2025 : pourquoi l’envie de partir atteint un niveau record</title>
       <link>https://fr.euronews.com/2025/12/24/france-2025-pourquoi-lenvie-de-partir-atteint-un-niveau-record</link>
       <guid isPermaLink="false">https://fr.euronews.com/2025/12/24/france-2025-pourquoi-lenvie-de-partir-atteint-un-niveau-record</guid>
-      <pubDate>Wed, 24 Dec 2025 19:00:00 +0100</pubDate>
+      <pubDate>Sat, 03 Jan 2026 20:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Un groupe de cybercriminels pro-russes revendique le piratage des services postaux français</title>
-      <link>https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</guid>
-      <pubDate>Wed, 24 Dec 2025 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Un groupe de cybercriminels pro-russes revendique le piratage des services postaux français</title>
-      <link>https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</guid>
-      <pubDate>Wed, 24 Dec 2025 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Un groupe de cybercriminels pro-russes revendique le piratage des services postaux français</title>
-      <link>https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/24/un-groupe-de-cybercriminels-pro-russes-revendique-le-piratage-des-services-postaux-francai</guid>
-      <pubDate>Wed, 24 Dec 2025 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
-      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
-      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
-      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
-      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
-      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
-      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Cyberattaque contre le ministère de l'Intérieur : Laurent Nuñez annonce l'ouverture de deux enquêtes</title>
-      <link>https://fr.euronews.com/2025/12/17/cyberattaque-contre-le-ministere-de-linterieur-laurent-nunez-annonce-louverture-de-deux-en</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/17/cyberattaque-contre-le-ministere-de-linterieur-laurent-nunez-annonce-louverture-de-deux-en</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dermatose : la colère des agriculteurs prend de l’ampleur</title>
-      <link>https://fr.euronews.com/2025/12/17/dermatose-la-colere-des-agriculteurs-prend-de-lampleur</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/17/dermatose-la-colere-des-agriculteurs-prend-de-lampleur</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L’anesthésiste Frédéric Péchier condamné à la réclusion criminelle à perpétuité</title>
-      <link>https://fr.euronews.com/2025/12/18/lanesthesiste-frederic-pechier-condamne-a-la-reclusion-criminelle-a-perpetuite</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/18/lanesthesiste-frederic-pechier-condamne-a-la-reclusion-criminelle-a-perpetuite</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deux nouveaux cas d'enfants tondus dans un foyer de l’ASE : la mairie de Paris saisit la justice</title>
-      <link>https://fr.euronews.com/2025/12/18/deux-nouveaux-cas-denfants-tondus-dans-un-foyer-de-lase-la-mairie-de-paris-saisit-la-justi</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/18/deux-nouveaux-cas-denfants-tondus-dans-un-foyer-de-lase-la-mairie-de-paris-saisit-la-justi</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Un nouveau congé de naissance dès 2026 en France</title>
-      <link>https://fr.euronews.com/2025/12/19/un-nouveau-conge-de-naissance-des-2026-en-france</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/19/un-nouveau-conge-de-naissance-des-2026-en-france</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Budget 2026 : le conclave réunissant députés et sénateurs échoue</title>
-      <link>https://fr.euronews.com/2025/12/19/budget-2026-le-conclave-reunissant-deputes-et-senateurs-echoue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/19/budget-2026-le-conclave-reunissant-deputes-et-senateurs-echoue</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ajaccio : un homme armé d'un couteau abattu par la police</title>
-      <link>https://fr.euronews.com/2025/12/20/ajaccio-un-homme-arme-dun-couteau-abattu-par-la-police</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/20/ajaccio-un-homme-arme-dun-couteau-abattu-par-la-police</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Possible reprise du dialogue Macron-Poutine sur l'Ukraine : l'Élysée réfléchit à des "modalités"</title>
-      <link>https://fr.euronews.com/2025/12/21/possible-reprise-du-dialogue-macron-poutine-sur-lukraine-lelysee-reflechit-a-des-modalites</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/21/possible-reprise-du-dialogue-macron-poutine-sur-lukraine-lelysee-reflechit-a-des-modalites</guid>
-      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
-      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
-      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
-      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
-      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
-      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
-      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vivre plus longtemps en France : une question de niveau de vie ?</title>
-      <link>https://fr.euronews.com/2025/12/23/vivre-plus-longtemps-en-france-une-question-de-niveau-de-vie</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/vivre-plus-longtemps-en-france-une-question-de-niveau-de-vie</guid>
+      <title>Sébastien Lecornu : "Il faut un budget en janvier"</title>
+      <link>https://fr.euronews.com/2025/12/23/budget-francais-la-loi-speciale-votee-par-lassemblee-nationale-sebastien-lecornu-va-sexpri</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/budget-francais-la-loi-speciale-votee-par-lassemblee-nationale-sebastien-lecornu-va-sexpri</guid>
       <pubDate>Fri, 02 Jan 2026 19:00:00 +0100</pubDate>
     </item>
     <item>
@@ -206,10 +32,172 @@
       <pubDate>Fri, 02 Jan 2026 19:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Sébastien Lecornu : "Il faut un budget en janvier"</title>
-      <link>https://fr.euronews.com/2025/12/23/budget-francais-la-loi-speciale-votee-par-lassemblee-nationale-sebastien-lecornu-va-sexpri</link>
-      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/budget-francais-la-loi-speciale-votee-par-lassemblee-nationale-sebastien-lecornu-va-sexpri</guid>
+      <title>Vivre plus longtemps en France : une question de niveau de vie ?</title>
+      <link>https://fr.euronews.com/2025/12/23/vivre-plus-longtemps-en-france-une-question-de-niveau-de-vie</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/vivre-plus-longtemps-en-france-une-question-de-niveau-de-vie</guid>
       <pubDate>Fri, 02 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
+      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
+      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'Arc de Triomphe "hacké" : un appel à "sauver des vies" sur les routes</title>
+      <link>https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2026/01/01/larc-de-triomphe-hacke-un-appel-a-sauver-des-vies-sur-les-routes</guid>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Possible reprise du dialogue Macron-Poutine sur l'Ukraine : l'Élysée réfléchit à des "modalités"</title>
+      <link>https://fr.euronews.com/2025/12/21/possible-reprise-du-dialogue-macron-poutine-sur-lukraine-lelysee-reflechit-a-des-modalites</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/21/possible-reprise-du-dialogue-macron-poutine-sur-lukraine-lelysee-reflechit-a-des-modalites</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ajaccio : un homme armé d'un couteau abattu par la police</title>
+      <link>https://fr.euronews.com/2025/12/20/ajaccio-un-homme-arme-dun-couteau-abattu-par-la-police</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/20/ajaccio-un-homme-arme-dun-couteau-abattu-par-la-police</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Budget 2026 : le conclave réunissant députés et sénateurs échoue</title>
+      <link>https://fr.euronews.com/2025/12/19/budget-2026-le-conclave-reunissant-deputes-et-senateurs-echoue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/19/budget-2026-le-conclave-reunissant-deputes-et-senateurs-echoue</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Un nouveau congé de naissance dès 2026 en France</title>
+      <link>https://fr.euronews.com/2025/12/19/un-nouveau-conge-de-naissance-des-2026-en-france</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/19/un-nouveau-conge-de-naissance-des-2026-en-france</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deux nouveaux cas d'enfants tondus dans un foyer de l’ASE : la mairie de Paris saisit la justice</title>
+      <link>https://fr.euronews.com/2025/12/18/deux-nouveaux-cas-denfants-tondus-dans-un-foyer-de-lase-la-mairie-de-paris-saisit-la-justi</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/18/deux-nouveaux-cas-denfants-tondus-dans-un-foyer-de-lase-la-mairie-de-paris-saisit-la-justi</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L’anesthésiste Frédéric Péchier condamné à la réclusion criminelle à perpétuité</title>
+      <link>https://fr.euronews.com/2025/12/18/lanesthesiste-frederic-pechier-condamne-a-la-reclusion-criminelle-a-perpetuite</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/18/lanesthesiste-frederic-pechier-condamne-a-la-reclusion-criminelle-a-perpetuite</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dermatose : la colère des agriculteurs prend de l’ampleur</title>
+      <link>https://fr.euronews.com/2025/12/17/dermatose-la-colere-des-agriculteurs-prend-de-lampleur</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/17/dermatose-la-colere-des-agriculteurs-prend-de-lampleur</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Cyberattaque contre le ministère de l'Intérieur : Laurent Nuñez annonce l'ouverture de deux enquêtes</title>
+      <link>https://fr.euronews.com/2025/12/17/cyberattaque-contre-le-ministere-de-linterieur-laurent-nunez-annonce-louverture-de-deux-en</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/17/cyberattaque-contre-le-ministere-de-linterieur-laurent-nunez-annonce-louverture-de-deux-en</guid>
+      <pubDate>Wed, 31 Dec 2025 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
+      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
+      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
+      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
+      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France : trois femmes poignardées dans le métro parisien, leur agresseur arrêté</title>
+      <link>https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/26/france-trois-femmes-poignardees-dans-le-metro-parisien-leur-agresseur-arrete</guid>
+      <pubDate>Fri, 26 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France – Russie : un espoir pour Laurent Vinatier</title>
+      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
+      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France – Russie : un espoir pour Laurent Vinatier</title>
+      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
+      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France – Russie : un espoir pour Laurent Vinatier</title>
+      <link>https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/25/france-russie-un-espoir-pour-laurent-vinatier</guid>
+      <pubDate>Thu, 25 Dec 2025 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
+      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
+      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
+      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
+      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Attaque au couteau dans le métro parisien : l’assaillant interpellé</title>
+      <link>https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/27/attaque-au-couteau-dans-le-metro-parisien-lassaillant-interpelle</guid>
+      <pubDate>Sat, 27 Dec 2025 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
+      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
+      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
+      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
+      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine, agriculteurs, réseaux sociaux : les vœux d'Emmanuel Macron pour 2026</title>
+      <link>https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/31/ukraine-agriculteurs-reseaux-sociaux-les-voeux-demmanuel-macron-pour-2026</guid>
+      <pubDate>Wed, 31 Dec 2025 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>France :  Emmanuel Macron annonce la construction d'un nouveau porte-avions nucléaire</title>
+      <link>https://fr.euronews.com/2025/12/22/france-emmanuel-macron-annonce-la-construction-dun-nouveau-porte-avions-nucleaire</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/france-emmanuel-macron-annonce-la-construction-dun-nouveau-porte-avions-nucleaire</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lyon : feu maîtrisé après une explosion sur un site chimique, confinement levé pour les riverains</title>
+      <link>https://fr.euronews.com/2025/12/22/france-plusieurs-blesses-apres-une-explosion-sur-un-site-chimique-classe-seveso-pres-de-ly</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/france-plusieurs-blesses-apres-une-explosion-sur-un-site-chimique-classe-seveso-pres-de-ly</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Budget français : une loi spéciale pour éviter le blocage avant de nouvelles négociations</title>
+      <link>https://fr.euronews.com/2025/12/22/budget-2026-une-loi-speciale-pour-eviter-le-blocage-avant-de-nouvelles-negociations</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/22/budget-2026-une-loi-speciale-pour-eviter-le-blocage-avant-de-nouvelles-negociations</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Explosion d'un site Seveso près de Lyon : l'un des blessés n'a pas survécu</title>
+      <link>https://fr.euronews.com/2025/12/23/explosion-dans-une-usine-chimique-pres-de-lyon-le-pronostic-vital-dun-blesse-toujours-enga</link>
+      <guid isPermaLink="false">https://fr.euronews.com/2025/12/23/explosion-dans-une-usine-chimique-pres-de-lyon-le-pronostic-vital-dun-blesse-toujours-enga</guid>
+      <pubDate>Fri, 02 Jan 2026 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
