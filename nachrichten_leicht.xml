@@ -6,173 +6,47 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 16:00:03 +0000</lastBuildDate>
     <item>
-      <title>Sorge in Grönland vor Militär-Einsatz von den USA</title>
-      <link>https://www.nachrichtenleicht.de/groenland-usa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-usa-100.html</guid>
-      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
+      <title>Stief-Schwester von Anne Frank gestorben</title>
+      <link>https://www.nachrichtenleicht.de/eva-schloss-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eva-schloss-104.html</guid>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Züge in Deutschland sind sehr unpünktlich</title>
-      <link>https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</guid>
-      <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
+      <title>Rekord bei Sonnen-Energie in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</guid>
+      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Links-Extremisten sollen Schuld sein am Strom-Ausfall in Berlin</title>
-      <link>https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</guid>
-      <pubDate>Sun, 04 Jan 2026 14:00:00 +0100</pubDate>
+      <title>Regierung im Iran stört das Internet</title>
+      <link>https://www.nachrichtenleicht.de/iran-internet-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-internet-100.html</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>4 Millionen Unterschriften für Böller-Verbot</title>
-      <link>https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</guid>
-      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
+      <title>Was haben die USA in Venezuela vor?</title>
+      <link>https://www.nachrichtenleicht.de/venezuela-usa-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/venezuela-usa-106.html</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
-      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</guid>
-      <pubDate>Fri, 02 Jan 2026 12:00:00 +0100</pubDate>
+      <title>Der Strom in Deutschland könnte bald billiger werden</title>
+      <link>https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</guid>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Soldaten von dem Land USA verhaften den Präsidenten von dem Land Venezuela</title>
+      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</guid>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Neujahrs-Baden an vielen Orten</title>
-      <link>https://www.nachrichtenleicht.de/neujahrs-baden-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neujahrs-baden-102.html</guid>
-      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Menschen auf der ganzen Welt feiern Silvester</title>
-      <link>https://www.nachrichtenleicht.de/silvester-weltweit-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/silvester-weltweit-102.html</guid>
-      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"Das Kanu des Manitu" ist der erfolgreichste Kino-Film des Jahres</title>
-      <link>https://www.nachrichtenleicht.de/kino-kanu-des-manitu-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-kanu-des-manitu-102.html</guid>
-      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Leon Weintraub wird 100 Jahre alt</title>
-      <link>https://www.nachrichtenleicht.de/leon-weintraub-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/leon-weintraub-102.html</guid>
-      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Was sind die "Epstein-Files"?</title>
-      <link>https://www.nachrichtenleicht.de/epstein-files-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-files-104.html</guid>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>9 gute Nachrichten aus dem Jahr 2025 - in einfacher Sprache</title>
-      <link>https://www.nachrichtenleicht.de/9-gute-nachrichten-aus-2025-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/9-gute-nachrichten-aus-2025-100.html</guid>
-      <pubDate>Wed, 31 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Das Wetter auf der Welt wird immer extremer</title>
-      <link>https://www.nachrichtenleicht.de/extremwetter-2025-klima-wandel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/extremwetter-2025-klima-wandel-100.html</guid>
-      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sollen Patienten beim Arzt eine Gebühr zahlen?</title>
-      <link>https://www.nachrichtenleicht.de/arzt-gebuehr-idee-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/arzt-gebuehr-idee-100.html</guid>
-      <pubDate>Tue, 30 Dec 2025 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"Es gibt 2 große Vorurteile über Menschen mit Behinderung"</title>
-      <link>https://www.nachrichtenleicht.de/behinderung-dusel-vorurteile-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/behinderung-dusel-vorurteile-100.html</guid>
-      <pubDate>Mon, 29 Dec 2025 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viel Kritik an Wahl in Myanmar</title>
-      <link>https://www.nachrichtenleicht.de/myanmar-wahl-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/myanmar-wahl-100.html</guid>
-      <pubDate>Sun, 28 Dec 2025 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Brigitte Bardot mit 91 gestorben</title>
-      <link>https://www.nachrichtenleicht.de/bardot-tod-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bardot-tod-100.html</guid>
-      <pubDate>Sun, 28 Dec 2025 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Einigen Tier-Arten geht es besser</title>
-      <link>https://www.nachrichtenleicht.de/wwf-bericht-artenschutz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wwf-bericht-artenschutz-100.html</guid>
-      <pubDate>Sun, 28 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Die Post in Dänemark bringt keine Briefe mehr</title>
-      <link>https://www.nachrichtenleicht.de/briefe-daenemark-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/briefe-daenemark-100.html</guid>
-      <pubDate>Mon, 29 Dec 2025 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Russland behauptet: Die Ukraine hat ein Haus von Präsident Putin angegriffen</title>
-      <link>https://www.nachrichtenleicht.de/meldung-putin-ukraine-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-putin-ukraine-100.html</guid>
-      <pubDate>Mon, 29 Dec 2025 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nvidia ist jetzt die wertvollste Firma der Welt</title>
-      <link>https://www.nachrichtenleicht.de/nvidia-wertvollstes-unternehmen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nvidia-wertvollstes-unternehmen-100.html</guid>
-      <pubDate>Tue, 30 Dec 2025 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>China hat einen Krieg gegen Taiwan geübt</title>
-      <link>https://www.nachrichtenleicht.de/taiwan-china-116.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/taiwan-china-116.html</guid>
-      <pubDate>Wed, 31 Dec 2025 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Richter-Bund: Es gibt so viele unerledigte Kriminal-Fälle wie noch nie</title>
-      <link>https://www.nachrichtenleicht.de/justiz-ist-ueberlastet-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/justiz-ist-ueberlastet-100.html</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Menschen in den Niederlanden dürfen zum letzten Mal selbst Feuerwerk machen</title>
-      <link>https://www.nachrichtenleicht.de/feuerwerk-niederlande-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/feuerwerk-niederlande-100.html</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Präsident Steinmeier ruft zu Zuversicht auf</title>
-      <link>https://www.nachrichtenleicht.de/weihnachts-rede-steinmeier-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weihnachts-rede-steinmeier-100.html</guid>
-      <pubDate>Thu, 01 Jan 2026 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>150 Millionen Anfragen für WM-Tickets</title>
-      <link>https://www.nachrichtenleicht.de/wm-tickets-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wm-tickets-102.html</guid>
-      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Proteste wegen Wirtschafts-Krise</title>
-      <link>https://www.nachrichtenleicht.de/proteste-iran-124.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/proteste-iran-124.html</guid>
-      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Streit über Eis-Bach-Welle</title>
-      <link>https://www.nachrichtenleicht.de/eisbach-welle-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eisbach-welle-104.html</guid>
-      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
-      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-104.html</guid>
+      <link>https://www.nachrichtenleicht.de/neujahrs-baden-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neujahrs-baden-100.html</guid>
       <pubDate>Fri, 02 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
@@ -182,40 +56,166 @@
       <pubDate>Fri, 02 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Neujahrs-Baden an vielen Orten</title>
-      <link>https://www.nachrichtenleicht.de/neujahrs-baden-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neujahrs-baden-100.html</guid>
+      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
+      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-104.html</guid>
       <pubDate>Fri, 02 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Soldaten von dem Land USA verhaften den Präsidenten von dem Land Venezuela</title>
-      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</guid>
-      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
+      <title>Streit über Eis-Bach-Welle</title>
+      <link>https://www.nachrichtenleicht.de/eisbach-welle-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eisbach-welle-104.html</guid>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Der Strom in Deutschland könnte bald billiger werden</title>
-      <link>https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</guid>
-      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
+      <title>Proteste wegen Wirtschafts-Krise</title>
+      <link>https://www.nachrichtenleicht.de/proteste-iran-124.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/proteste-iran-124.html</guid>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Was haben die USA in Venezuela vor?</title>
-      <link>https://www.nachrichtenleicht.de/venezuela-usa-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/venezuela-usa-106.html</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+      <title>150 Millionen Anfragen für WM-Tickets</title>
+      <link>https://www.nachrichtenleicht.de/wm-tickets-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wm-tickets-102.html</guid>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Regierung im Iran stört das Internet</title>
-      <link>https://www.nachrichtenleicht.de/iran-internet-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-internet-100.html</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+      <title>Bundes-Präsident Steinmeier ruft zu Zuversicht auf</title>
+      <link>https://www.nachrichtenleicht.de/weihnachts-rede-steinmeier-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weihnachts-rede-steinmeier-100.html</guid>
+      <pubDate>Thu, 01 Jan 2026 13:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rekord bei Sonnen-Energie in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</guid>
-      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
+      <title>Menschen in den Niederlanden dürfen zum letzten Mal selbst Feuerwerk machen</title>
+      <link>https://www.nachrichtenleicht.de/feuerwerk-niederlande-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/feuerwerk-niederlande-100.html</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Richter-Bund: Es gibt so viele unerledigte Kriminal-Fälle wie noch nie</title>
+      <link>https://www.nachrichtenleicht.de/justiz-ist-ueberlastet-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/justiz-ist-ueberlastet-100.html</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>China hat einen Krieg gegen Taiwan geübt</title>
+      <link>https://www.nachrichtenleicht.de/taiwan-china-116.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/taiwan-china-116.html</guid>
+      <pubDate>Wed, 31 Dec 2025 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nvidia ist jetzt die wertvollste Firma der Welt</title>
+      <link>https://www.nachrichtenleicht.de/nvidia-wertvollstes-unternehmen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nvidia-wertvollstes-unternehmen-100.html</guid>
+      <pubDate>Tue, 30 Dec 2025 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Russland behauptet: Die Ukraine hat ein Haus von Präsident Putin angegriffen</title>
+      <link>https://www.nachrichtenleicht.de/meldung-putin-ukraine-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-putin-ukraine-100.html</guid>
+      <pubDate>Mon, 29 Dec 2025 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Post in Dänemark bringt keine Briefe mehr</title>
+      <link>https://www.nachrichtenleicht.de/briefe-daenemark-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/briefe-daenemark-100.html</guid>
+      <pubDate>Mon, 29 Dec 2025 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Einigen Tier-Arten geht es besser</title>
+      <link>https://www.nachrichtenleicht.de/wwf-bericht-artenschutz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wwf-bericht-artenschutz-100.html</guid>
+      <pubDate>Sun, 28 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viel Kritik an Wahl in Myanmar</title>
+      <link>https://www.nachrichtenleicht.de/myanmar-wahl-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/myanmar-wahl-100.html</guid>
+      <pubDate>Sun, 28 Dec 2025 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Es gibt 2 große Vorurteile über Menschen mit Behinderung"</title>
+      <link>https://www.nachrichtenleicht.de/behinderung-dusel-vorurteile-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/behinderung-dusel-vorurteile-100.html</guid>
+      <pubDate>Mon, 29 Dec 2025 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sollen Patienten beim Arzt eine Gebühr zahlen?</title>
+      <link>https://www.nachrichtenleicht.de/arzt-gebuehr-idee-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/arzt-gebuehr-idee-100.html</guid>
+      <pubDate>Tue, 30 Dec 2025 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Das Wetter auf der Welt wird immer extremer</title>
+      <link>https://www.nachrichtenleicht.de/extremwetter-2025-klima-wandel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/extremwetter-2025-klima-wandel-100.html</guid>
+      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>9 gute Nachrichten aus dem Jahr 2025 - in einfacher Sprache</title>
+      <link>https://www.nachrichtenleicht.de/9-gute-nachrichten-aus-2025-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/9-gute-nachrichten-aus-2025-100.html</guid>
+      <pubDate>Wed, 31 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Was sind die "Epstein-Files"?</title>
+      <link>https://www.nachrichtenleicht.de/epstein-files-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-files-104.html</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Leon Weintraub wird 100 Jahre alt</title>
+      <link>https://www.nachrichtenleicht.de/leon-weintraub-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/leon-weintraub-102.html</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Das Kanu des Manitu" ist der erfolgreichste Kino-Film des Jahres</title>
+      <link>https://www.nachrichtenleicht.de/kino-kanu-des-manitu-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-kanu-des-manitu-102.html</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Menschen auf der ganzen Welt feiern Silvester</title>
+      <link>https://www.nachrichtenleicht.de/silvester-weltweit-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/silvester-weltweit-102.html</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Neujahrs-Baden an vielen Orten</title>
+      <link>https://www.nachrichtenleicht.de/neujahrs-baden-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neujahrs-baden-102.html</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
+      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</guid>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>4 Millionen Unterschriften für Böller-Verbot</title>
+      <link>https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</guid>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Links-Extremisten sollen Schuld sein am Strom-Ausfall in Berlin</title>
+      <link>https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</guid>
+      <pubDate>Sun, 04 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Züge in Deutschland sind sehr unpünktlich</title>
+      <link>https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</guid>
+      <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sorge in Grönland vor Militär-Einsatz von den USA</title>
+      <link>https://www.nachrichtenleicht.de/groenland-usa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-usa-100.html</guid>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
