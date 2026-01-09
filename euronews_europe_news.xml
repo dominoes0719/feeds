@@ -6,533 +6,125 @@
     <description>Euronews Europe News</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 16:00:06 +0000</lastBuildDate>
-    <item>
-      <title>Les cinq séquences les plus marquantes au Parlement européen en 2025</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/29/les-cinq-sequences-les-plus-marquantes-au-parlement-europeen-en-2025</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/29/les-cinq-sequences-les-plus-marquantes-au-parlement-europeen-en-2025</guid>
-      <pubDate>Thu, 08 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mercosur : le Parlement adopte des mesures de protections pour les agriculteurs</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/mercosur-le-parlement-adopte-des-mesures-de-protections-pour-les-agriculteurs</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/mercosur-le-parlement-adopte-des-mesures-de-protections-pour-les-agriculteurs</guid>
-      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La Commission européenne fait monter la pression sur la France au sujet de l'accord avec le Mercosur</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/15/la-commission-europeenne-fait-monter-la-pression-sur-la-france-au-sujet-de-laccord-avec-le</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/la-commission-europeenne-fait-monter-la-pression-sur-la-france-au-sujet-de-laccord-avec-le</guid>
-      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
-      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
-      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
-      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Exclusif : Éva Kaïlí dénonce le "Belgiumgate" après une nouvelle vague de scandales à Bruxelles</title>
-      <link>https://fr.euronews.com/video/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</guid>
-      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
-      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
-      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
-      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Comment le prêt de réparations à l'Ukraine s'est effondré à la dernière minute</title>
-      <link>https://fr.euronews.com/video/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</guid>
-      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L’UE échoue à trouver un accord sur l’utilisation des avoirs russes pour l’Ukraine</title>
-      <link>https://fr.euronews.com/video/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</guid>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Le Royaume-Uni va réintégrer Erasmus en 2027</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</guid>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Régularisation de la tech : Washington interdit de visa Thierry Breton et quatre autres personnes</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/24/washington-interdit-de-visa-thierry-breton-et-quatre-autres-personnes-condamnation-unanime</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/24/washington-interdit-de-visa-thierry-breton-et-quatre-autres-personnes-condamnation-unanime</guid>
-      <pubDate>Sat, 03 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Groenland : les dirigeants européens affichent leur solidarité avec le Danemark face à la menace de Donald Trump</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/23/groenland-les-dirigeants-europeens-affichent-leur-solidarite-avec-le-danemark-face-a-la-me</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/groenland-les-dirigeants-europeens-affichent-leur-solidarite-avec-le-danemark-face-a-la-me</guid>
-      <pubDate>Fri, 02 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'UE veut mettre fin à l'ère des vetos nationaux... mais c'est compliqué</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/23/lue-veut-mettre-fin-a-lere-des-vetos-nationaux-mais-cest-complique</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/lue-veut-mettre-fin-a-lere-des-vetos-nationaux-mais-cest-complique</guid>
-      <pubDate>Fri, 02 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Quelles seront les conséquences de l'adhésion à la zone euro pour l'économie bulgare ?</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/01/quelles-seront-les-consequences-de-ladhesion-a-la-zone-euro-pour-leconomie-bulgare</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/quelles-seront-les-consequences-de-ladhesion-a-la-zone-euro-pour-leconomie-bulgare</guid>
-      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Le Royaume-Uni va réintégrer Erasmus en 2027</title>
-      <link>https://fr.euronews.com/video/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</guid>
-      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La signature de l'accord UE-Mercosur est "prématurée", selon Giorgia Meloni</title>
-      <link>https://fr.euronews.com/video/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</guid>
-      <pubDate>Tue, 30 Dec 2025 21:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
-      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
-      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
-      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Aide à l'Ukraine, accord avec le Mercosur : l'UE face à son sommet "crucial" pour son avenir</title>
-      <link>https://fr.euronews.com/video/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</guid>
-      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
-      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
-      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
-      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
-      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Un plan de 1,2 milliard d'euros pour moderniser le réseau électrique de l'Union européenne</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/08/un-plan-de-12-milliard-deuros-pour-moderniser-le-reseau-electrique-de-lunion-europeenne</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/un-plan-de-12-milliard-deuros-pour-moderniser-le-reseau-electrique-de-lunion-europeenne</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"L'unité" entre l'Europe, l'Ukraine et Washington est "très importante", dit Volodymyr Zelensky</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/08/lunite-entre-leurope-lukraine-et-washington-est-tres-importante-dit-volodymyr-zelensky</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/lunite-entre-leurope-lukraine-et-washington-est-tres-importante-dit-volodymyr-zelensky</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Les pays de l'UE intensifient les expulsions en signant un nouvel accord sur les centres de retour</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/08/les-pays-de-lue-intensifient-les-expulsions-en-signant-un-nouvel-accord-sur-les-centres-de</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/les-pays-de-lue-intensifient-les-expulsions-en-signant-un-nouvel-accord-sur-les-centres-de</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Antonio Costa répond à Donald Trump : "On respecte la souveraineté des uns et des autres"</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/09/antonio-costa-repond-a-donald-trump-on-respecte-la-souverainete-des-uns-et-des-autres</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/09/antonio-costa-repond-a-donald-trump-on-respecte-la-souverainete-des-uns-et-des-autres</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'Allemagne élabore des plans pour adapter son espace aérien en cas d'attaque</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/10/lallemagne-elabore-des-plans-pour-adapter-son-espace-aerien-en-cas-dattaque</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/lallemagne-elabore-des-plans-pour-adapter-son-espace-aerien-en-cas-dattaque</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump s'en prend à l'UE, quid de l'avenir des relations transatlantiques ?</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/10/les-etats-unis-critiquent-lue-dans-une-attaque-sans-precedent-alors-que-le-bloc-reflechit-</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/les-etats-unis-critiquent-lue-dans-une-attaque-sans-precedent-alors-que-le-bloc-reflechit-</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraine : à l'approche de l'échéance finale, des doutes sur le prêt de réparation</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/10/ukraine-a-lapproche-de-lecheance-finale-des-doutes-sur-le-pret-de-reparation</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/ukraine-a-lapproche-de-lecheance-finale-des-doutes-sur-le-pret-de-reparation</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>A Lisbonne, les Verts européens défendent l'action sur le logement et se solidarisent avec la grève générale</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/10/a-lisbonne-les-verts-europeens-defendent-laction-sur-le-logement-et-se-solidarisent-avec-l</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/a-lisbonne-les-verts-europeens-defendent-laction-sur-le-logement-et-se-solidarisent-avec-l</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'accord commercial UE-Mercosur en suspens dans la dernière ligne droite</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/laccord-commercial-ue-mercosur-en-suspens-dans-la-derniere-ligne-droite</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/laccord-commercial-ue-mercosur-en-suspens-dans-la-derniere-ligne-droite</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"Les drogues sont partout", avertit Alexis Goosdeel, directeur de l'Agence européenne sur les drogues</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/les-drogues-sont-partout-avertit-alexis-goosdeel-directeur-de-lagence-europeenne-sur-les-d</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/les-drogues-sont-partout-avertit-alexis-goosdeel-directeur-de-lagence-europeenne-sur-les-d</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Italie : des flashmobs organisés par les soignants en soutien à leur confrères à Gaza</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/italie-des-flashmobs-organises-par-les-soignants-en-soutien-a-leur-confreres-a-gaza</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/italie-des-flashmobs-organises-par-les-soignants-en-soutien-a-leur-confreres-a-gaza</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Portugal: grève générale contre la réforme du code du travail du gouvernement</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/portugal-greve-generale-contre-la-reforme-du-code-du-travail-du-gouvernement</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/portugal-greve-generale-contre-la-reforme-du-code-du-travail-du-gouvernement</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraine–UE : accord sur un plan d'action pour accélérer l’adhésion malgré le veto de la Hongrie</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/ukraineue-accord-sur-un-plan-daction-pour-accelerer-ladhesion-malgre-le-veto-de-la-hongrie</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/ukraineue-accord-sur-un-plan-daction-pour-accelerer-ladhesion-malgre-le-veto-de-la-hongrie</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Aleksandar Vučić affirme avoir reçu un message de Moscou pour l'UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/11/aleksandar-vucic-affirme-avoir-recu-un-message-de-moscou-pour-lue</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/aleksandar-vucic-affirme-avoir-recu-un-message-de-moscou-pour-lue</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"L'immigration reste une opportunité pour l'Europe", assure le ministre espagnol de l'Économie à Euronews</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/12/la-migration-reste-une-opportunite-pour-leurope-assure-le-ministre-espagnol-de-leconomie-a</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/la-migration-reste-une-opportunite-pour-leurope-assure-le-ministre-espagnol-de-leconomie-a</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'UE déclenche une clause d'urgence pour immobiliser les actifs russes pour une durée indéterminée</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/12/lue-declenche-une-clause-durgence-pour-immobiliser-les-actifs-russes-pour-une-duree-indete</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/lue-declenche-une-clause-durgence-pour-immobiliser-les-actifs-russes-pour-une-duree-indete</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La coalition des volontaires appelle à l'unité transatlantique pour l'Ukraine</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/12/la-coalition-des-volontaires-appelle-a-lunite-transatlantique-pour-lukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/la-coalition-des-volontaires-appelle-a-lunite-transatlantique-pour-lukraine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Le ministre grec des Finances Kyriakos Pierrakakis élu président de l'Eurogroupe</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/12/le-ministre-grec-des-finances-kyriakos-pierrakakis-elu-president-de-leurogroupe</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/le-ministre-grec-des-finances-kyriakos-pierrakakis-elu-president-de-leurogroupe</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>En bloquant définitivement les actifs russes, l'UE joue enfin la carte de la fermeté</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/13/en-bloquant-definitivement-les-actifs-russes-lue-joue-enfin-la-carte-de-la-fermete</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/en-bloquant-definitivement-les-actifs-russes-lue-joue-enfin-la-carte-de-la-fermete</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'UE rejette les poursuites engagées par la Russie contre Euroclear : "spéculatives" et sans fondement</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/13/lue-rejette-les-poursuites-engagees-par-la-russie-contre-euroclear-speculatives-et-sans-fo</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/lue-rejette-les-poursuites-engagees-par-la-russie-contre-euroclear-speculatives-et-sans-fo</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 07:00:05 +0000</lastBuildDate>
     <item>
-      <title>Les pays de l'UE s'accordent sur un droit de douane forfaitaire temporaire de 3 euros pour les petits colis importés</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/13/les-pays-de-lue-saccordent-sur-un-droit-de-douane-forfaitaire-temporaire-de-3-euros-pour-l</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/les-pays-de-lue-saccordent-sur-un-droit-de-douane-forfaitaire-temporaire-de-3-euros-pour-l</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Analyse : du Venezuela au Groenland, l'UE s'efforce de trouver une voix et un projet</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</guid>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Comment le Parlement européen peut encore faire échouer l'accord UE-Mercosur</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/13/comment-le-parlement-europeen-peut-encore-faire-echouer-laccord-ue-mercosur</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/comment-le-parlement-europeen-peut-encore-faire-echouer-laccord-ue-mercosur</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Analyse : du Venezuela au Groenland, l'UE s'efforce de trouver une voix et un projet</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</guid>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ukraine : le prêt pour les réparations fait l'objet de "pressions de toutes parts"</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/15/ukraine-le-pret-pour-les-reparations-fait-lobjet-de-pressions-de-toutes-parts</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/ukraine-le-pret-pour-les-reparations-fait-lobjet-de-pressions-de-toutes-parts</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Analyse : du Venezuela au Groenland, l'UE s'efforce de trouver une voix et un projet</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/09/analyse-du-venezuela-au-groenland-lue-sefforce-de-trouver-une-voix-et-un-projet</guid>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Les Européens proposent une "force multinationale" dirigée par l'Europe en Ukraine</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/15/les-europeens-proposent-une-force-multinationale-dirigee-par-leurope-en-ukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/les-europeens-proposent-une-force-multinationale-dirigee-par-leurope-en-ukraine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Paris votera "non" au Mercosur, au risque d'un revers diplomatique majeur pour Macron</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/09/paris-votera-non-au-mercosur-au-risque-dun-revers-diplomatique-majeur-pour-macron</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/09/paris-votera-non-au-mercosur-au-risque-dun-revers-diplomatique-majeur-pour-macron</guid>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Emmanuel Macron annonce une augmentation de l’amende forfaitaire pour les consommateurs de drogue</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/emmanuel-macron-annonce-une-augmentation-de-lamende-forfaitaire-pour-les-consommateurs-de-</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/emmanuel-macron-annonce-une-augmentation-de-lamende-forfaitaire-pour-les-consommateurs-de-</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L’UE renonce au tout-électrique pour 2035</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/lue-renonce-au-tout-electrique-pour-2035</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/lue-renonce-au-tout-electrique-pour-2035</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Budget de la Sécurité sociale : le Parlement adopte définitivement le texte pour 2026</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/budget-de-la-securite-sociale-le-parlement-adopte-definitivement-le-texte-pour-2026</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/budget-de-la-securite-sociale-le-parlement-adopte-definitivement-le-texte-pour-2026</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Les dirigeants d'Europe de l'Est appellent à un renforcement de la défense sur le flanc oriental de l'UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/les-dirigeants-deurope-de-lest-appellent-a-un-renforcement-de-la-defense-sur-le-flanc-orie</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/les-dirigeants-deurope-de-lest-appellent-a-un-renforcement-de-la-defense-sur-le-flanc-orie</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rétractation de Z. Takieddine : procès requis contre N. Sarkozy, C. Bruni-Sarkozy et "Mimi" Marchand</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/retractation-de-z-takieddine-proces-requis-contre-n-sarkozy-c-bruni-sarkozy-et-mimi-marcha</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/retractation-de-z-takieddine-proces-requis-contre-n-sarkozy-c-bruni-sarkozy-et-mimi-marcha</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE va réviser les règles en matière d'aides d'État pour faire face à la crise européenne du logement</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/16/lue-va-reviser-les-regles-en-matiere-daides-detat-pour-faire-face-a-la-crise-europeenne-du</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/lue-va-reviser-les-regles-en-matiere-daides-detat-pour-faire-face-a-la-crise-europeenne-du</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Prêt de réparation pour l'Ukraine : qui est pour, qui est contre ?</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/17/pret-de-reparation-pour-lukraine-qui-est-pour-qui-est-contre</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/pret-de-reparation-pour-lukraine-qui-est-pour-qui-est-contre</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Les dirigeants de l'UE débattent d'une version révisée du prêt de réparations à l'Ukraine</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/18/les-dirigeants-de-lue-reunis-pour-debloquer-le-pret-de-reparation-pour-lukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/les-dirigeants-de-lue-reunis-pour-debloquer-le-pret-de-reparation-pour-lukraine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>"Nous devons donner à l'Ukraine les moyens de survivre à la guerre", déclare le Premier ministre luxembourgeois à Euronews</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Le vote sur l'accord commercial UE-Mercosur est reporté à janvier, selon un responsable de l'UE</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/18/le-vote-sur-laccord-commercial-ue-mercosur-est-reporte-a-janvier-selon-un-responsable-de-l</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/le-vote-sur-laccord-commercial-ue-mercosur-est-reporte-a-janvier-selon-un-responsable-de-l</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE va émettre 90 milliards d'euros de dette commune pour l'Ukraine</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/19/lue-va-emettre-90-milliards-deuros-de-dette-commune-pour-lukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/lue-va-emettre-90-milliards-deuros-de-dette-commune-pour-lukraine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L’UE échoue à trouver un accord sur l’utilisation des avoirs russes pour l’Ukraine</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
     </item>
     <item>
       <title>"Une perte immense" : les collègues du professeur Nuno Loureiro sous le choc après sa mort par balle</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <link>https://fr.euronews.com/video/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</guid>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Comment le prêt de réparations à l'Ukraine s'est effondré à la dernière minute</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE prévoit de lever 90 milliards d'euros de dette commune pour l'Ukraine – voici comment</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/20/lue-prevoit-de-lever-90-milliards-deuros-de-dette-commune-pour-lukraine-voici-comment</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/20/lue-prevoit-de-lever-90-milliards-deuros-de-dette-commune-pour-lukraine-voici-comment</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Exclusif : Éva Kaïlí dénonce le "Belgiumgate" après une nouvelle vague de scandales à Bruxelles</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Portugal : un moniteur d'équitation, candidat du parti Chega, arrêté pour abus sexuels sur mineurs</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/22/portugal-un-moniteur-dequitation-candidat-du-parti-chega-arrete-pour-abus-sexuels-sur-mine</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/22/portugal-un-moniteur-dequitation-candidat-du-parti-chega-arrete-pour-abus-sexuels-sur-mine</guid>
-      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Les ministres de l'Énergie de l'UE s'attaquent aux écarts de prix entre les États membres</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/15/les-ministres-de-lenergie-de-lue-sattaquent-aux-ecarts-de-prix-entre-les-etats-membres</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/les-ministres-de-lenergie-de-lue-sattaquent-aux-ecarts-de-prix-entre-les-etats-membres</guid>
-      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Exclusif : comment l'accord sur le financement des 90 milliards d'euros pour l'Ukraine a été scellé</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/23/exclusif-comment-laccord-sur-le-financement-des-90-milliards-deuros-pour-lukraine-a-ete-sc</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/exclusif-comment-laccord-sur-le-financement-des-90-milliards-deuros-pour-lukraine-a-ete-sc</guid>
-      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La signature de l'accord UE-Mercosur est "prématurée", selon Giorgia Meloni</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</guid>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>"Nous devons donner à l'Ukraine les moyens de survivre à la guerre", déclare le Premier ministre luxembourgeois à Euronews</title>
-      <link>https://fr.euronews.com/video/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</guid>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp accuse la Russie de priver ses citoyens des services de l'application</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/24/whatsapp-accuse-la-russie-de-priver-ses-citoyens-des-services-de-lapplication</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/24/whatsapp-accuse-la-russie-de-priver-ses-citoyens-des-services-de-lapplication</guid>
-      <pubDate>Sat, 03 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Aide à l'Ukraine, accord avec le Mercosur : l'UE face à son sommet "crucial" pour son avenir</title>
-      <link>https://fr.euronews.com/my-europe/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</guid>
+      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
       <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
@@ -542,100 +134,532 @@
       <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
+      <title>Aide à l'Ukraine, accord avec le Mercosur : l'UE face à son sommet "crucial" pour son avenir</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</guid>
       <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
-      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
+      <title>WhatsApp accuse la Russie de priver ses citoyens des services de l'application</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/24/whatsapp-accuse-la-russie-de-priver-ses-citoyens-des-services-de-lapplication</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/24/whatsapp-accuse-la-russie-de-priver-ses-citoyens-des-services-de-lapplication</guid>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'UE appelle au respect du droit international alors que Trump reste vague sur le plan de transition vénézuélienne</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/lue-appelle-au-respect-du-droit-international-alors-que-trump-reste-vague-sur-le-plan-de-t</guid>
-      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bilan de l'année : notre sélection des événements les plus marquants de l'année 2025</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/02/bilan-de-lannee-notre-selection-des-evenements-les-plus-marquants-de-lannee-2025</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Nous devons donner à l'Ukraine les moyens de survivre à la guerre", déclare le Premier ministre luxembourgeois à Euronews</title>
+      <link>https://fr.euronews.com/video/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La signature de l'accord UE-Mercosur est "prématurée", selon Giorgia Meloni</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Exclusif : comment l'accord sur le financement des 90 milliards d'euros pour l'Ukraine a été scellé</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/23/exclusif-comment-laccord-sur-le-financement-des-90-milliards-deuros-pour-lukraine-a-ete-sc</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/exclusif-comment-laccord-sur-le-financement-des-90-milliards-deuros-pour-lukraine-a-ete-sc</guid>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les ministres de l'Énergie de l'UE s'attaquent aux écarts de prix entre les États membres</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/15/les-ministres-de-lenergie-de-lue-sattaquent-aux-ecarts-de-prix-entre-les-etats-membres</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/les-ministres-de-lenergie-de-lue-sattaquent-aux-ecarts-de-prix-entre-les-etats-membres</guid>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Portugal : un moniteur d'équitation, candidat du parti Chega, arrêté pour abus sexuels sur mineurs</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/22/portugal-un-moniteur-dequitation-candidat-du-parti-chega-arrete-pour-abus-sexuels-sur-mine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/22/portugal-un-moniteur-dequitation-candidat-du-parti-chega-arrete-pour-abus-sexuels-sur-mine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Exclusif : Éva Kaïlí dénonce le "Belgiumgate" après une nouvelle vague de scandales à Bruxelles</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'UE prévoit de lever 90 milliards d'euros de dette commune pour l'Ukraine – voici comment</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/20/lue-prevoit-de-lever-90-milliards-deuros-de-dette-commune-pour-lukraine-voici-comment</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/20/lue-prevoit-de-lever-90-milliards-deuros-de-dette-commune-pour-lukraine-voici-comment</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Comment le prêt de réparations à l'Ukraine s'est effondré à la dernière minute</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
       <title>"Une perte immense" : les collègues du professeur Nuno Loureiro sous le choc après sa mort par balle</title>
-      <link>https://fr.euronews.com/video/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</link>
-      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</guid>
-      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <link>https://fr.euronews.com/my-europe/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/une-perte-immense-les-collegues-du-professeur-nuno-loureiro-sous-le-choc-apres-sa-mort-par</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
-      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <title>L’UE échoue à trouver un accord sur l’utilisation des avoirs russes pour l’Ukraine</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
-      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <title>L'UE va émettre 90 milliards d'euros de dette commune pour l'Ukraine</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/19/lue-va-emettre-90-milliards-deuros-de-dette-commune-pour-lukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/19/lue-va-emettre-90-milliards-deuros-de-dette-commune-pour-lukraine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Pourquoi Trump veut-il à tout prix le Groenland, et quelles pourraient être les conséquences pour l'Europe ?</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/pourquoi-trump-veut-il-a-tout-prix-le-groenland-et-quelles-pourraient-etre-les-consequence</guid>
-      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <title>Le vote sur l'accord commercial UE-Mercosur est reporté à janvier, selon un responsable de l'UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/18/le-vote-sur-laccord-commercial-ue-mercosur-est-reporte-a-janvier-selon-un-responsable-de-l</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/le-vote-sur-laccord-commercial-ue-mercosur-est-reporte-a-janvier-selon-un-responsable-de-l</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
-      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
+      <title>"Nous devons donner à l'Ukraine les moyens de survivre à la guerre", déclare le Premier ministre luxembourgeois à Euronews</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/nous-devons-donner-a-lukraine-les-moyens-de-survivre-a-la-guerre-declare-le-premier-minist</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
-      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Les dirigeants de l'UE débattent d'une version révisée du prêt de réparations à l'Ukraine</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/18/les-dirigeants-de-lue-reunis-pour-debloquer-le-pret-de-reparation-pour-lukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/18/les-dirigeants-de-lue-reunis-pour-debloquer-le-pret-de-reparation-pour-lukraine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ukraine : Paris et Londres prêts à déployer des troupes au sol après un cessez-le-feu</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/ukraine-paris-et-londres-prets-a-deployer-des-troupes-au-sol-apres-un-cessez-le-feu</guid>
-      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Prêt de réparation pour l'Ukraine : qui est pour, qui est contre ?</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/17/pret-de-reparation-pour-lukraine-qui-est-pour-qui-est-contre</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/pret-de-reparation-pour-lukraine-qui-est-pour-qui-est-contre</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
-      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
+      <title>L'UE va réviser les règles en matière d'aides d'État pour faire face à la crise européenne du logement</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/lue-va-reviser-les-regles-en-matiere-daides-detat-pour-faire-face-a-la-crise-europeenne-du</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/lue-va-reviser-les-regles-en-matiere-daides-detat-pour-faire-face-a-la-crise-europeenne-du</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
-      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Rétractation de Z. Takieddine : procès requis contre N. Sarkozy, C. Bruni-Sarkozy et "Mimi" Marchand</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/retractation-de-z-takieddine-proces-requis-contre-n-sarkozy-c-bruni-sarkozy-et-mimi-marcha</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/retractation-de-z-takieddine-proces-requis-contre-n-sarkozy-c-bruni-sarkozy-et-mimi-marcha</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Traité UE-Mercosur bientôt scellé ? Bruxelles multiplie les gestes envers Paris et Rome</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/traite-ue-mercosur-bientot-scelle-bruxelles-multiplie-les-gestes-envers-paris-et-rome</guid>
-      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
+      <title>Les dirigeants d'Europe de l'Est appellent à un renforcement de la défense sur le flanc oriental de l'UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/les-dirigeants-deurope-de-lest-appellent-a-un-renforcement-de-la-defense-sur-le-flanc-orie</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/les-dirigeants-deurope-de-lest-appellent-a-un-renforcement-de-la-defense-sur-le-flanc-orie</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <title>Budget de la Sécurité sociale : le Parlement adopte définitivement le texte pour 2026</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/budget-de-la-securite-sociale-le-parlement-adopte-definitivement-le-texte-pour-2026</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/budget-de-la-securite-sociale-le-parlement-adopte-definitivement-le-texte-pour-2026</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <title>L’UE renonce au tout-électrique pour 2035</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/lue-renonce-au-tout-electrique-pour-2035</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/lue-renonce-au-tout-electrique-pour-2035</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Italie : les guides de l'Etna en grève à cause de nouvelles mesures de sécurité</title>
-      <link>https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</link>
-      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/08/italie-les-guides-de-letna-en-greve-a-cause-de-nouvelles-mesures-de-securite</guid>
-      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <title>Emmanuel Macron annonce une augmentation de l’amende forfaitaire pour les consommateurs de drogue</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/emmanuel-macron-annonce-une-augmentation-de-lamende-forfaitaire-pour-les-consommateurs-de-</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/emmanuel-macron-annonce-une-augmentation-de-lamende-forfaitaire-pour-les-consommateurs-de-</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les Européens proposent une "force multinationale" dirigée par l'Europe en Ukraine</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/15/les-europeens-proposent-une-force-multinationale-dirigee-par-leurope-en-ukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/les-europeens-proposent-une-force-multinationale-dirigee-par-leurope-en-ukraine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine : le prêt pour les réparations fait l'objet de "pressions de toutes parts"</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/15/ukraine-le-pret-pour-les-reparations-fait-lobjet-de-pressions-de-toutes-parts</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/ukraine-le-pret-pour-les-reparations-fait-lobjet-de-pressions-de-toutes-parts</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Comment le Parlement européen peut encore faire échouer l'accord UE-Mercosur</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/13/comment-le-parlement-europeen-peut-encore-faire-echouer-laccord-ue-mercosur</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/comment-le-parlement-europeen-peut-encore-faire-echouer-laccord-ue-mercosur</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les pays de l'UE s'accordent sur un droit de douane forfaitaire temporaire de 3 euros pour les petits colis importés</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/13/les-pays-de-lue-saccordent-sur-un-droit-de-douane-forfaitaire-temporaire-de-3-euros-pour-l</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/les-pays-de-lue-saccordent-sur-un-droit-de-douane-forfaitaire-temporaire-de-3-euros-pour-l</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'UE rejette les poursuites engagées par la Russie contre Euroclear : "spéculatives" et sans fondement</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/13/lue-rejette-les-poursuites-engagees-par-la-russie-contre-euroclear-speculatives-et-sans-fo</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/lue-rejette-les-poursuites-engagees-par-la-russie-contre-euroclear-speculatives-et-sans-fo</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>En bloquant définitivement les actifs russes, l'UE joue enfin la carte de la fermeté</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/13/en-bloquant-definitivement-les-actifs-russes-lue-joue-enfin-la-carte-de-la-fermete</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/13/en-bloquant-definitivement-les-actifs-russes-lue-joue-enfin-la-carte-de-la-fermete</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Le ministre grec des Finances Kyriakos Pierrakakis élu président de l'Eurogroupe</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/12/le-ministre-grec-des-finances-kyriakos-pierrakakis-elu-president-de-leurogroupe</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/le-ministre-grec-des-finances-kyriakos-pierrakakis-elu-president-de-leurogroupe</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La coalition des volontaires appelle à l'unité transatlantique pour l'Ukraine</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/12/la-coalition-des-volontaires-appelle-a-lunite-transatlantique-pour-lukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/la-coalition-des-volontaires-appelle-a-lunite-transatlantique-pour-lukraine</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'UE déclenche une clause d'urgence pour immobiliser les actifs russes pour une durée indéterminée</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/12/lue-declenche-une-clause-durgence-pour-immobiliser-les-actifs-russes-pour-une-duree-indete</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/lue-declenche-une-clause-durgence-pour-immobiliser-les-actifs-russes-pour-une-duree-indete</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"L'immigration reste une opportunité pour l'Europe", assure le ministre espagnol de l'Économie à Euronews</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/12/la-migration-reste-une-opportunite-pour-leurope-assure-le-ministre-espagnol-de-leconomie-a</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/12/la-migration-reste-une-opportunite-pour-leurope-assure-le-ministre-espagnol-de-leconomie-a</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aleksandar Vučić affirme avoir reçu un message de Moscou pour l'UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/aleksandar-vucic-affirme-avoir-recu-un-message-de-moscou-pour-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/aleksandar-vucic-affirme-avoir-recu-un-message-de-moscou-pour-lue</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine–UE : accord sur un plan d'action pour accélérer l’adhésion malgré le veto de la Hongrie</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/ukraineue-accord-sur-un-plan-daction-pour-accelerer-ladhesion-malgre-le-veto-de-la-hongrie</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/ukraineue-accord-sur-un-plan-daction-pour-accelerer-ladhesion-malgre-le-veto-de-la-hongrie</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Portugal: grève générale contre la réforme du code du travail du gouvernement</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/portugal-greve-generale-contre-la-reforme-du-code-du-travail-du-gouvernement</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/portugal-greve-generale-contre-la-reforme-du-code-du-travail-du-gouvernement</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Italie : des flashmobs organisés par les soignants en soutien à leur confrères à Gaza</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/italie-des-flashmobs-organises-par-les-soignants-en-soutien-a-leur-confreres-a-gaza</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/italie-des-flashmobs-organises-par-les-soignants-en-soutien-a-leur-confreres-a-gaza</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Les drogues sont partout", avertit Alexis Goosdeel, directeur de l'Agence européenne sur les drogues</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/les-drogues-sont-partout-avertit-alexis-goosdeel-directeur-de-lagence-europeenne-sur-les-d</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/les-drogues-sont-partout-avertit-alexis-goosdeel-directeur-de-lagence-europeenne-sur-les-d</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'accord commercial UE-Mercosur en suspens dans la dernière ligne droite</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/11/laccord-commercial-ue-mercosur-en-suspens-dans-la-derniere-ligne-droite</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/11/laccord-commercial-ue-mercosur-en-suspens-dans-la-derniere-ligne-droite</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>A Lisbonne, les Verts européens défendent l'action sur le logement et se solidarisent avec la grève générale</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/10/a-lisbonne-les-verts-europeens-defendent-laction-sur-le-logement-et-se-solidarisent-avec-l</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/a-lisbonne-les-verts-europeens-defendent-laction-sur-le-logement-et-se-solidarisent-avec-l</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ukraine : à l'approche de l'échéance finale, des doutes sur le prêt de réparation</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/10/ukraine-a-lapproche-de-lecheance-finale-des-doutes-sur-le-pret-de-reparation</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/ukraine-a-lapproche-de-lecheance-finale-des-doutes-sur-le-pret-de-reparation</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump s'en prend à l'UE, quid de l'avenir des relations transatlantiques ?</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/10/les-etats-unis-critiquent-lue-dans-une-attaque-sans-precedent-alors-que-le-bloc-reflechit-</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/les-etats-unis-critiquent-lue-dans-une-attaque-sans-precedent-alors-que-le-bloc-reflechit-</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'Allemagne élabore des plans pour adapter son espace aérien en cas d'attaque</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/10/lallemagne-elabore-des-plans-pour-adapter-son-espace-aerien-en-cas-dattaque</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/10/lallemagne-elabore-des-plans-pour-adapter-son-espace-aerien-en-cas-dattaque</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Antonio Costa répond à Donald Trump : "On respecte la souveraineté des uns et des autres"</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/09/antonio-costa-repond-a-donald-trump-on-respecte-la-souverainete-des-uns-et-des-autres</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/09/antonio-costa-repond-a-donald-trump-on-respecte-la-souverainete-des-uns-et-des-autres</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les pays de l'UE intensifient les expulsions en signant un nouvel accord sur les centres de retour</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/08/les-pays-de-lue-intensifient-les-expulsions-en-signant-un-nouvel-accord-sur-les-centres-de</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/les-pays-de-lue-intensifient-les-expulsions-en-signant-un-nouvel-accord-sur-les-centres-de</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"L'unité" entre l'Europe, l'Ukraine et Washington est "très importante", dit Volodymyr Zelensky</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/08/lunite-entre-leurope-lukraine-et-washington-est-tres-importante-dit-volodymyr-zelensky</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/lunite-entre-leurope-lukraine-et-washington-est-tres-importante-dit-volodymyr-zelensky</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Un plan de 1,2 milliard d'euros pour moderniser le réseau électrique de l'Union européenne</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/08/un-plan-de-12-milliard-deuros-pour-moderniser-le-reseau-electrique-de-lunion-europeenne</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/08/un-plan-de-12-milliard-deuros-pour-moderniser-le-reseau-electrique-de-lunion-europeenne</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Thu, 01 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
+      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
+      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>2026 : les élections clés qui façonneront l’avenir de l’Europe</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/2026-les-elections-cles-qui-faconneront-lavenir-de-leurope</guid>
+      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aide à l'Ukraine, accord avec le Mercosur : l'UE face à son sommet "crucial" pour son avenir</title>
+      <link>https://fr.euronews.com/video/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/aide-a-lukraine-accord-avec-le-mercosur-lue-face-a-son-sommet-crucial-pour-son-avenir</guid>
+      <pubDate>Wed, 31 Dec 2025 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
+      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
+      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Selon von der Leyen, "la prospérité d'un État ukrainien libre réside dans l'adhésion à l'UE"</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/30/selon-van-der-leyen-la-prosperite-dun-etat-ukrainien-libre-reside-dans-ladhesion-a-lue</guid>
+      <pubDate>Tue, 30 Dec 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La signature de l'accord UE-Mercosur est "prématurée", selon Giorgia Meloni</title>
+      <link>https://fr.euronews.com/video/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/la-signature-de-laccord-ue-mercosur-est-prematuree-selon-giorgia-meloni</guid>
+      <pubDate>Tue, 30 Dec 2025 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Le Royaume-Uni va réintégrer Erasmus en 2027</title>
+      <link>https://fr.euronews.com/video/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La taxe carbone entre en vigueur aux frontières de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/31/la-taxe-carbone-entre-en-vigueur-aux-frontieres-de-lue</guid>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Quelles seront les conséquences de l'adhésion à la zone euro pour l'économie bulgare ?</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/01/quelles-seront-les-consequences-de-ladhesion-a-la-zone-euro-pour-leconomie-bulgare</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/01/quelles-seront-les-consequences-de-ladhesion-a-la-zone-euro-pour-leconomie-bulgare</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'UE veut mettre fin à l'ère des vetos nationaux... mais c'est compliqué</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/23/lue-veut-mettre-fin-a-lere-des-vetos-nationaux-mais-cest-complique</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/lue-veut-mettre-fin-a-lere-des-vetos-nationaux-mais-cest-complique</guid>
+      <pubDate>Fri, 02 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Groenland : les dirigeants européens affichent leur solidarité avec le Danemark face à la menace de Donald Trump</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/23/groenland-les-dirigeants-europeens-affichent-leur-solidarite-avec-le-danemark-face-a-la-me</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/23/groenland-les-dirigeants-europeens-affichent-leur-solidarite-avec-le-danemark-face-a-la-me</guid>
+      <pubDate>Fri, 02 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Régularisation de la tech : Washington interdit de visa Thierry Breton et quatre autres personnes</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/24/washington-interdit-de-visa-thierry-breton-et-quatre-autres-personnes-condamnation-unanime</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/24/washington-interdit-de-visa-thierry-breton-et-quatre-autres-personnes-condamnation-unanime</guid>
+      <pubDate>Sat, 03 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Incendie à Crans-Montana : 27 victimes identifiées, dont un Français</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/04/incendie-a-crans-montana-24-victimes-identifiees-dont-un-francais</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Le Royaume-Uni va réintégrer Erasmus en 2027</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/17/le-royaume-uni-va-reintegrer-erasmus-en-2027</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L’UE échoue à trouver un accord sur l’utilisation des avoirs russes pour l’Ukraine</title>
+      <link>https://fr.euronews.com/video/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/lue-echoue-a-trouver-un-accord-sur-lutilisation-des-avoirs-russes-pour-lukraine</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Venezuela : l’UE soutient la transition démocratique, Trump privilégie le pétrole</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/05/venezuela-lue-soutient-la-transition-democratique-trump-privilegie-le-petrole</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Comment le prêt de réparations à l'Ukraine s'est effondré à la dernière minute</title>
+      <link>https://fr.euronews.com/video/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/19/comment-le-pret-de-reparations-a-lukraine-sest-effondre-a-la-derniere-minute</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les deepfakes de Grok, l’IA d’Elon Musk, dans le viseur de l’UE</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/06/les-deepfakes-de-grok-lia-delon-musk-dans-le-viseur-de-lue</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Exclusif : Éva Kaïlí dénonce le "Belgiumgate" après une nouvelle vague de scandales à Bruxelles</title>
+      <link>https://fr.euronews.com/video/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</link>
+      <guid isPermaLink="false">https://fr.euronews.com/video/2025/12/22/exclusif-eva-kaili-denonce-le-belgiumgate-apres-une-nouvelle-vague-de-scandales-a-bruxelle</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Après la destitution de Nicolás Maduro, Cuba perd un allié et craint un désastre économique</title>
+      <link>https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2026/01/07/apres-la-destitution-de-nicolas-maduro-cuba-perd-un-allie-et-craint-un-desastre-economique</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La Commission européenne fait monter la pression sur la France au sujet de l'accord avec le Mercosur</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/15/la-commission-europeenne-fait-monter-la-pression-sur-la-france-au-sujet-de-laccord-avec-le</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/15/la-commission-europeenne-fait-monter-la-pression-sur-la-france-au-sujet-de-laccord-avec-le</guid>
+      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mercosur : le Parlement adopte des mesures de protections pour les agriculteurs</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/16/mercosur-le-parlement-adopte-des-mesures-de-protections-pour-les-agriculteurs</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/16/mercosur-le-parlement-adopte-des-mesures-de-protections-pour-les-agriculteurs</guid>
+      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les cinq séquences les plus marquantes au Parlement européen en 2025</title>
+      <link>https://fr.euronews.com/my-europe/2025/12/29/les-cinq-sequences-les-plus-marquantes-au-parlement-europeen-en-2025</link>
+      <guid isPermaLink="false">https://fr.euronews.com/my-europe/2025/12/29/les-cinq-sequences-les-plus-marquantes-au-parlement-europeen-en-2025</guid>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
