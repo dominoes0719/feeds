@@ -6,179 +6,23 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 18:00:03 +0000</lastBuildDate>
     <item>
-      <title>Politiker wollen Alkohol teurer machen</title>
-      <link>https://www.nachrichtenleicht.de/alkohol-122.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/alkohol-122.html</guid>
-      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
+      <title>Katholische Prozession hat 31 Stunden lang gedauert</title>
+      <link>https://www.nachrichtenleicht.de/prozession-philippinen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/prozession-philippinen-100.html</guid>
+      <pubDate>Sat, 10 Jan 2026 19:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Die "Tagesschau" um 20 Uhr hat die meisten Zuschauer</title>
-      <link>https://www.nachrichtenleicht.de/tagesschau-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tagesschau-106.html</guid>
-      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
-      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</guid>
-      <pubDate>Sat, 10 Jan 2026 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mehr Menschen waren wieder im Kino</title>
-      <link>https://www.nachrichtenleicht.de/kino-besucher-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-besucher-102.html</guid>
-      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Das Heilige Jahr ist zu Ende</title>
-      <link>https://www.nachrichtenleicht.de/heiliges-jahr-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/heiliges-jahr-104.html</guid>
-      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tote bei Protesten im Iran</title>
-      <link>https://www.nachrichtenleicht.de/iran-proteste-130.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-proteste-130.html</guid>
-      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Alle Haushalte in Berlin haben wieder Strom</title>
-      <link>https://www.nachrichtenleicht.de/berlin-hat-wieder-strom-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlin-hat-wieder-strom-100.html</guid>
-      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Kanzler Merz: Deutschland könnte der Ukraine mit Soldaten helfen</title>
-      <link>https://www.nachrichtenleicht.de/bundeswehr-koennte-ukraine-beschuetzen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-koennte-ukraine-beschuetzen-100.html</guid>
-      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Brandenburg: SPD beendet Koalition mit BSW</title>
-      <link>https://www.nachrichtenleicht.de/brandenburg-regierung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/brandenburg-regierung-100.html</guid>
-      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Brand-Schutz von Bar wurde 6 Jahre nicht geprüft</title>
-      <link>https://www.nachrichtenleicht.de/schweiz-crans-montana-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schweiz-crans-montana-100.html</guid>
-      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sorge in Grönland vor Militär-Einsatz von den USA</title>
-      <link>https://www.nachrichtenleicht.de/groenland-usa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-usa-100.html</guid>
-      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Züge in Deutschland sind sehr unpünktlich</title>
-      <link>https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</guid>
-      <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Links-Extremisten sollen Schuld sein am Strom-Ausfall in Berlin</title>
-      <link>https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</guid>
-      <pubDate>Sun, 04 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>4 Millionen Unterschriften für Böller-Verbot</title>
-      <link>https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/petition-boeller-verbot-100.html</guid>
-      <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Soldaten von dem Land USA verhaften den Präsidenten von dem Land Venezuela</title>
-      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</guid>
-      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Der Strom in Deutschland könnte bald billiger werden</title>
-      <link>https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</guid>
-      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Was haben die USA in Venezuela vor?</title>
-      <link>https://www.nachrichtenleicht.de/venezuela-usa-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/venezuela-usa-106.html</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Regierung im Iran stört das Internet</title>
-      <link>https://www.nachrichtenleicht.de/iran-internet-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-internet-100.html</guid>
-      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Rekord bei Sonnen-Energie in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</guid>
-      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Stief-Schwester von Anne Frank gestorben</title>
-      <link>https://www.nachrichtenleicht.de/eva-schloss-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eva-schloss-104.html</guid>
-      <pubDate>Mon, 05 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Strom-Ausfall in Berlin: Stadt zahlt für Hotels</title>
-      <link>https://www.nachrichtenleicht.de/berlin-stromausfall-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlin-stromausfall-102.html</guid>
-      <pubDate>Tue, 06 Jan 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Schnee-Fall führt zu Verkehrs-Chaos</title>
-      <link>https://www.nachrichtenleicht.de/schnee-europa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schnee-europa-100.html</guid>
-      <pubDate>Wed, 07 Jan 2026 18:00:00 +0100</pubDate>
+      <title>Viele Wohnungen in der Ukraine sind kalt</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-360.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-360.html</guid>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Slowene Prevc gewinnt 4-Schanzen-Tournee</title>
-      <link>https://www.nachrichtenleicht.de/4-schanzen-prevc-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/4-schanzen-prevc-102.html</guid>
-      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Luke Littler wieder Welt-Meister beim Darts-Werfen</title>
-      <link>https://www.nachrichtenleicht.de/darts-wm-littler-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/darts-wm-littler-102.html</guid>
-      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Probleme durch Winter-Sturm in Nord-Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/winter-sturm-nord-deutschland-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/winter-sturm-nord-deutschland-102.html</guid>
-      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>EU-Länder stimmen für Handels-Vertrag mit Ländern in Süd-Amerika</title>
-      <link>https://www.nachrichtenleicht.de/handels-abkommen-eu-mercosur-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handels-abkommen-eu-mercosur-100.html</guid>
-      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele alte Flaschen treiben im Fluss Rhein</title>
-      <link>https://www.nachrichtenleicht.de/flaschen-muell-rhein-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/flaschen-muell-rhein-100.html</guid>
-      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Menschen auf der ganzen Welt feiern Silvester</title>
-      <link>https://www.nachrichtenleicht.de/silvester-weltweit-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/silvester-weltweit-102.html</guid>
-      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Soldaten aus den USA haben Venezuelas Präsidenten gefangen genommen</title>
-      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-102.html</guid>
+      <link>https://www.nachrichtenleicht.de/4-schanzen-prevc-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/4-schanzen-prevc-100.html</guid>
       <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
@@ -188,16 +32,172 @@
       <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Slowene Prevc gewinnt 4-Schanzen-Tournee</title>
-      <link>https://www.nachrichtenleicht.de/4-schanzen-prevc-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/4-schanzen-prevc-100.html</guid>
+      <title>Soldaten aus den USA haben Venezuelas Präsidenten gefangen genommen</title>
+      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-102.html</guid>
       <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Viele Wohnungen in der Ukraine sind kalt</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-360.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-360.html</guid>
-      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+      <title>Menschen auf der ganzen Welt feiern Silvester</title>
+      <link>https://www.nachrichtenleicht.de/silvester-weltweit-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/silvester-weltweit-102.html</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele alte Flaschen treiben im Fluss Rhein</title>
+      <link>https://www.nachrichtenleicht.de/flaschen-muell-rhein-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/flaschen-muell-rhein-100.html</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>EU-Länder stimmen für Handels-Vertrag mit Ländern in Süd-Amerika</title>
+      <link>https://www.nachrichtenleicht.de/handels-abkommen-eu-mercosur-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handels-abkommen-eu-mercosur-100.html</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Probleme durch Winter-Sturm in Nord-Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/winter-sturm-nord-deutschland-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/winter-sturm-nord-deutschland-102.html</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Luke Littler wieder Welt-Meister beim Darts-Werfen</title>
+      <link>https://www.nachrichtenleicht.de/darts-wm-littler-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/darts-wm-littler-102.html</guid>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Slowene Prevc gewinnt 4-Schanzen-Tournee</title>
+      <link>https://www.nachrichtenleicht.de/4-schanzen-prevc-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/4-schanzen-prevc-102.html</guid>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Schnee-Fall führt zu Verkehrs-Chaos</title>
+      <link>https://www.nachrichtenleicht.de/schnee-europa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schnee-europa-100.html</guid>
+      <pubDate>Wed, 07 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Strom-Ausfall in Berlin: Stadt zahlt für Hotels</title>
+      <link>https://www.nachrichtenleicht.de/berlin-stromausfall-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlin-stromausfall-102.html</guid>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Stief-Schwester von Anne Frank gestorben</title>
+      <link>https://www.nachrichtenleicht.de/eva-schloss-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eva-schloss-104.html</guid>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rekord bei Sonnen-Energie in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wind-sonne-100.html</guid>
+      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Regierung im Iran stört das Internet</title>
+      <link>https://www.nachrichtenleicht.de/iran-internet-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-internet-100.html</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Was haben die USA in Venezuela vor?</title>
+      <link>https://www.nachrichtenleicht.de/venezuela-usa-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/venezuela-usa-106.html</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Der Strom in Deutschland könnte bald billiger werden</title>
+      <link>https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/strom-wird-billiger-100.html</guid>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Soldaten von dem Land USA verhaften den Präsidenten von dem Land Venezuela</title>
+      <link>https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-verhaften-maduro-100.html</guid>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Links-Extremisten sollen Schuld sein am Strom-Ausfall in Berlin</title>
+      <link>https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stromausfall-berlin-102.html</guid>
+      <pubDate>Sun, 04 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Züge in Deutschland sind sehr unpünktlich</title>
+      <link>https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-puenktlichkeit-100.html</guid>
+      <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sorge in Grönland vor Militär-Einsatz von den USA</title>
+      <link>https://www.nachrichtenleicht.de/groenland-usa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-usa-100.html</guid>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Brand-Schutz von Bar wurde 6 Jahre nicht geprüft</title>
+      <link>https://www.nachrichtenleicht.de/schweiz-crans-montana-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schweiz-crans-montana-100.html</guid>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Brandenburg: SPD beendet Koalition mit BSW</title>
+      <link>https://www.nachrichtenleicht.de/brandenburg-regierung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/brandenburg-regierung-100.html</guid>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Kanzler Merz: Deutschland könnte der Ukraine mit Soldaten helfen</title>
+      <link>https://www.nachrichtenleicht.de/bundeswehr-koennte-ukraine-beschuetzen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-koennte-ukraine-beschuetzen-100.html</guid>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Alle Haushalte in Berlin haben wieder Strom</title>
+      <link>https://www.nachrichtenleicht.de/berlin-hat-wieder-strom-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlin-hat-wieder-strom-100.html</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tote bei Protesten im Iran</title>
+      <link>https://www.nachrichtenleicht.de/iran-proteste-130.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-proteste-130.html</guid>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Das Heilige Jahr ist zu Ende</title>
+      <link>https://www.nachrichtenleicht.de/heiliges-jahr-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/heiliges-jahr-104.html</guid>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mehr Menschen waren wieder im Kino</title>
+      <link>https://www.nachrichtenleicht.de/kino-besucher-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-besucher-102.html</guid>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Tote an Silvester durch Brand in einer Bar in der Schweiz</title>
+      <link>https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/unglueck-an-silvester-in-der-schweiz-100.html</guid>
+      <pubDate>Sat, 10 Jan 2026 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die "Tagesschau" um 20 Uhr hat die meisten Zuschauer</title>
+      <link>https://www.nachrichtenleicht.de/tagesschau-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tagesschau-106.html</guid>
+      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Politiker wollen Alkohol teurer machen</title>
+      <link>https://www.nachrichtenleicht.de/alkohol-122.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/alkohol-122.html</guid>
+      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
