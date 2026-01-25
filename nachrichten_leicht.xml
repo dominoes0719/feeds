@@ -6,161 +6,71 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 19:00:03 +0000</lastBuildDate>
-    <item>
-      <title>Robbie Williams hat mehr Nummer-1-Alben als die Beatles</title>
-      <link>https://www.nachrichtenleicht.de/robbie-williams-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/robbie-williams-100.html</guid>
-      <pubDate>Sat, 24 Jan 2026 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Probleme mit Strom und Heizungen in der Ukraine</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-energie-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-energie-102.html</guid>
-      <pubDate>Fri, 23 Jan 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Europa-Meisterschaft: Deutsche Handballer schaffen es in die Haupt-Runde</title>
-      <link>https://www.nachrichtenleicht.de/handball-em-hauptrunde-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handball-em-hauptrunde-102.html</guid>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Berühmte Zwillinge Bill und Tom Kaulitz moderieren "Wetten, dass..?"-Sendung</title>
-      <link>https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-100.html</guid>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>US-Präsident Trump: Lösung im Streit um Grönland ist möglich</title>
-      <link>https://www.nachrichtenleicht.de/groenland-trump-europa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-trump-europa-100.html</guid>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Renn-Rodler bei Europa-Meisterschaften erfolgreich</title>
-      <link>https://www.nachrichtenleicht.de/renn-rodeln-europa-meisterschaften-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/renn-rodeln-europa-meisterschaften-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nordrhein-Westfalen startet Olympia-Aktion</title>
-      <link>https://www.nachrichtenleicht.de/nrw-olympia-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nrw-olympia-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Das Hotel-Zimmer von Udo Lindenberg wird für ein Museum nachgebaut</title>
-      <link>https://www.nachrichtenleicht.de/lindenberg-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lindenberg-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Berühmte Zwillinge Bill und Tom Kaulitz moderieren "Wetten, dass..?"-Sendung</title>
-      <link>https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>US-Präsident Trump hat einen "Friedens-Rat" gegründet</title>
-      <link>https://www.nachrichtenleicht.de/friedensrat-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/friedensrat-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>US-Präsident Trump: Lösung im Streit um Grönland ist möglich</title>
-      <link>https://www.nachrichtenleicht.de/groenland-trump-europa-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-trump-europa-102.html</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>So viele Organ-Spender wie seit 13 Jahren nicht mehr</title>
-      <link>https://www.nachrichtenleicht.de/organspende-120.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/organspende-120.html</guid>
-      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Polar-Lichter machen den Himmel in Deutschland bunt</title>
-      <link>https://www.nachrichtenleicht.de/polar-lichter-deutschland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/polar-lichter-deutschland-100.html</guid>
-      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Melden sich die Menschen in Deutschland zu oft krank?</title>
-      <link>https://www.nachrichtenleicht.de/diskussion-krankmeldung-telefon-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/diskussion-krankmeldung-telefon-100.html</guid>
-      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutschland und Indien wollen enger zusammen arbeiten</title>
-      <link>https://www.nachrichtenleicht.de/merz-in-indien-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-in-indien-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wichtiges Treffen für die ganze Welt in der Schweiz</title>
-      <link>https://www.nachrichtenleicht.de/davos-groenland-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/davos-groenland-trump-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wild-Tier Stiftung bittet: Bei Eis und Schnee Eichhörnchen und Vögel füttern</title>
-      <link>https://www.nachrichtenleicht.de/eichhoernchen-voegel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eichhoernchen-voegel-100.html</guid>
-      <pubDate>Mon, 19 Jan 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tote bei Protesten im Iran - Iraner demonstrieren trotzdem weiter</title>
-      <link>https://www.nachrichtenleicht.de/iran-160.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-160.html</guid>
-      <pubDate>Mon, 19 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Digitales Führungs-Zeugnis soll bald kommen</title>
-      <link>https://www.nachrichtenleicht.de/digitales-fuehrungs-zeugnis-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/digitales-fuehrungs-zeugnis-100.html</guid>
-      <pubDate>Sun, 18 Jan 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Die Pollen-Saison hat schon angefangen</title>
-      <link>https://www.nachrichtenleicht.de/pollen-saison-angefangen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pollen-saison-angefangen-100.html</guid>
-      <pubDate>Sun, 18 Jan 2026 14:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jan 2026 15:00:03 +0000</lastBuildDate>
     <item>
       <title>Internationaler Karls-Preis geht an Mario Draghi</title>
       <link>https://www.nachrichtenleicht.de/karls-preis-102.html</link>
       <guid isPermaLink="false">https://www.nachrichtenleicht.de/karls-preis-102.html</guid>
-      <pubDate>Sat, 17 Jan 2026 15:00:00 +0100</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Neue Regeln zum Schutz der Meere gelten ab jetzt</title>
-      <link>https://www.nachrichtenleicht.de/hoch-see-schutz-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hoch-see-schutz-102.html</guid>
-      <pubDate>Sat, 17 Jan 2026 14:00:00 +0100</pubDate>
+      <title>In den USA nimmt Einwanderungs-Behörde ICE Kinder fest</title>
+      <link>https://www.nachrichtenleicht.de/ice-minneapolis-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ice-minneapolis-100.html</guid>
+      <pubDate>Sat, 24 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Tausende Menschen demonstrieren für umwelt-freundliche Land-Wirtschaft</title>
-      <link>https://www.nachrichtenleicht.de/demo-gruene-woche-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/demo-gruene-woche-102.html</guid>
-      <pubDate>Sat, 17 Jan 2026 17:00:00 +0100</pubDate>
+      <title>Kinder-Ärzte sagen: Regierung muss mehr gegen Übergewicht machen</title>
+      <link>https://www.nachrichtenleicht.de/uebergewicht-kinder-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/uebergewicht-kinder-102.html</guid>
+      <pubDate>Fri, 23 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>US-Präsident Trump für neue Regierung im Iran</title>
-      <link>https://www.nachrichtenleicht.de/trump-fuer-neue-regierung-im-iran-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-fuer-neue-regierung-im-iran-100.html</guid>
-      <pubDate>Sun, 18 Jan 2026 16:00:00 +0100</pubDate>
+      <title>Prozess gegen mutmaßliche Rechts-Terroristen</title>
+      <link>https://www.nachrichtenleicht.de/saechsische-separatisten-prozess-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/saechsische-separatisten-prozess-100.html</guid>
+      <pubDate>Fri, 23 Jan 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Katholische Prozession hat 31 Stunden lang gedauert</title>
-      <link>https://www.nachrichtenleicht.de/prozession-philippinen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/prozession-philippinen-100.html</guid>
-      <pubDate>Sun, 18 Jan 2026 20:00:00 +0100</pubDate>
+      <title>Grund-Schüler in Niedersachsen sollen anders rechnen lernen</title>
+      <link>https://www.nachrichtenleicht.de/schriftlich-dividieren-niedersachsen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schriftlich-dividieren-niedersachsen-100.html</guid>
+      <pubDate>Wed, 21 Jan 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Schweres Zug-Unglück in dem Land Spanien</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5658.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5658.html</guid>
+      <title>Handels-Vertrag zwischen der EU und Staaten in Süd-Amerika verzögert sich</title>
+      <link>https://www.nachrichtenleicht.de/mercosur-eu-parlament-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mercosur-eu-parlament-100.html</guid>
+      <pubDate>Wed, 21 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Film-Preis "Golden Globes" vergeben</title>
+      <link>https://www.nachrichtenleicht.de/goldenglobes-hollywood-schauspieler-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldenglobes-hollywood-schauspieler-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Wehr hat wieder mehr Soldaten</title>
+      <link>https://www.nachrichtenleicht.de/bundeswehr-mehr-soldaten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-mehr-soldaten-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rinder sollen im Stall nicht mehr festgebunden werden</title>
+      <link>https://www.nachrichtenleicht.de/stallhaltung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stallhaltung-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Handballer schaffen es in die Haupt-Runde</title>
+      <link>https://www.nachrichtenleicht.de/handball-em-hauptrunde-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handball-em-hauptrunde-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA drohen EU wegen Grönland mit neuen Zöllen</title>
+      <link>https://www.nachrichtenleicht.de/groenland-134.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-134.html</guid>
       <pubDate>Mon, 19 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
@@ -170,64 +80,148 @@
       <pubDate>Mon, 19 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>USA drohen EU wegen Grönland mit neuen Zöllen</title>
-      <link>https://www.nachrichtenleicht.de/groenland-134.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-134.html</guid>
+      <title>Schweres Zug-Unglück in dem Land Spanien</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5658.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5658.html</guid>
       <pubDate>Mon, 19 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Deutsche Handballer schaffen es in die Haupt-Runde</title>
-      <link>https://www.nachrichtenleicht.de/handball-em-hauptrunde-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handball-em-hauptrunde-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 15:00:00 +0100</pubDate>
+      <title>Katholische Prozession hat 31 Stunden lang gedauert</title>
+      <link>https://www.nachrichtenleicht.de/prozession-philippinen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/prozession-philippinen-100.html</guid>
+      <pubDate>Sun, 18 Jan 2026 20:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rinder sollen im Stall nicht mehr festgebunden werden</title>
-      <link>https://www.nachrichtenleicht.de/stallhaltung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/stallhaltung-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 15:00:00 +0100</pubDate>
+      <title>US-Präsident Trump für neue Regierung im Iran</title>
+      <link>https://www.nachrichtenleicht.de/trump-fuer-neue-regierung-im-iran-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-fuer-neue-regierung-im-iran-100.html</guid>
+      <pubDate>Sun, 18 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bundes-Wehr hat wieder mehr Soldaten</title>
-      <link>https://www.nachrichtenleicht.de/bundeswehr-mehr-soldaten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-mehr-soldaten-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 18:00:00 +0100</pubDate>
+      <title>Tausende Menschen demonstrieren für umwelt-freundliche Land-Wirtschaft</title>
+      <link>https://www.nachrichtenleicht.de/demo-gruene-woche-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/demo-gruene-woche-102.html</guid>
+      <pubDate>Sat, 17 Jan 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Film-Preis "Golden Globes" vergeben</title>
-      <link>https://www.nachrichtenleicht.de/goldenglobes-hollywood-schauspieler-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldenglobes-hollywood-schauspieler-100.html</guid>
-      <pubDate>Tue, 20 Jan 2026 18:00:00 +0100</pubDate>
+      <title>Die Pollen-Saison hat schon angefangen</title>
+      <link>https://www.nachrichtenleicht.de/pollen-saison-angefangen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pollen-saison-angefangen-100.html</guid>
+      <pubDate>Sun, 18 Jan 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Handels-Vertrag zwischen der EU und Staaten in Süd-Amerika verzögert sich</title>
-      <link>https://www.nachrichtenleicht.de/mercosur-eu-parlament-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mercosur-eu-parlament-100.html</guid>
-      <pubDate>Wed, 21 Jan 2026 18:00:00 +0100</pubDate>
+      <title>Digitales Führungs-Zeugnis soll bald kommen</title>
+      <link>https://www.nachrichtenleicht.de/digitales-fuehrungs-zeugnis-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/digitales-fuehrungs-zeugnis-100.html</guid>
+      <pubDate>Sun, 18 Jan 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Grund-Schüler in Niedersachsen sollen anders rechnen lernen</title>
-      <link>https://www.nachrichtenleicht.de/schriftlich-dividieren-niedersachsen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schriftlich-dividieren-niedersachsen-100.html</guid>
-      <pubDate>Wed, 21 Jan 2026 18:00:00 +0100</pubDate>
+      <title>Tote bei Protesten im Iran - Iraner demonstrieren trotzdem weiter</title>
+      <link>https://www.nachrichtenleicht.de/iran-160.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-160.html</guid>
+      <pubDate>Mon, 19 Jan 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Prozess gegen mutmaßliche Rechts-Terroristen</title>
-      <link>https://www.nachrichtenleicht.de/saechsische-separatisten-prozess-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/saechsische-separatisten-prozess-100.html</guid>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0100</pubDate>
+      <title>Wild-Tier Stiftung bittet: Bei Eis und Schnee Eichhörnchen und Vögel füttern</title>
+      <link>https://www.nachrichtenleicht.de/eichhoernchen-voegel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/eichhoernchen-voegel-100.html</guid>
+      <pubDate>Mon, 19 Jan 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Kinder-Ärzte sagen: Regierung muss mehr gegen Übergewicht machen</title>
-      <link>https://www.nachrichtenleicht.de/uebergewicht-kinder-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/uebergewicht-kinder-102.html</guid>
-      <pubDate>Fri, 23 Jan 2026 16:00:00 +0100</pubDate>
+      <title>Wichtiges Treffen für die ganze Welt in der Schweiz</title>
+      <link>https://www.nachrichtenleicht.de/davos-groenland-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/davos-groenland-trump-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>In den USA nimmt Einwanderungs-Behörde ICE Kinder fest</title>
-      <link>https://www.nachrichtenleicht.de/ice-minneapolis-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ice-minneapolis-100.html</guid>
-      <pubDate>Sat, 24 Jan 2026 16:00:00 +0100</pubDate>
+      <title>Deutschland und Indien wollen enger zusammen arbeiten</title>
+      <link>https://www.nachrichtenleicht.de/merz-in-indien-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-in-indien-100.html</guid>
+      <pubDate>Tue, 20 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Melden sich die Menschen in Deutschland zu oft krank?</title>
+      <link>https://www.nachrichtenleicht.de/diskussion-krankmeldung-telefon-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/diskussion-krankmeldung-telefon-100.html</guid>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Polar-Lichter machen den Himmel in Deutschland bunt</title>
+      <link>https://www.nachrichtenleicht.de/polar-lichter-deutschland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/polar-lichter-deutschland-100.html</guid>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>So viele Organ-Spender wie seit 13 Jahren nicht mehr</title>
+      <link>https://www.nachrichtenleicht.de/organspende-120.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/organspende-120.html</guid>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>US-Präsident Trump: Lösung im Streit um Grönland ist möglich</title>
+      <link>https://www.nachrichtenleicht.de/groenland-trump-europa-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-trump-europa-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>US-Präsident Trump hat einen "Friedens-Rat" gegründet</title>
+      <link>https://www.nachrichtenleicht.de/friedensrat-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/friedensrat-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Berühmte Zwillinge Bill und Tom Kaulitz moderieren "Wetten, dass..?"-Sendung</title>
+      <link>https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Das Hotel-Zimmer von Udo Lindenberg wird für ein Museum nachgebaut</title>
+      <link>https://www.nachrichtenleicht.de/lindenberg-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lindenberg-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nordrhein-Westfalen startet Olympia-Aktion</title>
+      <link>https://www.nachrichtenleicht.de/nrw-olympia-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nrw-olympia-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Renn-Rodler bei Europa-Meisterschaften erfolgreich</title>
+      <link>https://www.nachrichtenleicht.de/renn-rodeln-europa-meisterschaften-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/renn-rodeln-europa-meisterschaften-102.html</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>US-Präsident Trump: Lösung im Streit um Grönland ist möglich</title>
+      <link>https://www.nachrichtenleicht.de/groenland-trump-europa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenland-trump-europa-100.html</guid>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Berühmte Zwillinge Bill und Tom Kaulitz moderieren "Wetten, dass..?"-Sendung</title>
+      <link>https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wetten-dass-tom-bill-kaulitz-100.html</guid>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Europa-Meisterschaft: Deutsche Handballer schaffen es in die Haupt-Runde</title>
+      <link>https://www.nachrichtenleicht.de/handball-em-hauptrunde-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/handball-em-hauptrunde-102.html</guid>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Probleme mit Strom und Heizungen in der Ukraine</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-energie-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-energie-102.html</guid>
+      <pubDate>Fri, 23 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Robbie Williams hat mehr Nummer-1-Alben als die Beatles</title>
+      <link>https://www.nachrichtenleicht.de/robbie-williams-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/robbie-williams-100.html</guid>
+      <pubDate>Sat, 24 Jan 2026 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
