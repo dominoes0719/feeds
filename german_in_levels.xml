@@ -6,186 +6,24 @@
     <description>German In Levels</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 07:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 15:00:09 +0000</lastBuildDate>
     <item>
-      <title>Level 1 - Der Film von Melania Trump</title>
-      <link>https://germaninlevels.com/products/melania-trumps-film-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/melania-trumps-film-level-1</guid>
-      <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
+      <title>Level 1 - Catherine O’Hara ist gestorben</title>
+      <link>https://germaninlevels.com/products/catherine-ohara-dies-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/catherine-ohara-dies-level-1</guid>
+      <pubDate>Tue, 03 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Level 2 - Der Film von Melania Trump</title>
-      <link>https://germaninlevels.com/products/melania-trumps-film-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/melania-trumps-film-level-2</guid>
-      <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
+      <title>Level 2 - Catherine O’Hara ist gestorben</title>
+      <link>https://germaninlevels.com/products/catherine-ohara-dies-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/catherine-ohara-dies-level-2</guid>
+      <pubDate>Tue, 03 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Level 1 - Die Weltuntergangsuhr im Jahr 2026</title>
-      <link>https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-1</guid>
-      <pubDate>Mon, 02 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Die Weltuntergangsuhr im Jahr 2026</title>
-      <link>https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-2</guid>
-      <pubDate>Mon, 02 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Artemis II</title>
-      <link>https://germaninlevels.com/products/artemis-ii-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/artemis-ii-level-1</guid>
-      <pubDate>Sun, 01 Feb 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Artemis II</title>
-      <link>https://germaninlevels.com/products/artemis-ii-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/artemis-ii-level-2</guid>
-      <pubDate>Sun, 01 Feb 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Lachs essen ist schlecht für den Planeten</title>
-      <link>https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-1</guid>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Lachs essen ist schlecht für den Planeten</title>
-      <link>https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-2</guid>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Iran und Ölpreise</title>
-      <link>https://germaninlevels.com/products/iran-and-oil-prices-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/iran-and-oil-prices-level-1</guid>
-      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Iran und Ölpreise</title>
-      <link>https://germaninlevels.com/products/iran-and-oil-prices-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/iran-and-oil-prices-level-2</guid>
-      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Eine neue Maschine hilft Leuten beim Sterben</title>
-      <link>https://germaninlevels.com/products/a-new-machine-helps-people-die-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/a-new-machine-helps-people-die-level-1</guid>
-      <pubDate>Tue, 27 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Eine neue Maschine hilft Leuten beim Sterben</title>
-      <link>https://germaninlevels.com/products/a-new-machine-helps-people-die-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/a-new-machine-helps-people-die-level-2</guid>
-      <pubDate>Tue, 27 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Die Bauern können ihren Kakao nicht verkaufen</title>
-      <link>https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-1</guid>
-      <pubDate>Mon, 26 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Die Bauern können ihren Kakao nicht verkaufen</title>
-      <link>https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-2</guid>
-      <pubDate>Mon, 26 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Ein Bauernhof hilft den Leuten, sich gut zu ernähren</title>
-      <link>https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-1</guid>
-      <pubDate>Mon, 26 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Ein Bauernhof hilft den Leuten, sich gut zu ernähren</title>
-      <link>https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-2</guid>
-      <pubDate>Mon, 26 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Warum viele Leute Single sind</title>
-      <link>https://germaninlevels.com/products/why-many-people-are-single-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/why-many-people-are-single-level-2</guid>
-      <pubDate>Sun, 25 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Warum viele Leute Single sind</title>
-      <link>https://germaninlevels.com/products/why-many-people-are-single-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/why-many-people-are-single-level-1</guid>
-      <pubDate>Sun, 25 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Die Eintrittskarten für den Louvre sind teurer</title>
-      <link>https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-2</guid>
-      <pubDate>Mon, 26 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Die Eintrittskarten für den Louvre sind teurer</title>
-      <link>https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-1</guid>
-      <pubDate>Mon, 26 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Zero</title>
-      <link>https://germaninlevels.com/products/posting-zero-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/posting-zero-level-2</guid>
-      <pubDate>Mon, 26 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Zero</title>
-      <link>https://germaninlevels.com/products/posting-zero-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/posting-zero-level-1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Taiwan ist gut im Recycling</title>
-      <link>https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-2</guid>
-      <pubDate>Tue, 27 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Taiwan ist gut im Recycling</title>
-      <link>https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - EU</title>
-      <link>https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-2</guid>
-      <pubDate>Thu, 29 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - EU</title>
-      <link>https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-1</guid>
-      <pubDate>Thu, 29 Jan 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Chefs verdienen viel mehr Geld</title>
-      <link>https://germaninlevels.com/products/bosses-earn-much-more-money-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/bosses-earn-much-more-money-level-2</guid>
-      <pubDate>Fri, 30 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Chefs verdienen viel mehr Geld</title>
-      <link>https://germaninlevels.com/products/bosses-earn-much-more-money-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/bosses-earn-much-more-money-level-1</guid>
-      <pubDate>Fri, 30 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 2 - Brooklyn Beckham redet über Probleme in der Familie</title>
-      <link>https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-2</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-2</guid>
-      <pubDate>Mon, 02 Feb 2026 09:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Level 1 - Brooklyn Beckham redet über Probleme in der Familie</title>
-      <link>https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-1</guid>
-      <pubDate>Mon, 02 Feb 2026 09:00:00 +0100</pubDate>
+      <title>Level 1 - Der bulgarische Präsident beendet</title>
+      <link>https://germaninlevels.com/products/bulgarian-president-ends-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/bulgarian-president-ends-level-1</guid>
+      <pubDate>Mon, 02 Feb 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Level 2 - Der bulgarische Präsident beendet</title>
@@ -194,10 +32,184 @@
       <pubDate>Mon, 02 Feb 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Level 1 - Der bulgarische Präsident beendet</title>
-      <link>https://germaninlevels.com/products/bulgarian-president-ends-level-1</link>
-      <guid isPermaLink="false">https://germaninlevels.com/products/bulgarian-president-ends-level-1</guid>
-      <pubDate>Mon, 02 Feb 2026 17:00:00 +0100</pubDate>
+      <title>Level 1 - Brooklyn Beckham redet über Probleme in der Familie</title>
+      <link>https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-1</guid>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Brooklyn Beckham redet über Probleme in der Familie</title>
+      <link>https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/brooklyn-beckham-speaks-about-family-problems-level-2</guid>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Chefs verdienen viel mehr Geld</title>
+      <link>https://germaninlevels.com/products/bosses-earn-much-more-money-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/bosses-earn-much-more-money-level-1</guid>
+      <pubDate>Fri, 30 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Chefs verdienen viel mehr Geld</title>
+      <link>https://germaninlevels.com/products/bosses-earn-much-more-money-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/bosses-earn-much-more-money-level-2</guid>
+      <pubDate>Fri, 30 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - EU</title>
+      <link>https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-1</guid>
+      <pubDate>Thu, 29 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - EU</title>
+      <link>https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/eu-leaders-talk-about-greenland-level-2</guid>
+      <pubDate>Thu, 29 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Taiwan ist gut im Recycling</title>
+      <link>https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Taiwan ist gut im Recycling</title>
+      <link>https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/taiwan-is-good-at-recycling-level-2</guid>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Zero</title>
+      <link>https://germaninlevels.com/products/posting-zero-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/posting-zero-level-1</guid>
+      <pubDate>Mon, 26 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Zero</title>
+      <link>https://germaninlevels.com/products/posting-zero-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/posting-zero-level-2</guid>
+      <pubDate>Mon, 26 Jan 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Die Eintrittskarten für den Louvre sind teurer</title>
+      <link>https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-1</guid>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Die Eintrittskarten für den Louvre sind teurer</title>
+      <link>https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/tickets-to-the-louvre-cost-more-level-2</guid>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Warum viele Leute Single sind</title>
+      <link>https://germaninlevels.com/products/why-many-people-are-single-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/why-many-people-are-single-level-1</guid>
+      <pubDate>Sun, 25 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Warum viele Leute Single sind</title>
+      <link>https://germaninlevels.com/products/why-many-people-are-single-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/why-many-people-are-single-level-2</guid>
+      <pubDate>Sun, 25 Jan 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Ein Bauernhof hilft den Leuten, sich gut zu ernähren</title>
+      <link>https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-2</guid>
+      <pubDate>Mon, 26 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Ein Bauernhof hilft den Leuten, sich gut zu ernähren</title>
+      <link>https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/a-farm-helps-people-eat-well-level-1</guid>
+      <pubDate>Mon, 26 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Die Bauern können ihren Kakao nicht verkaufen</title>
+      <link>https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-2</guid>
+      <pubDate>Mon, 26 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Die Bauern können ihren Kakao nicht verkaufen</title>
+      <link>https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/farmers-cannot-sell-their-cocoa-level-1</guid>
+      <pubDate>Mon, 26 Jan 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Eine neue Maschine hilft Leuten beim Sterben</title>
+      <link>https://germaninlevels.com/products/a-new-machine-helps-people-die-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/a-new-machine-helps-people-die-level-2</guid>
+      <pubDate>Tue, 27 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Eine neue Maschine hilft Leuten beim Sterben</title>
+      <link>https://germaninlevels.com/products/a-new-machine-helps-people-die-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/a-new-machine-helps-people-die-level-1</guid>
+      <pubDate>Tue, 27 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Iran und Ölpreise</title>
+      <link>https://germaninlevels.com/products/iran-and-oil-prices-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/iran-and-oil-prices-level-2</guid>
+      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Iran und Ölpreise</title>
+      <link>https://germaninlevels.com/products/iran-and-oil-prices-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/iran-and-oil-prices-level-1</guid>
+      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Lachs essen ist schlecht für den Planeten</title>
+      <link>https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-2</guid>
+      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Lachs essen ist schlecht für den Planeten</title>
+      <link>https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/eating-salmon-hurts-the-planet-level-1</guid>
+      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Artemis II</title>
+      <link>https://germaninlevels.com/products/artemis-ii-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/artemis-ii-level-2</guid>
+      <pubDate>Sun, 01 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Artemis II</title>
+      <link>https://germaninlevels.com/products/artemis-ii-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/artemis-ii-level-1</guid>
+      <pubDate>Sun, 01 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Die Weltuntergangsuhr im Jahr 2026</title>
+      <link>https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-2</guid>
+      <pubDate>Mon, 02 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Die Weltuntergangsuhr im Jahr 2026</title>
+      <link>https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/the-doomsday-clock-in-2026-level-1</guid>
+      <pubDate>Mon, 02 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 2 - Der Film von Melania Trump</title>
+      <link>https://germaninlevels.com/products/melania-trumps-film-level-2</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/melania-trumps-film-level-2</guid>
+      <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Level 1 - Der Film von Melania Trump</title>
+      <link>https://germaninlevels.com/products/melania-trumps-film-level-1</link>
+      <guid isPermaLink="false">https://germaninlevels.com/products/melania-trumps-film-level-1</guid>
+      <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
