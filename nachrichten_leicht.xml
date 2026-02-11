@@ -6,125 +6,89 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 16:00:03 +0000</lastBuildDate>
-    <item>
-      <title>Neues Grund-Einkommen für Künstler</title>
-      <link>https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung beschließt Regeln für mehr Barriere-Freiheit</title>
-      <link>https://www.nachrichtenleicht.de/barriere-freiheit-bund-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/barriere-freiheit-bund-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Länger arbeiten und weniger Rente für Mütter?</title>
-      <link>https://www.nachrichtenleicht.de/sozial-debatte-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sozial-debatte-100.html</guid>
-      <pubDate>Tue, 10 Feb 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viel Gewalt in Partnerschaften - aber nur wenige Taten werden angezeigt</title>
-      <link>https://www.nachrichtenleicht.de/gewalt-im-alltag-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gewalt-im-alltag-102.html</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen wollen Bio-Lebensmittel - zu wenig Anbau in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/mehr-nachfrage-nach-bio-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mehr-nachfrage-nach-bio-100.html</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutschland verliert Finale von Handball-EM</title>
-      <link>https://www.nachrichtenleicht.de/deutschland-handball-finale-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/deutschland-handball-finale-100.html</guid>
-      <pubDate>Tue, 10 Feb 2026 01:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutlicher Wahl-Sieg für Regierungs-Partei in Japan</title>
-      <link>https://www.nachrichtenleicht.de/japan-wahlsieg-ldp-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-wahlsieg-ldp-100.html</guid>
-      <pubDate>Mon, 09 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
-      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</guid>
-      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bekannte Ski-Fahrerin Lindsey Vonn stürzt bei den Olympischen Spielen</title>
-      <link>https://www.nachrichtenleicht.de/olympia-vonn-sturz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-vonn-sturz-100.html</guid>
-      <pubDate>Sun, 08 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Behinderten-Verband: Wege mit Glatt-Eis sehr gefährlich für Menschen mit Geh-Hilfen</title>
-      <link>https://www.nachrichtenleicht.de/glatte-geh-wege-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/glatte-geh-wege-100.html</guid>
-      <pubDate>Sat, 07 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Kanzler Merz will mehr Handels-Abkommen</title>
-      <link>https://www.nachrichtenleicht.de/merz-golfreise-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-golfreise-100.html</guid>
-      <pubDate>Fri, 06 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Olympische Winter-Spiele in Italien beginnen</title>
-      <link>https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-100.html</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Proteste gegen US-Regierung beim Musik-Preis Grammy</title>
-      <link>https://www.nachrichtenleicht.de/grammys-ice-proteste-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/grammys-ice-proteste-100.html</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
-      <link>https://www.nachrichtenleicht.de/bahn-138.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-138.html</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
-      <link>https://www.nachrichtenleicht.de/bahn-136.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-136.html</guid>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Für Deutschland ist die kleine Insel Niue im Pazifik jetzt ein eigener Staat</title>
-      <link>https://www.nachrichtenleicht.de/insel-niue-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/insel-niue-100.html</guid>
-      <pubDate>Wed, 04 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>USA wollen mit Ländern seltene Rohstoffe handeln und eigene Lager anlegen</title>
-      <link>https://www.nachrichtenleicht.de/rohstoffe-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rohstoffe-102.html</guid>
-      <pubDate>Wed, 04 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 17:00:03 +0000</lastBuildDate>
     <item>
       <title>Diskussion über Russland bei Sport-Wettkämpfen</title>
       <link>https://www.nachrichtenleicht.de/russland-sport-infantino-100.html</link>
       <guid isPermaLink="false">https://www.nachrichtenleicht.de/russland-sport-infantino-100.html</guid>
-      <pubDate>Tue, 03 Feb 2026 17:00:00 +0100</pubDate>
+      <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>ADAC-Präsident Hillebrand nach Aussage zum Klima-Schutz zurückgetreten</title>
-      <link>https://www.nachrichtenleicht.de/adac-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/adac-100.html</guid>
-      <pubDate>Wed, 04 Feb 2026 16:00:00 +0100</pubDate>
+      <title>Film über Melania Trump erfolgreich in den Kinos gestartet</title>
+      <link>https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Neue direkte Gespräche zwischen der Ukraine und Russland</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-364.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-364.html</guid>
+      <title>Viele Tote durch Schüsse in Schule</title>
+      <link>https://www.nachrichtenleicht.de/kanada-angriff-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kanada-angriff-100.html</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rund 13 Millionen Menschen in Deutschland gelten als arm</title>
+      <link>https://www.nachrichtenleicht.de/armut-in-deutschland-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/armut-in-deutschland-108.html</guid>
+      <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>EU stuft 7 Länder als "sichere Herkunfts-Staaten" ein</title>
+      <link>https://www.nachrichtenleicht.de/liste-sicherer-herkunfts-staaten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/liste-sicherer-herkunfts-staaten-100.html</guid>
+      <pubDate>Tue, 10 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen sind schlecht zur Arbeit gekommen</title>
+      <link>https://www.nachrichtenleicht.de/warn-streik-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/warn-streik-102.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wärme-Pumpen sind die beliebteste Heizungs-Art in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/waermepumpe-116.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waermepumpe-116.html</guid>
+      <pubDate>Mon, 09 Feb 2026 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hongkong: Bekannter Regierungs-Kritiker Jimmy Lai muss 20 Jahre ins Gefängnis</title>
+      <link>https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</guid>
+      <pubDate>Mon, 09 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Justiz-Ministerin will teure Mieten für Wohnungen mit Möbeln verbieten</title>
+      <link>https://www.nachrichtenleicht.de/wohnen-mieten-justiz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wohnen-mieten-justiz-100.html</guid>
+      <pubDate>Sun, 08 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Politiker und Prominente in den Epstein-Akten</title>
+      <link>https://www.nachrichtenleicht.de/epstein-akten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-akten-100.html</guid>
+      <pubDate>Sun, 08 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Präsident Trump entschuldigt sich nicht für rassistisches Video</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5666.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5666.html</guid>
+      <pubDate>Sat, 07 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Olympischen Winter-Spiele sind eröffnet</title>
+      <link>https://www.nachrichtenleicht.de/olympische-spiele-eroeffnet-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympische-spiele-eroeffnet-106.html</guid>
+      <pubDate>Sat, 07 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Europäische Union droht Tiktok mit hohen Geld-Strafen</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5664.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5664.html</guid>
+      <pubDate>Fri, 06 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Olympische Winter-Spiele in Italien beginnen</title>
+      <link>https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-102.html</guid>
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
@@ -134,82 +98,118 @@
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Olympische Winter-Spiele in Italien beginnen</title>
-      <link>https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-102.html</guid>
+      <title>Neue direkte Gespräche zwischen der Ukraine und Russland</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-364.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-364.html</guid>
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Europäische Union droht Tiktok mit hohen Geld-Strafen</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5664.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5664.html</guid>
-      <pubDate>Fri, 06 Feb 2026 16:00:00 +0100</pubDate>
+      <title>ADAC-Präsident Hillebrand nach Aussage zum Klima-Schutz zurückgetreten</title>
+      <link>https://www.nachrichtenleicht.de/adac-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/adac-100.html</guid>
+      <pubDate>Wed, 04 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Die Olympischen Winter-Spiele sind eröffnet</title>
-      <link>https://www.nachrichtenleicht.de/olympische-spiele-eroeffnet-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympische-spiele-eroeffnet-106.html</guid>
-      <pubDate>Sat, 07 Feb 2026 14:00:00 +0100</pubDate>
+      <title>USA wollen mit Ländern seltene Rohstoffe handeln und eigene Lager anlegen</title>
+      <link>https://www.nachrichtenleicht.de/rohstoffe-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rohstoffe-102.html</guid>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Präsident Trump entschuldigt sich nicht für rassistisches Video</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5666.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5666.html</guid>
-      <pubDate>Sat, 07 Feb 2026 18:00:00 +0100</pubDate>
+      <title>Für Deutschland ist die kleine Insel Niue im Pazifik jetzt ein eigener Staat</title>
+      <link>https://www.nachrichtenleicht.de/insel-niue-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/insel-niue-100.html</guid>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Viele Politiker und Prominente in den Epstein-Akten</title>
-      <link>https://www.nachrichtenleicht.de/epstein-akten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-akten-100.html</guid>
-      <pubDate>Sun, 08 Feb 2026 17:00:00 +0100</pubDate>
+      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
+      <link>https://www.nachrichtenleicht.de/bahn-136.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-136.html</guid>
+      <pubDate>Wed, 04 Feb 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Justiz-Ministerin will teure Mieten für Wohnungen mit Möbeln verbieten</title>
-      <link>https://www.nachrichtenleicht.de/wohnen-mieten-justiz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wohnen-mieten-justiz-100.html</guid>
-      <pubDate>Sun, 08 Feb 2026 17:00:00 +0100</pubDate>
+      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
+      <link>https://www.nachrichtenleicht.de/bahn-138.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-138.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Hongkong: Bekannter Regierungs-Kritiker Jimmy Lai muss 20 Jahre ins Gefängnis</title>
-      <link>https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</guid>
-      <pubDate>Mon, 09 Feb 2026 15:00:00 +0100</pubDate>
+      <title>Proteste gegen US-Regierung beim Musik-Preis Grammy</title>
+      <link>https://www.nachrichtenleicht.de/grammys-ice-proteste-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/grammys-ice-proteste-100.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Wärme-Pumpen sind die beliebteste Heizungs-Art in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/waermepumpe-116.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waermepumpe-116.html</guid>
-      <pubDate>Mon, 09 Feb 2026 20:00:00 +0100</pubDate>
+      <title>Olympische Winter-Spiele in Italien beginnen</title>
+      <link>https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-auftakt-mailand-cortina-100.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Viele Menschen sind schlecht zur Arbeit gekommen</title>
-      <link>https://www.nachrichtenleicht.de/warn-streik-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/warn-streik-102.html</guid>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0100</pubDate>
+      <title>Bundes-Kanzler Merz will mehr Handels-Abkommen</title>
+      <link>https://www.nachrichtenleicht.de/merz-golfreise-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-golfreise-100.html</guid>
+      <pubDate>Fri, 06 Feb 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>EU stuft 7 Länder als "sichere Herkunfts-Staaten" ein</title>
-      <link>https://www.nachrichtenleicht.de/liste-sicherer-herkunfts-staaten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/liste-sicherer-herkunfts-staaten-100.html</guid>
-      <pubDate>Tue, 10 Feb 2026 18:00:00 +0100</pubDate>
+      <title>Behinderten-Verband: Wege mit Glatt-Eis sehr gefährlich für Menschen mit Geh-Hilfen</title>
+      <link>https://www.nachrichtenleicht.de/glatte-geh-wege-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/glatte-geh-wege-100.html</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rund 13 Millionen Menschen in Deutschland gelten als arm</title>
-      <link>https://www.nachrichtenleicht.de/armut-in-deutschland-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/armut-in-deutschland-108.html</guid>
-      <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
+      <title>Bekannte Ski-Fahrerin Lindsey Vonn stürzt bei den Olympischen Spielen</title>
+      <link>https://www.nachrichtenleicht.de/olympia-vonn-sturz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-vonn-sturz-100.html</guid>
+      <pubDate>Sun, 08 Feb 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Viele Tote durch Schüsse in Schule</title>
-      <link>https://www.nachrichtenleicht.de/kanada-angriff-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kanada-angriff-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
+      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
+      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</guid>
+      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Film über Melania Trump erfolgreich in den Kinos gestartet</title>
-      <link>https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
+      <title>Deutlicher Wahl-Sieg für Regierungs-Partei in Japan</title>
+      <link>https://www.nachrichtenleicht.de/japan-wahlsieg-ldp-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-wahlsieg-ldp-100.html</guid>
+      <pubDate>Mon, 09 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deutschland verliert Finale von Handball-EM</title>
+      <link>https://www.nachrichtenleicht.de/deutschland-handball-finale-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/deutschland-handball-finale-100.html</guid>
+      <pubDate>Tue, 10 Feb 2026 01:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen wollen Bio-Lebensmittel - zu wenig Anbau in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/mehr-nachfrage-nach-bio-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mehr-nachfrage-nach-bio-100.html</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viel Gewalt in Partnerschaften - aber nur wenige Taten werden angezeigt</title>
+      <link>https://www.nachrichtenleicht.de/gewalt-im-alltag-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gewalt-im-alltag-102.html</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Länger arbeiten und weniger Rente für Mütter?</title>
+      <link>https://www.nachrichtenleicht.de/sozial-debatte-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sozial-debatte-100.html</guid>
+      <pubDate>Tue, 10 Feb 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung beschließt Regeln für mehr Barriere-Freiheit</title>
+      <link>https://www.nachrichtenleicht.de/barriere-freiheit-bund-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/barriere-freiheit-bund-100.html</guid>
+      <pubDate>Wed, 11 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Neues Grund-Einkommen für Künstler</title>
+      <link>https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</guid>
+      <pubDate>Wed, 11 Feb 2026 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
