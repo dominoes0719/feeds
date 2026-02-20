@@ -6,233 +6,47 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 14:00:03 +0000</lastBuildDate>
     <item>
-      <title>Ehemaliger britischer Prinz Andrew festgenommen</title>
-      <link>https://www.nachrichtenleicht.de/andrew-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/andrew-104.html</guid>
-      <pubDate>Thu, 19 Feb 2026 16:00:00 +0100</pubDate>
+      <title>Russin trug bei Olympia-Eröffnungs-Feier Schild für Ukraine</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-102.html</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Russin trug bei Eröffnungs-Feier Schild für die Ukraine</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-100.html</guid>
-      <pubDate>Wed, 18 Feb 2026 18:00:00 +0100</pubDate>
+      <title>Regen und gute Laune bei Rosenmontags-Umzügen</title>
+      <link>https://www.nachrichtenleicht.de/rosenmontag-118.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rosenmontag-118.html</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Kritik an elektronischer Patienten-Akte</title>
-      <link>https://www.nachrichtenleicht.de/elektronische-patienten-akte-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/elektronische-patienten-akte-100.html</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hongkong: Bekannter Regierungs-Kritiker Jimmy Lai muss 20 Jahre ins Gefängnis</title>
-      <link>https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</guid>
-      <pubDate>Tue, 17 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Regen und gute Laune bei Karnevals-Umzügen</title>
-      <link>https://www.nachrichtenleicht.de/rosenmontag-116.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rosenmontag-116.html</guid>
-      <pubDate>Mon, 16 Feb 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Partei SPD will Soziale Medien für Kinder verbieten</title>
-      <link>https://www.nachrichtenleicht.de/spd-soziale-medien-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/spd-soziale-medien-100.html</guid>
-      <pubDate>Mon, 16 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Forscher warnen vor zu vielen Touristen auf Gletschern</title>
-      <link>https://www.nachrichtenleicht.de/gletscher-tourismus-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gletscher-tourismus-102.html</guid>
-      <pubDate>Sun, 15 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nach vielen Protesten: Eröffnung von neuer Moschee</title>
-      <link>https://www.nachrichtenleicht.de/moschee-erfurt-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/moschee-erfurt-100.html</guid>
-      <pubDate>Sat, 14 Feb 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Europäische Union droht Tiktok mit hohen Geld-Strafen</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5664.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5664.html</guid>
-      <pubDate>Sat, 14 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Weltweite Tanz-Aktion gegen Gewalt an Mädchen und Frauen</title>
-      <link>https://www.nachrichtenleicht.de/tanz-aktion-gegen-gewalt-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tanz-aktion-gegen-gewalt-100.html</guid>
-      <pubDate>Sat, 14 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Maja T. in Ungarn zu 8 Jahren Haft verurteilt</title>
-      <link>https://www.nachrichtenleicht.de/maja-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/maja-102.html</guid>
-      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Neue direkte Gespräche zwischen der Ukraine und Russland</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-364.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-364.html</guid>
-      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kameras für mehr Sicherheit bei Bahn-Mitarbeitern</title>
-      <link>https://www.nachrichtenleicht.de/bahn-sicherheit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-sicherheit-100.html</guid>
-      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Film-Festival Berlinale eröffnet</title>
-      <link>https://www.nachrichtenleicht.de/berlinale-eroeffnung-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlinale-eroeffnung-108.html</guid>
-      <pubDate>Fri, 13 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>NATO beginnt Mission auf Insel Grönland</title>
-      <link>https://www.nachrichtenleicht.de/nato-mission-arktis-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nato-mission-arktis-102.html</guid>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Diskussion über Russland bei Sport-Wettkämpfen</title>
-      <link>https://www.nachrichtenleicht.de/russland-sport-infantino-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/russland-sport-infantino-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Film über Melania Trump erfolgreich in den Kinos gestartet</title>
-      <link>https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kino-start-melania-trump-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Tote durch Schüsse in Schule</title>
-      <link>https://www.nachrichtenleicht.de/kanada-angriff-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kanada-angriff-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Neues Grund-Einkommen für Künstler</title>
-      <link>https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/grund-einkommen-kuenstler-100.html</guid>
-      <pubDate>Wed, 11 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundestags-Präsidentin Klöckner besucht Gaza-Streifen</title>
-      <link>https://www.nachrichtenleicht.de/kloeckner-gaza-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kloeckner-gaza-102.html</guid>
-      <pubDate>Thu, 12 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukrainischer Skeleton-Sportler Heraskewytsch ausgeschlossen</title>
-      <link>https://www.nachrichtenleicht.de/heraskewytsch-ausgeschlossen-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/heraskewytsch-ausgeschlossen-102.html</guid>
-      <pubDate>Thu, 12 Feb 2026 14:00:00 +0100</pubDate>
+      <title>Politiker wollen Soziale Medien für Kinder verbieten</title>
+      <link>https://www.nachrichtenleicht.de/spd-soziale-medien-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/spd-soziale-medien-102.html</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Tausende Menschen feiern Karneval und Fastnacht</title>
       <link>https://www.nachrichtenleicht.de/karneval-118.html</link>
       <guid isPermaLink="false">https://www.nachrichtenleicht.de/karneval-118.html</guid>
-      <pubDate>Thu, 12 Feb 2026 14:00:00 +0100</pubDate>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
-      <link>https://www.nachrichtenleicht.de/bahn-136.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-136.html</guid>
-      <pubDate>Thu, 12 Feb 2026 18:00:00 +0100</pubDate>
+      <title>Ukrainischer Skeleton-Sportler Heraskewytsch ausgeschlossen</title>
+      <link>https://www.nachrichtenleicht.de/heraskewytsch-ausgeschlossen-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/heraskewytsch-ausgeschlossen-102.html</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bundes-Regierung beschließt Regeln für mehr Barriere-Freiheit</title>
-      <link>https://www.nachrichtenleicht.de/barriere-freiheit-bund-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/barriere-freiheit-bund-102.html</guid>
-      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
+      <title>Bundestags-Präsidentin Klöckner besucht Gaza-Streifen</title>
+      <link>https://www.nachrichtenleicht.de/kloeckner-gaza-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kloeckner-gaza-102.html</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
-      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-102.html</guid>
-      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mehrere Medaillen für deutsches Team bei Olympischen Winter-Spielen</title>
-      <link>https://www.nachrichtenleicht.de/olympia-ergebnisse-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-ergebnisse-100.html</guid>
-      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sicherheits-Konferenz in München</title>
-      <link>https://www.nachrichtenleicht.de/sicherheits-konferenz-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sicherheits-konferenz-106.html</guid>
-      <pubDate>Fri, 13 Feb 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Erstmal keine Streiks mehr: Angestelle der Bundes-Länder bekommen mehr Geld</title>
-      <link>https://www.nachrichtenleicht.de/tarifstreit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tarifstreit-100.html</guid>
-      <pubDate>Sat, 14 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Chefs tricksen bei dem Mindest-Lohn</title>
-      <link>https://www.nachrichtenleicht.de/mindestlohn-trickserei-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mindestlohn-trickserei-100.html</guid>
-      <pubDate>Sun, 15 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Politiker diskutieren über Beziehungen zwischen Europa und USA</title>
-      <link>https://www.nachrichtenleicht.de/msc-abschluss-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/msc-abschluss-100.html</guid>
-      <pubDate>Sun, 15 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutschland sagt: Der russische Oppositions-Politiker Nawalny wurde vergiftet</title>
-      <link>https://www.nachrichtenleicht.de/nawalny-vergiftet-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nawalny-vergiftet-102.html</guid>
-      <pubDate>Mon, 16 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Politiker und Prominente in den Epstein-Akten</title>
-      <link>https://www.nachrichtenleicht.de/epstein-akten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-akten-100.html</guid>
-      <pubDate>Mon, 16 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
-      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</guid>
-      <pubDate>Tue, 17 Feb 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Amerikanischer Bürger-Rechtler Jesse Jackson mit 84 Jahren gestorben</title>
-      <link>https://www.nachrichtenleicht.de/jesse-james-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jesse-james-100.html</guid>
-      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutsches Team für die Paralympics bekommt 2 weitere Mitglieder</title>
-      <link>https://www.nachrichtenleicht.de/paralympics-winterspiele-team-deutschland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winterspiele-team-deutschland-100.html</guid>
-      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Die EU-Kommission prüft: Hält sich Shein an die Regeln?</title>
-      <link>https://www.nachrichtenleicht.de/shein-eu-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/shein-eu-100.html</guid>
-      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nachfahren von jüdischer Familie Simson wehren sich gegen AfD</title>
-      <link>https://www.nachrichtenleicht.de/simson-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/simson-102.html</guid>
-      <pubDate>Wed, 18 Feb 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Fasten-Zeit bei Christen und Muslimen hat begonnen</title>
-      <link>https://www.nachrichtenleicht.de/ramadan-begonnen-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ramadan-begonnen-102.html</guid>
+      <title>Deutsche Biathleten bekommen 12 Jahre später Gold</title>
+      <link>https://www.nachrichtenleicht.de/biathlon-gold-doping-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/biathlon-gold-doping-102.html</guid>
       <pubDate>Thu, 19 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
@@ -242,10 +56,190 @@
       <pubDate>Thu, 19 Feb 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Deutsche Biathleten bekommen 12 Jahre später Gold</title>
-      <link>https://www.nachrichtenleicht.de/biathlon-gold-doping-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/biathlon-gold-doping-102.html</guid>
+      <title>Fasten-Zeit bei Christen und Muslimen hat begonnen</title>
+      <link>https://www.nachrichtenleicht.de/ramadan-begonnen-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ramadan-begonnen-102.html</guid>
       <pubDate>Thu, 19 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nachfahren von jüdischer Familie Simson wehren sich gegen AfD</title>
+      <link>https://www.nachrichtenleicht.de/simson-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/simson-102.html</guid>
+      <pubDate>Wed, 18 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die EU-Kommission prüft: Hält sich Shein an die Regeln?</title>
+      <link>https://www.nachrichtenleicht.de/shein-eu-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/shein-eu-100.html</guid>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deutsches Team für die Paralympics bekommt 2 weitere Mitglieder</title>
+      <link>https://www.nachrichtenleicht.de/paralympics-winterspiele-team-deutschland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winterspiele-team-deutschland-100.html</guid>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Amerikanischer Bürger-Rechtler Jesse Jackson mit 84 Jahren gestorben</title>
+      <link>https://www.nachrichtenleicht.de/jesse-james-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jesse-james-100.html</guid>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
+      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-100.html</guid>
+      <pubDate>Tue, 17 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Politiker und Prominente in den Epstein-Akten</title>
+      <link>https://www.nachrichtenleicht.de/epstein-akten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/epstein-akten-100.html</guid>
+      <pubDate>Mon, 16 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deutschland sagt: Der russische Oppositions-Politiker Nawalny wurde vergiftet</title>
+      <link>https://www.nachrichtenleicht.de/nawalny-vergiftet-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nawalny-vergiftet-102.html</guid>
+      <pubDate>Mon, 16 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Politiker diskutieren über Beziehungen zwischen Europa und USA</title>
+      <link>https://www.nachrichtenleicht.de/msc-abschluss-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/msc-abschluss-100.html</guid>
+      <pubDate>Sun, 15 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Chefs tricksen bei dem Mindest-Lohn</title>
+      <link>https://www.nachrichtenleicht.de/mindestlohn-trickserei-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mindestlohn-trickserei-100.html</guid>
+      <pubDate>Sun, 15 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erstmal keine Streiks mehr: Angestelle der Bundes-Länder bekommen mehr Geld</title>
+      <link>https://www.nachrichtenleicht.de/tarifstreit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tarifstreit-100.html</guid>
+      <pubDate>Sat, 14 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sicherheits-Konferenz in München</title>
+      <link>https://www.nachrichtenleicht.de/sicherheits-konferenz-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sicherheits-konferenz-106.html</guid>
+      <pubDate>Fri, 13 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mehrere Medaillen für deutsches Team bei Olympischen Winter-Spielen</title>
+      <link>https://www.nachrichtenleicht.de/olympia-ergebnisse-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/olympia-ergebnisse-100.html</guid>
+      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump ärgert sich über Super-Bowl-Show von Sänger Bad Bunny</title>
+      <link>https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/super-bowl-bad-bunny-trump-102.html</guid>
+      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung beschließt Regeln für mehr Barriere-Freiheit</title>
+      <link>https://www.nachrichtenleicht.de/barriere-freiheit-bund-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/barriere-freiheit-bund-102.html</guid>
+      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trauer und Wut nach tödlichem Angriff auf Zug-Begleiter</title>
+      <link>https://www.nachrichtenleicht.de/bahn-136.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-136.html</guid>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>NATO beginnt Mission auf Insel Grönland</title>
+      <link>https://www.nachrichtenleicht.de/nato-mission-arktis-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nato-mission-arktis-102.html</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Film-Festival Berlinale eröffnet</title>
+      <link>https://www.nachrichtenleicht.de/berlinale-eroeffnung-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/berlinale-eroeffnung-108.html</guid>
+      <pubDate>Fri, 13 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kameras für mehr Sicherheit bei Bahn-Mitarbeitern</title>
+      <link>https://www.nachrichtenleicht.de/bahn-sicherheit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-sicherheit-100.html</guid>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Neue direkte Gespräche zwischen der Ukraine und Russland</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-364.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-364.html</guid>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maja T. in Ungarn zu 8 Jahren Haft verurteilt</title>
+      <link>https://www.nachrichtenleicht.de/maja-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/maja-102.html</guid>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Weltweite Tanz-Aktion gegen Gewalt an Mädchen und Frauen</title>
+      <link>https://www.nachrichtenleicht.de/tanz-aktion-gegen-gewalt-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tanz-aktion-gegen-gewalt-100.html</guid>
+      <pubDate>Sat, 14 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Europäische Union droht Tiktok mit hohen Geld-Strafen</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5664.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5664.html</guid>
+      <pubDate>Sat, 14 Feb 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nach vielen Protesten: Eröffnung von neuer Moschee</title>
+      <link>https://www.nachrichtenleicht.de/moschee-erfurt-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/moschee-erfurt-100.html</guid>
+      <pubDate>Sat, 14 Feb 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Forscher warnen vor zu vielen Touristen auf Gletschern</title>
+      <link>https://www.nachrichtenleicht.de/gletscher-tourismus-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gletscher-tourismus-102.html</guid>
+      <pubDate>Sun, 15 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Partei SPD will Soziale Medien für Kinder verbieten</title>
+      <link>https://www.nachrichtenleicht.de/spd-soziale-medien-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/spd-soziale-medien-100.html</guid>
+      <pubDate>Mon, 16 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Regen und gute Laune bei Karnevals-Umzügen</title>
+      <link>https://www.nachrichtenleicht.de/rosenmontag-116.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rosenmontag-116.html</guid>
+      <pubDate>Mon, 16 Feb 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hongkong: Bekannter Regierungs-Kritiker Jimmy Lai muss 20 Jahre ins Gefängnis</title>
+      <link>https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hongkong-urteil-jimmy-lai-100.html</guid>
+      <pubDate>Tue, 17 Feb 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kritik an elektronischer Patienten-Akte</title>
+      <link>https://www.nachrichtenleicht.de/elektronische-patienten-akte-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/elektronische-patienten-akte-100.html</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Russin trug bei Eröffnungs-Feier Schild für die Ukraine</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-eroeffnungsfeier-olympia-100.html</guid>
+      <pubDate>Wed, 18 Feb 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ehemaliger britischer Prinz Andrew festgenommen</title>
+      <link>https://www.nachrichtenleicht.de/andrew-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/andrew-104.html</guid>
+      <pubDate>Thu, 19 Feb 2026 16:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
