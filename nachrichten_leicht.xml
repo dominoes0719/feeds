@@ -6,137 +6,95 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:00:03 +0000</lastBuildDate>
     <item>
-      <title>Berühmter Küchen-Chef tritt nach Gewalt-Vorwürfen zurück</title>
-      <link>https://www.nachrichtenleicht.de/noma-chef-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/noma-chef-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 17:00:00 +0100</pubDate>
+      <title>Maria Kolesnikowa nimmt Karls-Preis entgegen</title>
+      <link>https://www.nachrichtenleicht.de/kolesnikowa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kolesnikowa-100.html</guid>
+      <pubDate>Sat, 14 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nachrichtenleicht auf wichtiger Messe in Köln</title>
+      <link>https://www.nachrichtenleicht.de/nl-didacta-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nl-didacta-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Immer mehr Jugendliche leben auf der Straße</title>
+      <link>https://www.nachrichtenleicht.de/jugendliche-wohnungs-los-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jugendliche-wohnungs-los-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Viele Medaillen für Deutsche bei den Paralympics</title>
-      <link>https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+      <link>https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-102.html</guid>
+      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Streit um einen Preis für Buch-Läden</title>
-      <link>https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Iranische Fußball-Spielerinnen beantragen Asyl in Australien</title>
+      <link>https://www.nachrichtenleicht.de/iran-sport-fussballerinnen-wm-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-sport-fussballerinnen-wm-102.html</guid>
+      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Die Grünen gewinnen die Wahl in Baden-Württemberg</title>
-      <link>https://www.nachrichtenleicht.de/landtagswahl-baden-wuerttemberg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/landtagswahl-baden-wuerttemberg-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Das Land Japan erinnert an den Atom-Unfall von Fukushima</title>
+      <link>https://www.nachrichtenleicht.de/gedenken-an-fukushima-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gedenken-an-fukushima-100.html</guid>
+      <pubDate>Wed, 11 Mar 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>USA erlauben Kauf von Öl aus Russland</title>
-      <link>https://www.nachrichtenleicht.de/usa-oel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-oel-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Russland wieder bei großer Kultur-Schau in Venedig dabei</title>
+      <link>https://www.nachrichtenleicht.de/biennale-russland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/biennale-russland-100.html</guid>
+      <pubDate>Tue, 10 Mar 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Streit um einen Preis für Buch-Läden</title>
-      <link>https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-102.html</guid>
-      <pubDate>Thu, 12 Mar 2026 16:00:00 +0100</pubDate>
+      <title>Schweizer sagen Nein zu Erhöhung von dem Rundfunk-Beitrag</title>
+      <link>https://www.nachrichtenleicht.de/rundfunk-beitrag-schweiz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rundfunk-beitrag-schweiz-100.html</guid>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bei der Lufthansa streiken die Piloten</title>
-      <link>https://www.nachrichtenleicht.de/lufthansa-piloten-streik-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lufthansa-piloten-streik-100.html</guid>
-      <pubDate>Thu, 12 Mar 2026 16:00:00 +0100</pubDate>
+      <title>Deutschland gehört zu den größten Waffen-Lieferern auf der Welt</title>
+      <link>https://www.nachrichtenleicht.de/waffen-lieferungen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waffen-lieferungen-100.html</guid>
+      <pubDate>Mon, 09 Mar 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bundes-Regierung will etwas gegen hohe Benzin-Preise machen</title>
-      <link>https://www.nachrichtenleicht.de/bundes-regierung-benzin-preise-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundes-regierung-benzin-preise-100.html</guid>
-      <pubDate>Wed, 11 Mar 2026 18:00:00 +0100</pubDate>
+      <title>Partei "Die Grünen" bei den Wahlen in Baden-Württemberg vorne</title>
+      <link>https://www.nachrichtenleicht.de/meldung-landtagswahl-baden-wuerttemberg-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-landtagswahl-baden-wuerttemberg-100.html</guid>
+      <pubDate>Sun, 08 Mar 2026 19:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Auf der Welt gibt es jetzt so viele Milliardäre wie noch nie</title>
-      <link>https://www.nachrichtenleicht.de/so-viele-milliardaere-wie-noch-nie-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/so-viele-milliardaere-wie-noch-nie-100.html</guid>
-      <pubDate>Wed, 11 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Bei psychischen Krankheiten hilft Sport beim Gesundwerden</title>
+      <link>https://www.nachrichtenleicht.de/meldung-sport-depressionen-therapie-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-sport-depressionen-therapie-100.html</guid>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>VW und Porsche verdienen viel weniger Geld</title>
-      <link>https://www.nachrichtenleicht.de/vw-porsche-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/vw-porsche-102.html</guid>
-      <pubDate>Tue, 10 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Frauen verdienen im Durchschnitt weniger als Männer</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5672.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5672.html</guid>
+      <pubDate>Sat, 07 Mar 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Meteorit kracht in ein Haus in der Stadt Koblenz</title>
-      <link>https://www.nachrichtenleicht.de/meteorit-koblenz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meteorit-koblenz-100.html</guid>
-      <pubDate>Mon, 09 Mar 2026 18:00:00 +0100</pubDate>
+      <title>Anna-Lena Forster holt 1. Gold-Medaille für Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/goldmedaille-forster-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldmedaille-forster-100.html</guid>
+      <pubDate>Sat, 07 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Das Land Iran hat einen neuen Anführer</title>
-      <link>https://www.nachrichtenleicht.de/iran-neuer-anfuehrer-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-neuer-anfuehrer-100.html</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Auto-Fahrer fahren zum Tanken ins Ausland</title>
+      <link>https://www.nachrichtenleicht.de/tanken-ausland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tanken-ausland-100.html</guid>
+      <pubDate>Sat, 07 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Großes Literatur-Festival beginnt in Köln</title>
-      <link>https://www.nachrichtenleicht.de/meldung-litcologne-koeln-literatur-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-litcologne-koeln-literatur-100.html</guid>
-      <pubDate>Sun, 08 Mar 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Seit 115 Jahren demonstrieren Frauen am Welt-Frauen-Tag für ihre Rechte</title>
-      <link>https://www.nachrichtenleicht.de/frauentag-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/frauentag-106.html</guid>
-      <pubDate>Sun, 08 Mar 2026 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Bahn will für saubere Fern-Züge sorgen</title>
-      <link>https://www.nachrichtenleicht.de/bahn-140.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-140.html</guid>
-      <pubDate>Sat, 07 Mar 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Winzige Plastik-Teilchen von Auto-Reifen verschmutzen die Luft in großen Städten</title>
-      <link>https://www.nachrichtenleicht.de/luft-autoreifen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/luft-autoreifen-100.html</guid>
-      <pubDate>Fri, 06 Mar 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Studie zum Treib-Haus-Gas CO2</title>
-      <link>https://www.nachrichtenleicht.de/co2-studie-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/co2-studie-102.html</guid>
-      <pubDate>Fri, 06 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mehr Schutz für Kranken-Häuser und Kraft-Werke</title>
-      <link>https://www.nachrichtenleicht.de/kritische-infrastruktur-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kritische-infrastruktur-108.html</guid>
-      <pubDate>Fri, 06 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Kanzler Merz besucht China</title>
-      <link>https://www.nachrichtenleicht.de/merz-in-china-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-in-china-102.html</guid>
-      <pubDate>Thu, 05 Mar 2026 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz "Gaitana" tritt als Kandidatin für indigene Gruppen an</title>
-      <link>https://www.nachrichtenleicht.de/gaitana-kolumbien-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gaitana-kolumbien-102.html</guid>
-      <pubDate>Fri, 06 Mar 2026 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Italien führt Weg-Fahr-Sperren in Autos ein</title>
-      <link>https://www.nachrichtenleicht.de/weg-fahr-sperre-italien-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weg-fahr-sperre-italien-100.html</guid>
-      <pubDate>Fri, 06 Mar 2026 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>USA und Israel greifen Iran an</title>
-      <link>https://www.nachrichtenleicht.de/angriffe-auf-iran-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/angriffe-auf-iran-100.html</guid>
+      <title>Deutsche Sportler nehmen nicht an Eröffnung der Paralympics teil</title>
+      <link>https://www.nachrichtenleicht.de/paralympics-eroeffnungsfeier-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-eroeffnungsfeier-102.html</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
@@ -146,88 +104,118 @@
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Deutsche Sportler nehmen nicht an Eröffnung der Paralympics teil</title>
-      <link>https://www.nachrichtenleicht.de/paralympics-eroeffnungsfeier-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-eroeffnungsfeier-102.html</guid>
+      <title>USA und Israel greifen Iran an</title>
+      <link>https://www.nachrichtenleicht.de/angriffe-auf-iran-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/angriffe-auf-iran-100.html</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Auto-Fahrer fahren zum Tanken ins Ausland</title>
-      <link>https://www.nachrichtenleicht.de/tanken-ausland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tanken-ausland-100.html</guid>
-      <pubDate>Sat, 07 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Mehr Schutz für Kranken-Häuser und Kraft-Werke</title>
+      <link>https://www.nachrichtenleicht.de/kritische-infrastruktur-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kritische-infrastruktur-108.html</guid>
+      <pubDate>Fri, 06 Mar 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Anna-Lena Forster holt 1. Gold-Medaille für Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/goldmedaille-forster-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldmedaille-forster-100.html</guid>
-      <pubDate>Sat, 07 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Studie zum Treib-Haus-Gas CO2</title>
+      <link>https://www.nachrichtenleicht.de/co2-studie-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/co2-studie-102.html</guid>
+      <pubDate>Fri, 06 Mar 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Frauen verdienen im Durchschnitt weniger als Männer</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5672.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5672.html</guid>
-      <pubDate>Sat, 07 Mar 2026 18:00:00 +0100</pubDate>
+      <title>Winzige Plastik-Teilchen von Auto-Reifen verschmutzen die Luft in großen Städten</title>
+      <link>https://www.nachrichtenleicht.de/luft-autoreifen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/luft-autoreifen-100.html</guid>
+      <pubDate>Fri, 06 Mar 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bei psychischen Krankheiten hilft Sport beim Gesundwerden</title>
-      <link>https://www.nachrichtenleicht.de/meldung-sport-depressionen-therapie-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-sport-depressionen-therapie-100.html</guid>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Deutsche Bahn will für saubere Fern-Züge sorgen</title>
+      <link>https://www.nachrichtenleicht.de/bahn-140.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-140.html</guid>
+      <pubDate>Sat, 07 Mar 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Partei "Die Grünen" bei den Wahlen in Baden-Württemberg vorne</title>
-      <link>https://www.nachrichtenleicht.de/meldung-landtagswahl-baden-wuerttemberg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-landtagswahl-baden-wuerttemberg-100.html</guid>
-      <pubDate>Sun, 08 Mar 2026 19:00:00 +0100</pubDate>
+      <title>Seit 115 Jahren demonstrieren Frauen am Welt-Frauen-Tag für ihre Rechte</title>
+      <link>https://www.nachrichtenleicht.de/frauentag-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/frauentag-106.html</guid>
+      <pubDate>Sun, 08 Mar 2026 08:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Deutschland gehört zu den größten Waffen-Lieferern auf der Welt</title>
-      <link>https://www.nachrichtenleicht.de/waffen-lieferungen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waffen-lieferungen-100.html</guid>
-      <pubDate>Mon, 09 Mar 2026 17:00:00 +0100</pubDate>
+      <title>Großes Literatur-Festival beginnt in Köln</title>
+      <link>https://www.nachrichtenleicht.de/meldung-litcologne-koeln-literatur-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-litcologne-koeln-literatur-100.html</guid>
+      <pubDate>Sun, 08 Mar 2026 17:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Schweizer sagen Nein zu Erhöhung von dem Rundfunk-Beitrag</title>
-      <link>https://www.nachrichtenleicht.de/rundfunk-beitrag-schweiz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rundfunk-beitrag-schweiz-100.html</guid>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Das Land Iran hat einen neuen Anführer</title>
+      <link>https://www.nachrichtenleicht.de/iran-neuer-anfuehrer-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-neuer-anfuehrer-100.html</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Russland wieder bei großer Kultur-Schau in Venedig dabei</title>
-      <link>https://www.nachrichtenleicht.de/biennale-russland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/biennale-russland-100.html</guid>
-      <pubDate>Tue, 10 Mar 2026 18:00:00 +0100</pubDate>
+      <title>Meteorit kracht in ein Haus in der Stadt Koblenz</title>
+      <link>https://www.nachrichtenleicht.de/meteorit-koblenz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meteorit-koblenz-100.html</guid>
+      <pubDate>Mon, 09 Mar 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Das Land Japan erinnert an den Atom-Unfall von Fukushima</title>
-      <link>https://www.nachrichtenleicht.de/gedenken-an-fukushima-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gedenken-an-fukushima-100.html</guid>
-      <pubDate>Wed, 11 Mar 2026 16:00:00 +0100</pubDate>
+      <title>VW und Porsche verdienen viel weniger Geld</title>
+      <link>https://www.nachrichtenleicht.de/vw-porsche-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/vw-porsche-102.html</guid>
+      <pubDate>Tue, 10 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Iranische Fußball-Spielerinnen beantragen Asyl in Australien</title>
-      <link>https://www.nachrichtenleicht.de/iran-sport-fussballerinnen-wm-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-sport-fussballerinnen-wm-102.html</guid>
-      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
+      <title>Auf der Welt gibt es jetzt so viele Milliardäre wie noch nie</title>
+      <link>https://www.nachrichtenleicht.de/so-viele-milliardaere-wie-noch-nie-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/so-viele-milliardaere-wie-noch-nie-100.html</guid>
+      <pubDate>Wed, 11 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung will etwas gegen hohe Benzin-Preise machen</title>
+      <link>https://www.nachrichtenleicht.de/bundes-regierung-benzin-preise-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundes-regierung-benzin-preise-100.html</guid>
+      <pubDate>Wed, 11 Mar 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bei der Lufthansa streiken die Piloten</title>
+      <link>https://www.nachrichtenleicht.de/lufthansa-piloten-streik-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lufthansa-piloten-streik-100.html</guid>
+      <pubDate>Thu, 12 Mar 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Streit um einen Preis für Buch-Läden</title>
+      <link>https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-102.html</guid>
+      <pubDate>Thu, 12 Mar 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA erlauben Kauf von Öl aus Russland</title>
+      <link>https://www.nachrichtenleicht.de/usa-oel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-oel-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Grünen gewinnen die Wahl in Baden-Württemberg</title>
+      <link>https://www.nachrichtenleicht.de/landtagswahl-baden-wuerttemberg-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/landtagswahl-baden-wuerttemberg-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Streit um einen Preis für Buch-Läden</title>
+      <link>https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weimer-preis-buchpreis-kritik-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Viele Medaillen für Deutsche bei den Paralympics</title>
-      <link>https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-102.html</guid>
-      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
+      <link>https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paralympics-winter-deutsche-erfolge-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Immer mehr Jugendliche leben auf der Straße</title>
-      <link>https://www.nachrichtenleicht.de/jugendliche-wohnungs-los-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jugendliche-wohnungs-los-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nachrichtenleicht auf wichtiger Messe in Köln</title>
-      <link>https://www.nachrichtenleicht.de/nl-didacta-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nl-didacta-100.html</guid>
-      <pubDate>Fri, 13 Mar 2026 16:00:00 +0100</pubDate>
+      <title>Berühmter Küchen-Chef tritt nach Gewalt-Vorwürfen zurück</title>
+      <link>https://www.nachrichtenleicht.de/noma-chef-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/noma-chef-100.html</guid>
+      <pubDate>Fri, 13 Mar 2026 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
