@@ -6,215 +6,35 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 12:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:00:03 +0000</lastBuildDate>
     <item>
-      <title>Gericht in Russland verurteilt Jacques Tilly wegen Karnevals-Wagen</title>
-      <link>https://www.nachrichtenleicht.de/jacques-tilly-russland-urteil-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jacques-tilly-russland-urteil-100.html</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0200</pubDate>
+      <title>Deutsche Fußballer gewinnen Test-Spiel gegen Ghana</title>
+      <link>https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Firma aus Frankfurt will in Unter-Titeln auch Gefühle und Laut-Stärke zeigen</title>
-      <link>https://www.nachrichtenleicht.de/phont-untertitel-mit-gefuehlen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/phont-untertitel-mit-gefuehlen-100.html</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0200</pubDate>
+      <title>Liebes-Geschichte von gehörloser Frau und blindem Mann im Kino</title>
+      <link>https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Herbert Grönemeyer bekommt Deutschen National-Preis</title>
-      <link>https://www.nachrichtenleicht.de/groenemeyer-nationalpreis-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenemeyer-nationalpreis-100.html</guid>
-      <pubDate>Wed, 01 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Zum 1. Mal seit 50 Jahren sind Menschen auf dem Weg zum Mond</title>
+      <link>https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Gericht stoppt Bau von riesigem Ball-Saal für Weißes Haus</title>
-      <link>https://www.nachrichtenleicht.de/ballsaal-gericht-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ballsaal-gericht-trump-100.html</guid>
-      <pubDate>Wed, 01 Apr 2026 15:00:00 +0200</pubDate>
+      <title>Kirchen in Deutschland sagen: Menschen halten zusammen</title>
+      <link>https://www.nachrichtenleicht.de/ostern-kirchen-in-deutschland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ostern-kirchen-in-deutschland-100.html</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Frau in Hamburg von Wolf gebissen</title>
-      <link>https://www.nachrichtenleicht.de/wolf-in-hamburg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wolf-in-hamburg-100.html</guid>
-      <pubDate>Tue, 31 Mar 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Israelisches Parlament beschließt neues Gesetz zur Todes-Strafe</title>
-      <link>https://www.nachrichtenleicht.de/todes-strafe-israel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/todes-strafe-israel-100.html</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kritik an Deutschland-Besuch von syrischem Präsidenten</title>
-      <link>https://www.nachrichtenleicht.de/syrien-al-scharaa-berlin-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/syrien-al-scharaa-berlin-100.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Emmanuel Grégoire ist neuer Bürger-Meister von Paris</title>
-      <link>https://www.nachrichtenleicht.de/paris-buergermeister-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paris-buergermeister-100.html</guid>
-      <pubDate>Sun, 29 Mar 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen demonstrieren in den USA gegen Präsident Trump</title>
-      <link>https://www.nachrichtenleicht.de/no-kings-proteste-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/no-kings-proteste-102.html</guid>
-      <pubDate>Sun, 29 Mar 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In der Nacht wird die Uhr umgestellt</title>
-      <link>https://www.nachrichtenleicht.de/zeit-umstellung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zeit-umstellung-100.html</guid>
-      <pubDate>Sat, 28 Mar 2026 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Johnny Grasser macht mit Behinderung Leistungs-Sport</title>
-      <link>https://www.nachrichtenleicht.de/johnny-grasser-tetra-spastik-leistungssport-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/johnny-grasser-tetra-spastik-leistungssport-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Neue Regeln für Alters-Vorsorge beschlossen</title>
-      <link>https://www.nachrichtenleicht.de/bundestag-altersvorsorge-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundestag-altersvorsorge-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen hören die Deutschland-Funk-Sender</title>
-      <link>https://www.nachrichtenleicht.de/media-analyse-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/media-analyse-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wal in der Ostsee ist wieder frei</title>
-      <link>https://www.nachrichtenleicht.de/rettung-wal-ostsee-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rettung-wal-ostsee-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nordrhein-Westfalen: Proteste gegen Transport von Atom-Müll</title>
-      <link>https://www.nachrichtenleicht.de/castor-transport-proteste-nrw-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/castor-transport-proteste-nrw-102.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>EU-Parlament stimmt für Abschiebe-Zentren außerhalb von EU</title>
-      <link>https://www.nachrichtenleicht.de/abschiebe-zentren-eu-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abschiebe-zentren-eu-102.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viel Kritik am neuen Gesetz für die Sport-Förderung</title>
-      <link>https://www.nachrichtenleicht.de/sport-foerder-gesetz-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sport-foerder-gesetz-104.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Welt-Kultur-Erbe in Ukraine beschädigt</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-weltkulturerbe-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-weltkulturerbe-102.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Weltweit mehr als 270 Millionen Kinder nicht in der Schule</title>
-      <link>https://www.nachrichtenleicht.de/welt-bildungs-bericht-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/welt-bildungs-bericht-102.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen hören die Deutschland-Funk-Sender</title>
-      <link>https://www.nachrichtenleicht.de/media-analyse-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/media-analyse-102.html</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundestag beschließt Maßnahmen gegen hohe Sprit-Preise</title>
-      <link>https://www.nachrichtenleicht.de/trump-iran-110.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-iran-110.html</guid>
-      <pubDate>Thu, 26 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Die Partei CDU gewinnt Wahl in Rheinland-Pfalz</title>
-      <link>https://www.nachrichtenleicht.de/cdu-gewinnt-landtagswahl-rheinland-pfalz-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/cdu-gewinnt-landtagswahl-rheinland-pfalz-102.html</guid>
-      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Weltweit mehr als 270 Millionen Kinder nicht in der Schule</title>
-      <link>https://www.nachrichtenleicht.de/welt-bildungs-bericht-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/welt-bildungs-bericht-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Viel Kritik am neuen Gesetz für die Sport-Förderung</title>
-      <link>https://www.nachrichtenleicht.de/sport-foerder-gesetz-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sport-foerder-gesetz-102.html</guid>
-      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Früherer Rapper Balendra Shah ist neuer Regierungs-Chef</title>
-      <link>https://www.nachrichtenleicht.de/balendra-shah-premierminister-nepal-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/balendra-shah-premierminister-nepal-100.html</guid>
-      <pubDate>Fri, 27 Mar 2026 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Kanzler Merz kritisiert US-Präsident Trump</title>
-      <link>https://www.nachrichtenleicht.de/merz-kritisiert-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-kritisiert-trump-100.html</guid>
-      <pubDate>Sat, 28 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Psycho-Therapeuten sollen weniger Geld bekommen</title>
-      <link>https://www.nachrichtenleicht.de/psycho-therapeuten-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/psycho-therapeuten-102.html</guid>
-      <pubDate>Sat, 28 Mar 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Licht aus und Strom-Sparen für den Klima-Schutz</title>
-      <link>https://www.nachrichtenleicht.de/earth-hour-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/earth-hour-104.html</guid>
-      <pubDate>Sun, 29 Mar 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr Schutz für wandernde Tier-Arten</title>
-      <link>https://www.nachrichtenleicht.de/wandernde-tierarten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wandernde-tierarten-100.html</guid>
-      <pubDate>Mon, 30 Mar 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Durch den Iran-Krieg steigen die Preise</title>
-      <link>https://www.nachrichtenleicht.de/inflation-preise-iran-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/inflation-preise-iran-100.html</guid>
-      <pubDate>Mon, 30 Mar 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gedenken in Butscha: Vor 4 Jahren verübte Russland Massaker in der Ukraine</title>
-      <link>https://www.nachrichtenleicht.de/gedenken-butscha-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gedenken-butscha-100.html</guid>
-      <pubDate>Tue, 31 Mar 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tankstellen dürfen Sprit-Preise nur noch einmal am Tag erhöhen</title>
-      <link>https://www.nachrichtenleicht.de/tankstellen-preise-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankstellen-preise-104.html</guid>
-      <pubDate>Wed, 01 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Experten sagen: Deutsche Wirtschaft wächst viel langsamer</title>
-      <link>https://www.nachrichtenleicht.de/wachstum-wirtschaft-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wachstum-wirtschaft-100.html</guid>
-      <pubDate>Wed, 01 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vorbild für viele Menschen: Herbert Grönemeyer bekommt Deutschen National-Preis</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5674.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5674.html</guid>
-      <pubDate>Wed, 01 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Kultur-Stätten durch Krieg im Nahen Osten in Gefahr</title>
-      <link>https://www.nachrichtenleicht.de/kultur-statten-in-gefahr-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kultur-statten-in-gefahr-102.html</guid>
+      <title>Zum 1. Mal seit 50 Jahren sind Menschen auf dem Weg zum Mond</title>
+      <link>https://www.nachrichtenleicht.de/artemis-mond-mission-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/artemis-mond-mission-102.html</guid>
       <pubDate>Thu, 02 Apr 2026 14:00:00 +0200</pubDate>
     </item>
     <item>
@@ -224,10 +44,214 @@
       <pubDate>Thu, 02 Apr 2026 14:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Zum 1. Mal seit 50 Jahren sind Menschen auf dem Weg zum Mond</title>
-      <link>https://www.nachrichtenleicht.de/artemis-mond-mission-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/artemis-mond-mission-102.html</guid>
+      <title>Viele Kultur-Stätten durch Krieg im Nahen Osten in Gefahr</title>
+      <link>https://www.nachrichtenleicht.de/kultur-statten-in-gefahr-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kultur-statten-in-gefahr-102.html</guid>
       <pubDate>Thu, 02 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vorbild für viele Menschen: Herbert Grönemeyer bekommt Deutschen National-Preis</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5674.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5674.html</guid>
+      <pubDate>Wed, 01 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Experten sagen: Deutsche Wirtschaft wächst viel langsamer</title>
+      <link>https://www.nachrichtenleicht.de/wachstum-wirtschaft-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wachstum-wirtschaft-100.html</guid>
+      <pubDate>Wed, 01 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tankstellen dürfen Sprit-Preise nur noch einmal am Tag erhöhen</title>
+      <link>https://www.nachrichtenleicht.de/tankstellen-preise-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankstellen-preise-104.html</guid>
+      <pubDate>Wed, 01 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gedenken in Butscha: Vor 4 Jahren verübte Russland Massaker in der Ukraine</title>
+      <link>https://www.nachrichtenleicht.de/gedenken-butscha-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gedenken-butscha-100.html</guid>
+      <pubDate>Tue, 31 Mar 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Durch den Iran-Krieg steigen die Preise</title>
+      <link>https://www.nachrichtenleicht.de/inflation-preise-iran-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/inflation-preise-iran-100.html</guid>
+      <pubDate>Mon, 30 Mar 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr Schutz für wandernde Tier-Arten</title>
+      <link>https://www.nachrichtenleicht.de/wandernde-tierarten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wandernde-tierarten-100.html</guid>
+      <pubDate>Mon, 30 Mar 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Licht aus und Strom-Sparen für den Klima-Schutz</title>
+      <link>https://www.nachrichtenleicht.de/earth-hour-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/earth-hour-104.html</guid>
+      <pubDate>Sun, 29 Mar 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Psycho-Therapeuten sollen weniger Geld bekommen</title>
+      <link>https://www.nachrichtenleicht.de/psycho-therapeuten-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/psycho-therapeuten-102.html</guid>
+      <pubDate>Sat, 28 Mar 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Kanzler Merz kritisiert US-Präsident Trump</title>
+      <link>https://www.nachrichtenleicht.de/merz-kritisiert-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-kritisiert-trump-100.html</guid>
+      <pubDate>Sat, 28 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Früherer Rapper Balendra Shah ist neuer Regierungs-Chef</title>
+      <link>https://www.nachrichtenleicht.de/balendra-shah-premierminister-nepal-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/balendra-shah-premierminister-nepal-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viel Kritik am neuen Gesetz für die Sport-Förderung</title>
+      <link>https://www.nachrichtenleicht.de/sport-foerder-gesetz-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sport-foerder-gesetz-102.html</guid>
+      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Weltweit mehr als 270 Millionen Kinder nicht in der Schule</title>
+      <link>https://www.nachrichtenleicht.de/welt-bildungs-bericht-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/welt-bildungs-bericht-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Partei CDU gewinnt Wahl in Rheinland-Pfalz</title>
+      <link>https://www.nachrichtenleicht.de/cdu-gewinnt-landtagswahl-rheinland-pfalz-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/cdu-gewinnt-landtagswahl-rheinland-pfalz-102.html</guid>
+      <pubDate>Fri, 27 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bundestag beschließt Maßnahmen gegen hohe Sprit-Preise</title>
+      <link>https://www.nachrichtenleicht.de/trump-iran-110.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-iran-110.html</guid>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen hören die Deutschland-Funk-Sender</title>
+      <link>https://www.nachrichtenleicht.de/media-analyse-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/media-analyse-102.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Weltweit mehr als 270 Millionen Kinder nicht in der Schule</title>
+      <link>https://www.nachrichtenleicht.de/welt-bildungs-bericht-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/welt-bildungs-bericht-102.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Welt-Kultur-Erbe in Ukraine beschädigt</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-weltkulturerbe-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-weltkulturerbe-102.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viel Kritik am neuen Gesetz für die Sport-Förderung</title>
+      <link>https://www.nachrichtenleicht.de/sport-foerder-gesetz-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sport-foerder-gesetz-104.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>EU-Parlament stimmt für Abschiebe-Zentren außerhalb von EU</title>
+      <link>https://www.nachrichtenleicht.de/abschiebe-zentren-eu-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abschiebe-zentren-eu-102.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nordrhein-Westfalen: Proteste gegen Transport von Atom-Müll</title>
+      <link>https://www.nachrichtenleicht.de/castor-transport-proteste-nrw-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/castor-transport-proteste-nrw-102.html</guid>
+      <pubDate>Thu, 26 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wal in der Ostsee ist wieder frei</title>
+      <link>https://www.nachrichtenleicht.de/rettung-wal-ostsee-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rettung-wal-ostsee-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen hören die Deutschland-Funk-Sender</title>
+      <link>https://www.nachrichtenleicht.de/media-analyse-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/media-analyse-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Neue Regeln für Alters-Vorsorge beschlossen</title>
+      <link>https://www.nachrichtenleicht.de/bundestag-altersvorsorge-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundestag-altersvorsorge-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Johnny Grasser macht mit Behinderung Leistungs-Sport</title>
+      <link>https://www.nachrichtenleicht.de/johnny-grasser-tetra-spastik-leistungssport-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/johnny-grasser-tetra-spastik-leistungssport-100.html</guid>
+      <pubDate>Fri, 27 Mar 2026 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>In der Nacht wird die Uhr umgestellt</title>
+      <link>https://www.nachrichtenleicht.de/zeit-umstellung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zeit-umstellung-100.html</guid>
+      <pubDate>Sat, 28 Mar 2026 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen demonstrieren in den USA gegen Präsident Trump</title>
+      <link>https://www.nachrichtenleicht.de/no-kings-proteste-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/no-kings-proteste-102.html</guid>
+      <pubDate>Sun, 29 Mar 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Emmanuel Grégoire ist neuer Bürger-Meister von Paris</title>
+      <link>https://www.nachrichtenleicht.de/paris-buergermeister-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paris-buergermeister-100.html</guid>
+      <pubDate>Sun, 29 Mar 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kritik an Deutschland-Besuch von syrischem Präsidenten</title>
+      <link>https://www.nachrichtenleicht.de/syrien-al-scharaa-berlin-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/syrien-al-scharaa-berlin-100.html</guid>
+      <pubDate>Mon, 30 Mar 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Israelisches Parlament beschließt neues Gesetz zur Todes-Strafe</title>
+      <link>https://www.nachrichtenleicht.de/todes-strafe-israel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/todes-strafe-israel-100.html</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Frau in Hamburg von Wolf gebissen</title>
+      <link>https://www.nachrichtenleicht.de/wolf-in-hamburg-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wolf-in-hamburg-100.html</guid>
+      <pubDate>Tue, 31 Mar 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gericht stoppt Bau von riesigem Ball-Saal für Weißes Haus</title>
+      <link>https://www.nachrichtenleicht.de/ballsaal-gericht-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ballsaal-gericht-trump-100.html</guid>
+      <pubDate>Wed, 01 Apr 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Herbert Grönemeyer bekommt Deutschen National-Preis</title>
+      <link>https://www.nachrichtenleicht.de/groenemeyer-nationalpreis-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/groenemeyer-nationalpreis-100.html</guid>
+      <pubDate>Wed, 01 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Firma aus Frankfurt will in Unter-Titeln auch Gefühle und Laut-Stärke zeigen</title>
+      <link>https://www.nachrichtenleicht.de/phont-untertitel-mit-gefuehlen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/phont-untertitel-mit-gefuehlen-100.html</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gericht in Russland verurteilt Jacques Tilly wegen Karnevals-Wagen</title>
+      <link>https://www.nachrichtenleicht.de/jacques-tilly-russland-urteil-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/jacques-tilly-russland-urteil-100.html</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
