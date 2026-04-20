@@ -6,35 +6,149 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:00:03 +0000</lastBuildDate>
     <item>
-      <title>Deutsche Fußballer gewinnen Test-Spiel gegen Ghana</title>
-      <link>https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</guid>
-      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
+      <title>Wahl-Sieg für Mitte-Links-Bündnis</title>
+      <link>https://www.nachrichtenleicht.de/bulgarien-wahl-radew-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bulgarien-wahl-radew-102.html</guid>
+      <pubDate>Mon, 20 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Liebes-Geschichte von gehörloser Frau und blindem Mann im Kino</title>
-      <link>https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</guid>
-      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
+      <title>US-Rapper Kanye West darf wegen Nazi-Parolen kein Konzert in Polen geben</title>
+      <link>https://www.nachrichtenleicht.de/kanye-west-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kanye-west-108.html</guid>
+      <pubDate>Sat, 18 Apr 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Zum 1. Mal seit 50 Jahren sind Menschen auf dem Weg zum Mond</title>
-      <link>https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</guid>
-      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
+      <title>Mehr als 80.000 Menschen demonstrieren für besseren Klima-Schutz</title>
+      <link>https://www.nachrichtenleicht.de/klima-110.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/klima-110.html</guid>
+      <pubDate>Sat, 18 Apr 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Roboter läuft schneller als Profi-Sportler</title>
-      <link>https://www.nachrichtenleicht.de/roboter-halbmarathon-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/roboter-halbmarathon-100.html</guid>
-      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
+      <title>Hisbollah im Libanon und Israel vereinbaren Waffen-Ruhe</title>
+      <link>https://www.nachrichtenleicht.de/libanon-waffenruhe-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/libanon-waffenruhe-100.html</guid>
+      <pubDate>Fri, 17 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Polizei findet Ratten-Gift in Hipp-Baby-Kost</title>
-      <link>https://www.nachrichtenleicht.de/hipp-rattengift-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hipp-rattengift-100.html</guid>
+      <title>Mindestens 18 Menschen bei russischen Angriffen getötet</title>
+      <link>https://www.nachrichtenleicht.de/18-tote-in-ukraine-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/18-tote-in-ukraine-100.html</guid>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Internationale Konferenz in Berlin für die Menschen im Sudan</title>
+      <link>https://www.nachrichtenleicht.de/sudan-krieg-116.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sudan-krieg-116.html</guid>
+      <pubDate>Wed, 15 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lufthansa feiert 100. Geburtstag - trotz vieler Streiks</title>
+      <link>https://www.nachrichtenleicht.de/lufthansa-100-jahre-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lufthansa-100-jahre-100.html</guid>
+      <pubDate>Wed, 15 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Regierungen aus Deutschland und der Ukraine treffen sich erstmals seit 20 Jahren</title>
+      <link>https://www.nachrichtenleicht.de/meldung-ukraine-selenskyj-berlin-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-ukraine-selenskyj-berlin-100.html</guid>
+      <pubDate>Tue, 14 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen erinnern an ermordete Juden</title>
+      <link>https://www.nachrichtenleicht.de/meldung-holocaust-israel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-holocaust-israel-100.html</guid>
+      <pubDate>Tue, 14 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Franziska Koch gewinnt berühmtes Rennen Paris-Roubaix</title>
+      <link>https://www.nachrichtenleicht.de/franziska-koch-paris-roubaix-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/franziska-koch-paris-roubaix-100.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Partei von Minister-Präsident Orbán verliert Wahl in Ungarn</title>
+      <link>https://www.nachrichtenleicht.de/orban-wahl-ungarn-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/orban-wahl-ungarn-100.html</guid>
+      <pubDate>Mon, 13 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kritik am Wahl-Programm von der Partei AfD für Sachsen-Anhalt</title>
+      <link>https://www.nachrichtenleicht.de/afd-sachsen-anhalt-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/afd-sachsen-anhalt-106.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kein Ergebnis bei Friedens-Verhandlungen zwischen Iran und USA</title>
+      <link>https://www.nachrichtenleicht.de/verhandlungen-usa-iran-gescheitert-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/verhandlungen-usa-iran-gescheitert-100.html</guid>
+      <pubDate>Sun, 12 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In der Bundes-Liga ist zum 1. Mal eine Frau Trainerin</title>
+      <link>https://www.nachrichtenleicht.de/erste-bundesliga-trainerin-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/erste-bundesliga-trainerin-100.html</guid>
+      <pubDate>Sun, 12 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung will Steuer auf Benzin und Diesel senken</title>
+      <link>https://www.nachrichtenleicht.de/steuer-benzin-diesel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/steuer-benzin-diesel-100.html</guid>
+      <pubDate>Mon, 13 Apr 2026 13:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Preis von wichtigem Krebs-Medikament ist viel zu hoch</title>
+      <link>https://www.nachrichtenleicht.de/bericht-preis-krebs-medikament-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bericht-preis-krebs-medikament-100.html</guid>
+      <pubDate>Mon, 13 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viel Ärger über ein Bild von Präsident Trump als Jesus</title>
+      <link>https://www.nachrichtenleicht.de/meldung-trump-bild-jesus-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-trump-bild-jesus-100.html</guid>
+      <pubDate>Tue, 14 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mann aus Paris gewinnt echtes Gemälde von Picasso</title>
+      <link>https://www.nachrichtenleicht.de/verlosung-picasso-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/verlosung-picasso-100.html</guid>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Arbeit-Geber empört über 1000-Euro-Prämie</title>
+      <link>https://www.nachrichtenleicht.de/empoerung-arbeitgeber-praemie-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/empoerung-arbeitgeber-praemie-100.html</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In Deutschland sterben jedes Jahr 44.000 Menschen durch zu viel Alkohol</title>
+      <link>https://www.nachrichtenleicht.de/tote-durch-alkohol-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tote-durch-alkohol-100.html</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Neue Regeln für Einkäufe auf Kredit im Internet</title>
+      <link>https://www.nachrichtenleicht.de/einkauf-internet-kredit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/einkauf-internet-kredit-100.html</guid>
+      <pubDate>Fri, 17 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wichtiger Weg für Schiffe wieder geöffnet</title>
+      <link>https://www.nachrichtenleicht.de/iran-hormus-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-hormus-100.html</guid>
+      <pubDate>Fri, 17 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viel Kritik an Spar-Ideen für die Kinder- und Jugendhilfe</title>
+      <link>https://www.nachrichtenleicht.de/streichliste-kinder-jugendhilfe-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/streichliste-kinder-jugendhilfe-100.html</guid>
+      <pubDate>Fri, 17 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>FC Bayern München ist wieder Deutscher Fußball-Meister</title>
+      <link>https://www.nachrichtenleicht.de/bayern-deutscher-meister-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bayern-deutscher-meister-100.html</guid>
       <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
@@ -44,142 +158,34 @@
       <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>FC Bayern München ist wieder Deutscher Fußball-Meister</title>
-      <link>https://www.nachrichtenleicht.de/bayern-deutscher-meister-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bayern-deutscher-meister-100.html</guid>
+      <title>Polizei findet Ratten-Gift in Hipp-Baby-Kost</title>
+      <link>https://www.nachrichtenleicht.de/hipp-rattengift-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hipp-rattengift-100.html</guid>
       <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Viel Kritik an Spar-Ideen für die Kinder- und Jugendhilfe</title>
-      <link>https://www.nachrichtenleicht.de/streichliste-kinder-jugendhilfe-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/streichliste-kinder-jugendhilfe-100.html</guid>
-      <pubDate>Fri, 17 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Roboter läuft schneller als Profi-Sportler</title>
+      <link>https://www.nachrichtenleicht.de/roboter-halbmarathon-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/roboter-halbmarathon-100.html</guid>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Wichtiger Weg für Schiffe wieder geöffnet</title>
-      <link>https://www.nachrichtenleicht.de/iran-hormus-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-hormus-100.html</guid>
-      <pubDate>Fri, 17 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Zum 1. Mal seit 50 Jahren sind Menschen auf dem Weg zum Mond</title>
+      <link>https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/artemis-mond-mission-100.html</guid>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Neue Regeln für Einkäufe auf Kredit im Internet</title>
-      <link>https://www.nachrichtenleicht.de/einkauf-internet-kredit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/einkauf-internet-kredit-100.html</guid>
-      <pubDate>Fri, 17 Apr 2026 14:00:00 +0200</pubDate>
+      <title>Liebes-Geschichte von gehörloser Frau und blindem Mann im Kino</title>
+      <link>https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/film-als-waere-es-leicht-102.html</guid>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>In Deutschland sterben jedes Jahr 44.000 Menschen durch zu viel Alkohol</title>
-      <link>https://www.nachrichtenleicht.de/tote-durch-alkohol-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tote-durch-alkohol-100.html</guid>
-      <pubDate>Thu, 16 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Arbeit-Geber empört über 1000-Euro-Prämie</title>
-      <link>https://www.nachrichtenleicht.de/empoerung-arbeitgeber-praemie-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/empoerung-arbeitgeber-praemie-100.html</guid>
-      <pubDate>Thu, 16 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mann aus Paris gewinnt echtes Gemälde von Picasso</title>
-      <link>https://www.nachrichtenleicht.de/verlosung-picasso-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/verlosung-picasso-100.html</guid>
-      <pubDate>Wed, 15 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viel Ärger über ein Bild von Präsident Trump als Jesus</title>
-      <link>https://www.nachrichtenleicht.de/meldung-trump-bild-jesus-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-trump-bild-jesus-100.html</guid>
-      <pubDate>Tue, 14 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Preis von wichtigem Krebs-Medikament ist viel zu hoch</title>
-      <link>https://www.nachrichtenleicht.de/bericht-preis-krebs-medikament-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bericht-preis-krebs-medikament-100.html</guid>
-      <pubDate>Mon, 13 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung will Steuer auf Benzin und Diesel senken</title>
-      <link>https://www.nachrichtenleicht.de/steuer-benzin-diesel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/steuer-benzin-diesel-100.html</guid>
-      <pubDate>Mon, 13 Apr 2026 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In der Bundes-Liga ist zum 1. Mal eine Frau Trainerin</title>
-      <link>https://www.nachrichtenleicht.de/erste-bundesliga-trainerin-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/erste-bundesliga-trainerin-100.html</guid>
-      <pubDate>Sun, 12 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kein Ergebnis bei Friedens-Verhandlungen zwischen Iran und USA</title>
-      <link>https://www.nachrichtenleicht.de/verhandlungen-usa-iran-gescheitert-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/verhandlungen-usa-iran-gescheitert-100.html</guid>
-      <pubDate>Sun, 12 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kritik am Wahl-Programm von der Partei AfD für Sachsen-Anhalt</title>
-      <link>https://www.nachrichtenleicht.de/afd-sachsen-anhalt-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/afd-sachsen-anhalt-106.html</guid>
-      <pubDate>Sun, 12 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Partei von Minister-Präsident Orbán verliert Wahl in Ungarn</title>
-      <link>https://www.nachrichtenleicht.de/orban-wahl-ungarn-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/orban-wahl-ungarn-100.html</guid>
-      <pubDate>Mon, 13 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Franziska Koch gewinnt berühmtes Rennen Paris-Roubaix</title>
-      <link>https://www.nachrichtenleicht.de/franziska-koch-paris-roubaix-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/franziska-koch-paris-roubaix-100.html</guid>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen erinnern an ermordete Juden</title>
-      <link>https://www.nachrichtenleicht.de/meldung-holocaust-israel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-holocaust-israel-100.html</guid>
-      <pubDate>Tue, 14 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Regierungen aus Deutschland und der Ukraine treffen sich erstmals seit 20 Jahren</title>
-      <link>https://www.nachrichtenleicht.de/meldung-ukraine-selenskyj-berlin-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-ukraine-selenskyj-berlin-100.html</guid>
-      <pubDate>Tue, 14 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lufthansa feiert 100. Geburtstag - trotz vieler Streiks</title>
-      <link>https://www.nachrichtenleicht.de/lufthansa-100-jahre-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lufthansa-100-jahre-100.html</guid>
-      <pubDate>Wed, 15 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Internationale Konferenz in Berlin für die Menschen im Sudan</title>
-      <link>https://www.nachrichtenleicht.de/sudan-krieg-116.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sudan-krieg-116.html</guid>
-      <pubDate>Wed, 15 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mindestens 18 Menschen bei russischen Angriffen getötet</title>
-      <link>https://www.nachrichtenleicht.de/18-tote-in-ukraine-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/18-tote-in-ukraine-100.html</guid>
-      <pubDate>Thu, 16 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hisbollah im Libanon und Israel vereinbaren Waffen-Ruhe</title>
-      <link>https://www.nachrichtenleicht.de/libanon-waffenruhe-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/libanon-waffenruhe-100.html</guid>
-      <pubDate>Fri, 17 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr als 80.000 Menschen demonstrieren für besseren Klima-Schutz</title>
-      <link>https://www.nachrichtenleicht.de/klima-110.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/klima-110.html</guid>
-      <pubDate>Sat, 18 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>US-Rapper Kanye West darf wegen Nazi-Parolen kein Konzert in Polen geben</title>
-      <link>https://www.nachrichtenleicht.de/kanye-west-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kanye-west-108.html</guid>
-      <pubDate>Sat, 18 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Deutsche Fußballer gewinnen Test-Spiel gegen Ghana</title>
+      <link>https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-deutschland-ghana-102.html</guid>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
