@@ -6,53 +6,125 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 13:00:03 +0000</lastBuildDate>
     <item>
-      <title>USA wollen Tausende Soldaten aus Deutschland abziehen</title>
-      <link>https://www.nachrichtenleicht.de/usa-soldaten-abzug-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-soldaten-abzug-100.html</guid>
-      <pubDate>Sat, 02 May 2026 13:00:00 +0200</pubDate>
+      <title>Buckel-Wal von der Ost-See in die Nord-See gebracht</title>
+      <link>https://www.nachrichtenleicht.de/buckel-wal-nordsee-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/buckel-wal-nordsee-100.html</guid>
+      <pubDate>Sat, 02 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Bahn bietet für Fern-Reisen günstige Last-Minute-Tickets an</title>
-      <link>https://www.nachrichtenleicht.de/bahn-ticket-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-ticket-100.html</guid>
-      <pubDate>Fri, 01 May 2026 18:00:00 +0200</pubDate>
+      <title>Viele Menschen demonstrieren für bessere Arbeits-Bedingungen</title>
+      <link>https://www.nachrichtenleicht.de/mai-demonstration-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mai-demonstration-100.html</guid>
+      <pubDate>Fri, 01 May 2026 19:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Neuer Tank-Rabatt in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/tankrabatt-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankrabatt-106.html</guid>
-      <pubDate>Fri, 01 May 2026 18:00:00 +0200</pubDate>
+      <title>In London gibt es ein neues Kunst-Werk von Banksy</title>
+      <link>https://www.nachrichtenleicht.de/banksy-statue-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/banksy-statue-100.html</guid>
+      <pubDate>Fri, 01 May 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>CDU und SPD einigen sich auf gemeinsame Regierung</title>
-      <link>https://www.nachrichtenleicht.de/rheinland-pfalz-koalitionsvertrag-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rheinland-pfalz-koalitionsvertrag-100.html</guid>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Viele Tank-Stellen verstoßen gegen neue Preis-Regel</title>
+      <link>https://www.nachrichtenleicht.de/tankstellen-preisregel-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankstellen-preisregel-102.html</guid>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Die Organisation Reporter ohne Grenzen sagt: Die Presse-Freiheit in Deutschland ist etwas schlechter</title>
-      <link>https://www.nachrichtenleicht.de/rog-pressefreiheit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rog-pressefreiheit-100.html</guid>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0200</pubDate>
+      <title>Fußball-Verein will für Frauen-Team ein eigenes Stadion bauen</title>
+      <link>https://www.nachrichtenleicht.de/fussball-142.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-142.html</guid>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>EU-Kommission: Instagram und Facebook müssen Kinder besser schützen</title>
-      <link>https://www.nachrichtenleicht.de/instagram-118.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/instagram-118.html</guid>
-      <pubDate>Wed, 29 Apr 2026 14:00:00 +0200</pubDate>
+      <title>Bundes-Regierung beschließt Gesundheits-Reform</title>
+      <link>https://www.nachrichtenleicht.de/gesundheitsreform-110.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gesundheitsreform-110.html</guid>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Heimat-Besuch: Sollen Flüchtlinge nach Syrien reisen dürfen?</title>
-      <link>https://www.nachrichtenleicht.de/syrer-heimat-besuch-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/syrer-heimat-besuch-100.html</guid>
-      <pubDate>Tue, 28 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Neue Abgabe für Zucker-Getränke soll kommen</title>
+      <link>https://www.nachrichtenleicht.de/zucker-abgabe-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zucker-abgabe-100.html</guid>
+      <pubDate>Tue, 28 Apr 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Ausgaben für Militär erreichen wieder neuen Rekord</title>
-      <link>https://www.nachrichtenleicht.de/sipri-bericht-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sipri-bericht-106.html</guid>
+      <title>In Deutschland werden immer weniger Babys geboren</title>
+      <link>https://www.nachrichtenleicht.de/geburten-zahlen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/geburten-zahlen-100.html</guid>
+      <pubDate>Tue, 28 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Soll die App Signal auf Handys von Politikern verboten werden?</title>
+      <link>https://www.nachrichtenleicht.de/debatte-singal-app-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/debatte-singal-app-100.html</guid>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Liedermacher Reinhard Mey hat mehr Goldene Schall-Platten als gedacht</title>
+      <link>https://www.nachrichtenleicht.de/goldene-schallplatten-reinhard-mey-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldene-schallplatten-reinhard-mey-100.html</guid>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rad-Welt-Meister Tadej Pogacar gewinnt ein wichtiges Rennen in Belgien</title>
+      <link>https://www.nachrichtenleicht.de/radsport-118.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/radsport-118.html</guid>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Schüsse bei Veranstaltung mit Präsident Trump - bewaffneter Mann festgenommen</title>
+      <link>https://www.nachrichtenleicht.de/schuesse-in-washington-bei-veranstaltung-mit-praesident-trump-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schuesse-in-washington-bei-veranstaltung-mit-praesident-trump-100.html</guid>
+      <pubDate>Sun, 26 Apr 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr Menschen aus der EU abgeschoben</title>
+      <link>https://www.nachrichtenleicht.de/abschiebungen-eu-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abschiebungen-eu-100.html</guid>
+      <pubDate>Sat, 25 Apr 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Behinderten-Beauftragte sind empört über Spar-Vorschläge</title>
+      <link>https://www.nachrichtenleicht.de/behinderten-beauftragte-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/behinderten-beauftragte-102.html</guid>
+      <pubDate>Fri, 24 Apr 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Weniger Steuern auf Benzin und Diesel</title>
+      <link>https://www.nachrichtenleicht.de/tankrabatt-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankrabatt-104.html</guid>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In Ungarn wird ein blinder Kampf-Sportler bald Minister</title>
+      <link>https://www.nachrichtenleicht.de/meldung-nl-ungarn-minister-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-nl-ungarn-minister-100.html</guid>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung: Russland hat wohl Ministerinnen ausspioniert</title>
+      <link>https://www.nachrichtenleicht.de/signal-cyber-angriff-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/signal-cyber-angriff-100.html</guid>
+      <pubDate>Sat, 25 Apr 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vor 40 Jahren war der Atom-Unfall in Tschernobyl</title>
+      <link>https://www.nachrichtenleicht.de/40-jahre-atom-unfal-in-tschernobyl-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/40-jahre-atom-unfal-in-tschernobyl-100.html</guid>
+      <pubDate>Sun, 26 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sebastian Sawe aus Kenia läuft London-Marathon in weniger als 2 Stunden</title>
+      <link>https://www.nachrichtenleicht.de/sawe-marathon-london-weltrekord-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sawe-marathon-london-weltrekord-100.html</guid>
+      <pubDate>Mon, 27 Apr 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr tödliche Fahrrad-Unfälle in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/fahrrad-unfaelle-bilanz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fahrrad-unfaelle-bilanz-100.html</guid>
       <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
     </item>
     <item>
@@ -62,124 +134,52 @@
       <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mehr tödliche Fahrrad-Unfälle in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/fahrrad-unfaelle-bilanz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fahrrad-unfaelle-bilanz-100.html</guid>
+      <title>Ausgaben für Militär erreichen wieder neuen Rekord</title>
+      <link>https://www.nachrichtenleicht.de/sipri-bericht-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sipri-bericht-106.html</guid>
       <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Sebastian Sawe aus Kenia läuft London-Marathon in weniger als 2 Stunden</title>
-      <link>https://www.nachrichtenleicht.de/sawe-marathon-london-weltrekord-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sawe-marathon-london-weltrekord-100.html</guid>
-      <pubDate>Mon, 27 Apr 2026 16:00:00 +0200</pubDate>
+      <title>Heimat-Besuch: Sollen Flüchtlinge nach Syrien reisen dürfen?</title>
+      <link>https://www.nachrichtenleicht.de/syrer-heimat-besuch-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/syrer-heimat-besuch-100.html</guid>
+      <pubDate>Tue, 28 Apr 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Vor 40 Jahren war der Atom-Unfall in Tschernobyl</title>
-      <link>https://www.nachrichtenleicht.de/40-jahre-atom-unfal-in-tschernobyl-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/40-jahre-atom-unfal-in-tschernobyl-100.html</guid>
-      <pubDate>Sun, 26 Apr 2026 16:00:00 +0200</pubDate>
+      <title>EU-Kommission: Instagram und Facebook müssen Kinder besser schützen</title>
+      <link>https://www.nachrichtenleicht.de/instagram-118.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/instagram-118.html</guid>
+      <pubDate>Wed, 29 Apr 2026 14:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Bundes-Regierung: Russland hat wohl Ministerinnen ausspioniert</title>
-      <link>https://www.nachrichtenleicht.de/signal-cyber-angriff-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/signal-cyber-angriff-100.html</guid>
-      <pubDate>Sat, 25 Apr 2026 17:00:00 +0200</pubDate>
+      <title>Die Organisation Reporter ohne Grenzen sagt: Die Presse-Freiheit in Deutschland ist etwas schlechter</title>
+      <link>https://www.nachrichtenleicht.de/rog-pressefreiheit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rog-pressefreiheit-100.html</guid>
+      <pubDate>Thu, 30 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>In Ungarn wird ein blinder Kampf-Sportler bald Minister</title>
-      <link>https://www.nachrichtenleicht.de/meldung-nl-ungarn-minister-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-nl-ungarn-minister-100.html</guid>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 +0200</pubDate>
+      <title>CDU und SPD einigen sich auf gemeinsame Regierung</title>
+      <link>https://www.nachrichtenleicht.de/rheinland-pfalz-koalitionsvertrag-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rheinland-pfalz-koalitionsvertrag-100.html</guid>
+      <pubDate>Thu, 30 Apr 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Weniger Steuern auf Benzin und Diesel</title>
-      <link>https://www.nachrichtenleicht.de/tankrabatt-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankrabatt-104.html</guid>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 +0200</pubDate>
+      <title>Neuer Tank-Rabatt in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/tankrabatt-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankrabatt-106.html</guid>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mehr als 18 Millionen Kinder werden bei großer Aktion geimpft</title>
-      <link>https://www.nachrichtenleicht.de/meldung-nl-impfungen-unicef-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-nl-impfungen-unicef-100.html</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0200</pubDate>
+      <title>Bahn bietet für Fern-Reisen günstige Last-Minute-Tickets an</title>
+      <link>https://www.nachrichtenleicht.de/bahn-ticket-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bahn-ticket-100.html</guid>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Behinderten-Beauftragte sind empört über Spar-Vorschläge</title>
-      <link>https://www.nachrichtenleicht.de/behinderten-beauftragte-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/behinderten-beauftragte-102.html</guid>
-      <pubDate>Fri, 24 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr Menschen aus der EU abgeschoben</title>
-      <link>https://www.nachrichtenleicht.de/abschiebungen-eu-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abschiebungen-eu-100.html</guid>
-      <pubDate>Sat, 25 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Schüsse bei Veranstaltung mit Präsident Trump - bewaffneter Mann festgenommen</title>
-      <link>https://www.nachrichtenleicht.de/schuesse-in-washington-bei-veranstaltung-mit-praesident-trump-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schuesse-in-washington-bei-veranstaltung-mit-praesident-trump-100.html</guid>
-      <pubDate>Sun, 26 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rad-Welt-Meister Tadej Pogacar gewinnt ein wichtiges Rennen in Belgien</title>
-      <link>https://www.nachrichtenleicht.de/radsport-118.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/radsport-118.html</guid>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Liedermacher Reinhard Mey hat mehr Goldene Schall-Platten als gedacht</title>
-      <link>https://www.nachrichtenleicht.de/goldene-schallplatten-reinhard-mey-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldene-schallplatten-reinhard-mey-100.html</guid>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Soll die App Signal auf Handys von Politikern verboten werden?</title>
-      <link>https://www.nachrichtenleicht.de/debatte-singal-app-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/debatte-singal-app-100.html</guid>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In Deutschland werden immer weniger Babys geboren</title>
-      <link>https://www.nachrichtenleicht.de/geburten-zahlen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/geburten-zahlen-100.html</guid>
-      <pubDate>Tue, 28 Apr 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Neue Abgabe für Zucker-Getränke soll kommen</title>
-      <link>https://www.nachrichtenleicht.de/zucker-abgabe-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zucker-abgabe-100.html</guid>
-      <pubDate>Tue, 28 Apr 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung beschließt Gesundheits-Reform</title>
-      <link>https://www.nachrichtenleicht.de/gesundheitsreform-110.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/gesundheitsreform-110.html</guid>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fußball-Verein will für Frauen-Team ein eigenes Stadion bauen</title>
-      <link>https://www.nachrichtenleicht.de/fussball-142.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-142.html</guid>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Tank-Stellen verstoßen gegen neue Preis-Regel</title>
-      <link>https://www.nachrichtenleicht.de/tankstellen-preisregel-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tankstellen-preisregel-102.html</guid>
-      <pubDate>Thu, 30 Apr 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In London gibt es ein neues Kunst-Werk von Banksy</title>
-      <link>https://www.nachrichtenleicht.de/banksy-statue-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/banksy-statue-100.html</guid>
-      <pubDate>Fri, 01 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen demonstrieren für bessere Arbeits-Bedingungen</title>
-      <link>https://www.nachrichtenleicht.de/mai-demonstration-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mai-demonstration-100.html</guid>
-      <pubDate>Fri, 01 May 2026 19:00:00 +0200</pubDate>
+      <title>USA wollen Tausende Soldaten aus Deutschland abziehen</title>
+      <link>https://www.nachrichtenleicht.de/usa-soldaten-abzug-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-soldaten-abzug-100.html</guid>
+      <pubDate>Sat, 02 May 2026 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
