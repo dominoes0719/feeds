@@ -6,174 +6,18 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 17:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:00:05 +0000</lastBuildDate>
     <item>
-      <title>Aktivisten mit Behinderungen demonstrieren für verbesserte Gesetze</title>
-      <link>https://www.nachrichtenleicht.de/petition-bgg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/petition-bgg-100.html</guid>
-      <pubDate>Mon, 18 May 2026 19:00:00 +0200</pubDate>
+      <title>Nur jeder 5. Baum im Wald ist gesund</title>
+      <link>https://www.nachrichtenleicht.de/wald-124.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wald-124.html</guid>
+      <pubDate>Tue, 19 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Elversberg schafft den Aufstieg in die Bundes-Liga</title>
-      <link>https://www.nachrichtenleicht.de/elversberg-aufstieg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/elversberg-aufstieg-100.html</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Péter Magyar ist neuer Minister-Präsident in Ungarn</title>
-      <link>https://www.nachrichtenleicht.de/meldung-ungarn-magyar-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-ungarn-magyar-100.html</guid>
-      <pubDate>Sun, 17 May 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Militär von USA und Nigeria tötet wichtigen Chef von Terror-Organisation IS</title>
-      <link>https://www.nachrichtenleicht.de/nigeria-is-terror-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nigeria-is-terror-100.html</guid>
-      <pubDate>Sat, 16 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Toter Wal vor dänischer Küste ist Buckel-Wal aus der Ost-See</title>
-      <link>https://www.nachrichtenleicht.de/buckelwal-tot-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/buckelwal-tot-100.html</guid>
-      <pubDate>Sat, 16 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Stadt Bottrop will Inklusion sichtbar machen</title>
-      <link>https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</guid>
-      <pubDate>Sat, 16 May 2026 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Merz: Junge Menschen sollen in Parteien mitmachen</title>
-      <link>https://www.nachrichtenleicht.de/merz-junge-menschen-sollten-in-parteien-mitmachen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-junge-menschen-sollten-in-parteien-mitmachen-100.html</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung will etwas gegen zu teure Konzert-Tickets tun</title>
-      <link>https://www.nachrichtenleicht.de/bundes-regierung-gegen-teure-konzert-tickets-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundes-regierung-gegen-teure-konzert-tickets-100.html</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>US-Präsident Trump besucht Staats-Chef von China</title>
-      <link>https://www.nachrichtenleicht.de/trump-staats-besuch-china-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-staats-besuch-china-100.html</guid>
-      <pubDate>Thu, 14 May 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Neue KI könnte viele Tier-Versuche ersetzen</title>
-      <link>https://www.nachrichtenleicht.de/tier-versuche-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tier-versuche-100.html</guid>
-      <pubDate>Wed, 13 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Auto fährt in Fußgänger-Zone in Leipzig</title>
-      <link>https://www.nachrichtenleicht.de/leipzig-grimmaische-strasse-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/leipzig-grimmaische-strasse-100.html</guid>
-      <pubDate>Tue, 12 May 2026 21:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Größte Sucht-Klinik für Kinder und Jugendliche in Deutschland muss schließen</title>
-      <link>https://www.nachrichtenleicht.de/drogen-klinik-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/drogen-klinik-100.html</guid>
-      <pubDate>Tue, 12 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Touristen von Kreuzfahrt-Schiff in ihre Heimat gebracht</title>
-      <link>https://www.nachrichtenleicht.de/touristen-kreuz-fahrt-schiff-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/touristen-kreuz-fahrt-schiff-100.html</guid>
-      <pubDate>Mon, 11 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen leben in Wohnungen mit zu wenigen Zimmern</title>
-      <link>https://www.nachrichtenleicht.de/ueberbelegte-wohnungen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ueberbelegte-wohnungen-100.html</guid>
-      <pubDate>Mon, 11 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Touristen des Kreuz-Fahrt-Schiffs werden in ihre Heimat gebracht</title>
-      <link>https://www.nachrichtenleicht.de/schiff-hanta-virus-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schiff-hanta-virus-100.html</guid>
-      <pubDate>Sun, 10 May 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ukraine und Deutschland wollen hoch-moderne Drohnen entwickeln</title>
-      <link>https://www.nachrichtenleicht.de/pistorius-ukraine-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pistorius-ukraine-108.html</guid>
-      <pubDate>Mon, 11 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr wichtige Medikamente sollen in Europa hergestellt werden</title>
-      <link>https://www.nachrichtenleicht.de/arznei-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/arznei-100.html</guid>
-      <pubDate>Tue, 12 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Kanzler Merz macht Werbung für Reformen bei Gewerkschafts-Kongress - Pfiffe und Buh-Rufe</title>
-      <link>https://www.nachrichtenleicht.de/merz-dgb-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-dgb-102.html</guid>
-      <pubDate>Tue, 12 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cem Özdemir ist 1. türkisch-stämmiger Minister-Präsident</title>
-      <link>https://www.nachrichtenleicht.de/cem-oezdemir-128.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/cem-oezdemir-128.html</guid>
-      <pubDate>Wed, 13 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Israel im Finale vom Eurovision Song Contest</title>
-      <link>https://www.nachrichtenleicht.de/israel-esc-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/israel-esc-102.html</guid>
-      <pubDate>Wed, 13 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mario Draghi bekommt Karls-Preis</title>
-      <link>https://www.nachrichtenleicht.de/draghi-karls-preis-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/draghi-karls-preis-100.html</guid>
-      <pubDate>Thu, 14 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung will Taten mit K.-o.-Tropfen härter bestrafen</title>
-      <link>https://www.nachrichtenleicht.de/ko-tropfen-108.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ko-tropfen-108.html</guid>
-      <pubDate>Thu, 14 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Eine Organisation fordert mehr Schutz für queere Menschen in Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/mehr-schutz-fuer-queere-menschen-in-deutschland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mehr-schutz-fuer-queere-menschen-in-deutschland-100.html</guid>
-      <pubDate>Fri, 15 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Shakira, Madonna und BTS singen beim Finale von der Fußball-WM</title>
-      <link>https://www.nachrichtenleicht.de/halb-zeit-show-beim-finale-der-fussball-welt-meisterschaft-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/halb-zeit-show-beim-finale-der-fussball-welt-meisterschaft-100.html</guid>
-      <pubDate>Fri, 15 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Forschungs-Schiff "Polar-Stern" nach 6 Monaten zurück von Reise in die Antarktis</title>
-      <link>https://www.nachrichtenleicht.de/polarstern-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/polarstern-106.html</guid>
-      <pubDate>Sat, 16 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Elektronische Fuß-Fessel soll Frauen vor Gewalt-Tätern schützen</title>
-      <link>https://www.nachrichtenleicht.de/einfuehrung-elektronische-fussfessel-schutz-von-frauen-vor-gewalt-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/einfuehrung-elektronische-fussfessel-schutz-von-frauen-vor-gewalt-100.html</guid>
-      <pubDate>Sat, 16 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sängerin Dara aus Bulgarien gewinnt den ESC</title>
-      <link>https://www.nachrichtenleicht.de/bulgarien-esc-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bulgarien-esc-100.html</guid>
-      <pubDate>Sun, 17 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In 2 afrikanischen Ländern ist ein neues Ebola-Virus ausgebrochen</title>
-      <link>https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</guid>
-      <pubDate>Sun, 17 May 2026 15:00:00 +0200</pubDate>
+      <title>Bundes-Regierung will 10 Milliarden Euro für den Zivil-Schutz ausgeben</title>
+      <link>https://www.nachrichtenleicht.de/zivilschutz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zivilschutz-100.html</guid>
+      <pubDate>Mon, 18 May 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Viele Menschen besuchen Katholiken-Tag</title>
@@ -182,10 +26,166 @@
       <pubDate>Mon, 18 May 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Bundes-Regierung will 10 Milliarden Euro für den Zivil-Schutz ausgeben</title>
-      <link>https://www.nachrichtenleicht.de/zivilschutz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zivilschutz-100.html</guid>
-      <pubDate>Mon, 18 May 2026 17:00:00 +0200</pubDate>
+      <title>In 2 afrikanischen Ländern ist ein neues Ebola-Virus ausgebrochen</title>
+      <link>https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</guid>
+      <pubDate>Sun, 17 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sängerin Dara aus Bulgarien gewinnt den ESC</title>
+      <link>https://www.nachrichtenleicht.de/bulgarien-esc-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bulgarien-esc-100.html</guid>
+      <pubDate>Sun, 17 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Elektronische Fuß-Fessel soll Frauen vor Gewalt-Tätern schützen</title>
+      <link>https://www.nachrichtenleicht.de/einfuehrung-elektronische-fussfessel-schutz-von-frauen-vor-gewalt-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/einfuehrung-elektronische-fussfessel-schutz-von-frauen-vor-gewalt-100.html</guid>
+      <pubDate>Sat, 16 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Forschungs-Schiff "Polar-Stern" nach 6 Monaten zurück von Reise in die Antarktis</title>
+      <link>https://www.nachrichtenleicht.de/polarstern-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/polarstern-106.html</guid>
+      <pubDate>Sat, 16 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Shakira, Madonna und BTS singen beim Finale von der Fußball-WM</title>
+      <link>https://www.nachrichtenleicht.de/halb-zeit-show-beim-finale-der-fussball-welt-meisterschaft-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/halb-zeit-show-beim-finale-der-fussball-welt-meisterschaft-100.html</guid>
+      <pubDate>Fri, 15 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Eine Organisation fordert mehr Schutz für queere Menschen in Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/mehr-schutz-fuer-queere-menschen-in-deutschland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mehr-schutz-fuer-queere-menschen-in-deutschland-100.html</guid>
+      <pubDate>Fri, 15 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung will Taten mit K.-o.-Tropfen härter bestrafen</title>
+      <link>https://www.nachrichtenleicht.de/ko-tropfen-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ko-tropfen-108.html</guid>
+      <pubDate>Thu, 14 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mario Draghi bekommt Karls-Preis</title>
+      <link>https://www.nachrichtenleicht.de/draghi-karls-preis-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/draghi-karls-preis-100.html</guid>
+      <pubDate>Thu, 14 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Israel im Finale vom Eurovision Song Contest</title>
+      <link>https://www.nachrichtenleicht.de/israel-esc-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/israel-esc-102.html</guid>
+      <pubDate>Wed, 13 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cem Özdemir ist 1. türkisch-stämmiger Minister-Präsident</title>
+      <link>https://www.nachrichtenleicht.de/cem-oezdemir-128.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/cem-oezdemir-128.html</guid>
+      <pubDate>Wed, 13 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Kanzler Merz macht Werbung für Reformen bei Gewerkschafts-Kongress - Pfiffe und Buh-Rufe</title>
+      <link>https://www.nachrichtenleicht.de/merz-dgb-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-dgb-102.html</guid>
+      <pubDate>Tue, 12 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr wichtige Medikamente sollen in Europa hergestellt werden</title>
+      <link>https://www.nachrichtenleicht.de/arznei-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/arznei-100.html</guid>
+      <pubDate>Tue, 12 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ukraine und Deutschland wollen hoch-moderne Drohnen entwickeln</title>
+      <link>https://www.nachrichtenleicht.de/pistorius-ukraine-108.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pistorius-ukraine-108.html</guid>
+      <pubDate>Mon, 11 May 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen leben in Wohnungen mit zu wenigen Zimmern</title>
+      <link>https://www.nachrichtenleicht.de/ueberbelegte-wohnungen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ueberbelegte-wohnungen-100.html</guid>
+      <pubDate>Mon, 11 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Touristen von Kreuzfahrt-Schiff in ihre Heimat gebracht</title>
+      <link>https://www.nachrichtenleicht.de/touristen-kreuz-fahrt-schiff-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/touristen-kreuz-fahrt-schiff-100.html</guid>
+      <pubDate>Mon, 11 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Größte Sucht-Klinik für Kinder und Jugendliche in Deutschland muss schließen</title>
+      <link>https://www.nachrichtenleicht.de/drogen-klinik-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/drogen-klinik-100.html</guid>
+      <pubDate>Tue, 12 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Auto fährt in Fußgänger-Zone in Leipzig</title>
+      <link>https://www.nachrichtenleicht.de/leipzig-grimmaische-strasse-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/leipzig-grimmaische-strasse-100.html</guid>
+      <pubDate>Tue, 12 May 2026 21:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Neue KI könnte viele Tier-Versuche ersetzen</title>
+      <link>https://www.nachrichtenleicht.de/tier-versuche-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tier-versuche-100.html</guid>
+      <pubDate>Wed, 13 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>US-Präsident Trump besucht Staats-Chef von China</title>
+      <link>https://www.nachrichtenleicht.de/trump-staats-besuch-china-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trump-staats-besuch-china-100.html</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung will etwas gegen zu teure Konzert-Tickets tun</title>
+      <link>https://www.nachrichtenleicht.de/bundes-regierung-gegen-teure-konzert-tickets-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundes-regierung-gegen-teure-konzert-tickets-100.html</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Merz: Junge Menschen sollen in Parteien mitmachen</title>
+      <link>https://www.nachrichtenleicht.de/merz-junge-menschen-sollten-in-parteien-mitmachen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/merz-junge-menschen-sollten-in-parteien-mitmachen-100.html</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stadt Bottrop will Inklusion sichtbar machen</title>
+      <link>https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</guid>
+      <pubDate>Sat, 16 May 2026 13:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Toter Wal vor dänischer Küste ist Buckel-Wal aus der Ost-See</title>
+      <link>https://www.nachrichtenleicht.de/buckelwal-tot-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/buckelwal-tot-100.html</guid>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Militär von USA und Nigeria tötet wichtigen Chef von Terror-Organisation IS</title>
+      <link>https://www.nachrichtenleicht.de/nigeria-is-terror-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nigeria-is-terror-100.html</guid>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Péter Magyar ist neuer Minister-Präsident in Ungarn</title>
+      <link>https://www.nachrichtenleicht.de/meldung-ungarn-magyar-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-ungarn-magyar-100.html</guid>
+      <pubDate>Sun, 17 May 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Elversberg schafft den Aufstieg in die Bundes-Liga</title>
+      <link>https://www.nachrichtenleicht.de/elversberg-aufstieg-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/elversberg-aufstieg-100.html</guid>
+      <pubDate>Mon, 18 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aktivisten mit Behinderungen demonstrieren für verbesserte Gesetze</title>
+      <link>https://www.nachrichtenleicht.de/petition-bgg-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/petition-bgg-100.html</guid>
+      <pubDate>Mon, 18 May 2026 19:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
