@@ -6,161 +6,53 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 13:00:03 +0000</lastBuildDate>
-    <item>
-      <title>Bundes-Ärzte-Kammer fordert Werbe-Verbot für Zigaretten und Vapes</title>
-      <link>https://www.nachrichtenleicht.de/warnungen-zum-welt-nicht-raucher-tag-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/warnungen-zum-welt-nicht-raucher-tag-100.html</guid>
-      <pubDate>Sun, 31 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Wolfgang Kubicki ist neuer Vorsitzender von der Partei FDP</title>
-      <link>https://www.nachrichtenleicht.de/kubicki-vorsitz-fdp-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kubicki-vorsitz-fdp-100.html</guid>
-      <pubDate>Sat, 30 May 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Familien-Ministerin fordert: Keine Bildschirme für Kinder unter 3</title>
-      <link>https://www.nachrichtenleicht.de/kinder-bildschirmzeit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinder-bildschirmzeit-100.html</guid>
-      <pubDate>Sat, 30 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Pride-Parade in Budapest findet in diesem Jahr statt</title>
-      <link>https://www.nachrichtenleicht.de/pride-parade-budapest-findet-statt-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pride-parade-budapest-findet-statt-100.html</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ebola im Land Kongo: Kämpfe machen Behandlungen schwierig</title>
-      <link>https://www.nachrichtenleicht.de/ebola-who-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-who-100.html</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Drohnen-Einschlag in Hoch-Haus in Rumänien</title>
-      <link>https://www.nachrichtenleicht.de/drohne-in-rumaenisches-hochhaus-eingeschlagen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/drohne-in-rumaenisches-hochhaus-eingeschlagen-100.html</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Stadt Erlangen rät, 12 Lieder auf Volks-Fest nicht zu spielen - und das sorgt für Streit</title>
-      <link>https://www.nachrichtenleicht.de/erlangen-streit-bergkirchweih-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/erlangen-streit-bergkirchweih-100.html</guid>
-      <pubDate>Thu, 28 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gedenk-Stätte für Holocaust plant Bildungs-Zentrum in München</title>
-      <link>https://www.nachrichtenleicht.de/yad-vashem-bildungszentrum-muenchen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/yad-vashem-bildungszentrum-muenchen-100.html</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bundes-Regierung will den Bau von Wohnungen erleichtern</title>
-      <link>https://www.nachrichtenleicht.de/regierung-will-bauen-einfacher-machen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/regierung-will-bauen-einfacher-machen-100.html</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Es gibt wieder mehr Finken in deutschen Gärten - aber insgesamt weniger Vögel</title>
-      <link>https://www.nachrichtenleicht.de/vogel-zaehlung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/vogel-zaehlung-100.html</guid>
-      <pubDate>Tue, 26 May 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>2 Millionen Muslime machen bei Pilger-Fahrt Hadsch mit</title>
-      <link>https://www.nachrichtenleicht.de/pilger-mekka-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pilger-mekka-100.html</guid>
-      <pubDate>Mon, 25 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Russland greift die Ukraine mit Hyper-Schall-Rakete an</title>
-      <link>https://www.nachrichtenleicht.de/hyper-schall-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hyper-schall-100.html</guid>
-      <pubDate>Mon, 25 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>2 Millionen Muslime machen bei Pilger-Fahrt Hadsch mit</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5686.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5686.html</guid>
-      <pubDate>Mon, 25 May 2026 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Polizei stürmt Zentrale der größten Oppositions-Partei in Türkei</title>
-      <link>https://www.nachrichtenleicht.de/tuerkei-chp-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tuerkei-chp-100.html</guid>
-      <pubDate>Sun, 24 May 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr als 700.000 Menschen feiern in Düsseldorf die japanische Kultur - viele Manga-Fans</title>
-      <link>https://www.nachrichtenleicht.de/meldung-5684.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5684.html</guid>
-      <pubDate>Sun, 24 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Deutscher Film "Das geträumte Abenteuer" bekommt Preis der Jury in Cannes</title>
-      <link>https://www.nachrichtenleicht.de/valeska-grisebach-cannes-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/valeska-grisebach-cannes-102.html</guid>
-      <pubDate>Sun, 24 May 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Deutschland feiert Menschen mit Ehren-Amt</title>
-      <link>https://www.nachrichtenleicht.de/ehren-tag-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ehren-tag-100.html</guid>
-      <pubDate>Sat, 23 May 2026 16:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 15:00:02 +0000</lastBuildDate>
     <item>
       <title>Ukraine bestreitet Angriff auf Studenten-Wohnheim in Luhansk</title>
       <link>https://www.nachrichtenleicht.de/ukraine-370.html</link>
       <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-370.html</guid>
-      <pubDate>Sat, 23 May 2026 16:00:00 +0200</pubDate>
+      <pubDate>Sun, 31 May 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>nachrichtenleicht beim Leichte-Sprache-Fest in der Stadt Würzburg</title>
-      <link>https://www.nachrichtenleicht.de/leichte-sprache-fest-wuerzburg-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/leichte-sprache-fest-wuerzburg-100.html</guid>
-      <pubDate>Sat, 23 May 2026 15:00:00 +0200</pubDate>
+      <title>Paris Saint-Germain gewinnt Champions League - danach Gewalt in Paris</title>
+      <link>https://www.nachrichtenleicht.de/paris-saint-germain-gewinnt-champions-league-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paris-saint-germain-gewinnt-champions-league-100.html</guid>
+      <pubDate>Sun, 31 May 2026 14:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Stadt Bottrop will Inklusion sichtbar machen</title>
-      <link>https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</guid>
-      <pubDate>Sun, 24 May 2026 14:00:00 +0200</pubDate>
+      <title>Apotheken dürfen bald auch impfen und Blut abnehmen</title>
+      <link>https://www.nachrichtenleicht.de/apotheken-neue-aufgaben-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/apotheken-neue-aufgaben-100.html</guid>
+      <pubDate>Sat, 30 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mehr als 700.000 Menschen feiern in Düsseldorf die japanische Kultur</title>
-      <link>https://www.nachrichtenleicht.de/japan-tag-duesseldorf-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-tag-duesseldorf-106.html</guid>
-      <pubDate>Sun, 24 May 2026 17:00:00 +0200</pubDate>
+      <title>Anwohner blockieren Brenner-Autobahn</title>
+      <link>https://www.nachrichtenleicht.de/brenner-sperrung-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/brenner-sperrung-102.html</guid>
+      <pubDate>Sat, 30 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Christinnen und Christen feiern Pfingsten</title>
-      <link>https://www.nachrichtenleicht.de/pfingsten-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pfingsten-100.html</guid>
-      <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
+      <title>15 Jahre Haft für geplantes Attentat auf Besucher von Taylor-Swift-Konzert</title>
+      <link>https://www.nachrichtenleicht.de/urteil-anschlagsplan-swift-konzert-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/urteil-anschlagsplan-swift-konzert-100.html</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>In 2 afrikanischen Ländern ist ein neues Ebola-Virus ausgebrochen</title>
-      <link>https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</guid>
-      <pubDate>Mon, 25 May 2026 16:00:00 +0200</pubDate>
+      <title>Sollen auch Ausländer das Recht bekommen, den Bundestag zu wählen?</title>
+      <link>https://www.nachrichtenleicht.de/wahlrecht-auslaender-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wahlrecht-auslaender-100.html</guid>
+      <pubDate>Thu, 28 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Die USA haben den Iran wieder angegriffen</title>
-      <link>https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</guid>
-      <pubDate>Tue, 26 May 2026 15:00:00 +0200</pubDate>
+      <title>Russland und China vereinbaren enge Zusammenarbeit</title>
+      <link>https://www.nachrichtenleicht.de/putin-xi-besuch-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/putin-xi-besuch-102.html</guid>
+      <pubDate>Thu, 28 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Türkei: Viele Menschen gehen für abgesetzten Chef von Partei CHP auf die Straße</title>
-      <link>https://www.nachrichtenleicht.de/proteste-tuerkei-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/proteste-tuerkei-102.html</guid>
-      <pubDate>Tue, 26 May 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fach-Leute aus der Wirtschaft fordern Reformen bei Sozial-Versicherungen</title>
-      <link>https://www.nachrichtenleicht.de/reformen-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reformen-102.html</guid>
+      <title>Helfer finden 5 Berg-Leute lebend in einer Höhle in Laos</title>
+      <link>https://www.nachrichtenleicht.de/laos-berg-leute-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/laos-berg-leute-100.html</guid>
       <pubDate>Wed, 27 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
@@ -170,46 +62,142 @@
       <pubDate>Wed, 27 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Helfer finden 5 Berg-Leute lebend in einer Höhle in Laos</title>
-      <link>https://www.nachrichtenleicht.de/laos-berg-leute-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/laos-berg-leute-100.html</guid>
+      <title>Fach-Leute aus der Wirtschaft fordern Reformen bei Sozial-Versicherungen</title>
+      <link>https://www.nachrichtenleicht.de/reformen-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reformen-102.html</guid>
       <pubDate>Wed, 27 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Russland und China vereinbaren enge Zusammenarbeit</title>
-      <link>https://www.nachrichtenleicht.de/putin-xi-besuch-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/putin-xi-besuch-102.html</guid>
-      <pubDate>Thu, 28 May 2026 15:00:00 +0200</pubDate>
+      <title>Türkei: Viele Menschen gehen für abgesetzten Chef von Partei CHP auf die Straße</title>
+      <link>https://www.nachrichtenleicht.de/proteste-tuerkei-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/proteste-tuerkei-102.html</guid>
+      <pubDate>Tue, 26 May 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Sollen auch Ausländer das Recht bekommen, den Bundestag zu wählen?</title>
-      <link>https://www.nachrichtenleicht.de/wahlrecht-auslaender-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wahlrecht-auslaender-100.html</guid>
-      <pubDate>Thu, 28 May 2026 18:00:00 +0200</pubDate>
+      <title>Die USA haben den Iran wieder angegriffen</title>
+      <link>https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</guid>
+      <pubDate>Tue, 26 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>15 Jahre Haft für geplantes Attentat auf Besucher von Taylor-Swift-Konzert</title>
-      <link>https://www.nachrichtenleicht.de/urteil-anschlagsplan-swift-konzert-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/urteil-anschlagsplan-swift-konzert-100.html</guid>
-      <pubDate>Fri, 29 May 2026 15:00:00 +0200</pubDate>
+      <title>In 2 afrikanischen Ländern ist ein neues Ebola-Virus ausgebrochen</title>
+      <link>https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-ausbruch-100.html</guid>
+      <pubDate>Mon, 25 May 2026 16:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Anwohner blockieren Brenner-Autobahn</title>
-      <link>https://www.nachrichtenleicht.de/brenner-sperrung-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/brenner-sperrung-102.html</guid>
-      <pubDate>Sat, 30 May 2026 15:00:00 +0200</pubDate>
+      <title>Christinnen und Christen feiern Pfingsten</title>
+      <link>https://www.nachrichtenleicht.de/pfingsten-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pfingsten-100.html</guid>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Apotheken dürfen bald auch impfen und Blut abnehmen</title>
-      <link>https://www.nachrichtenleicht.de/apotheken-neue-aufgaben-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/apotheken-neue-aufgaben-100.html</guid>
-      <pubDate>Sat, 30 May 2026 18:00:00 +0200</pubDate>
+      <title>Mehr als 700.000 Menschen feiern in Düsseldorf die japanische Kultur</title>
+      <link>https://www.nachrichtenleicht.de/japan-tag-duesseldorf-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-tag-duesseldorf-106.html</guid>
+      <pubDate>Sun, 24 May 2026 17:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Paris Saint-Germain gewinnt Champions League - danach Gewalt in Paris</title>
-      <link>https://www.nachrichtenleicht.de/paris-saint-germain-gewinnt-champions-league-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/paris-saint-germain-gewinnt-champions-league-100.html</guid>
-      <pubDate>Sun, 31 May 2026 14:00:00 +0200</pubDate>
+      <title>Stadt Bottrop will Inklusion sichtbar machen</title>
+      <link>https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bottrop-inklusion-102.html</guid>
+      <pubDate>Sun, 24 May 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Deutscher Film "Das geträumte Abenteuer" bekommt Preis der Jury in Cannes</title>
+      <link>https://www.nachrichtenleicht.de/valeska-grisebach-cannes-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/valeska-grisebach-cannes-102.html</guid>
+      <pubDate>Sun, 24 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr als 700.000 Menschen feiern in Düsseldorf die japanische Kultur - viele Manga-Fans</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5684.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5684.html</guid>
+      <pubDate>Sun, 24 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Polizei stürmt Zentrale der größten Oppositions-Partei in Türkei</title>
+      <link>https://www.nachrichtenleicht.de/tuerkei-chp-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tuerkei-chp-100.html</guid>
+      <pubDate>Sun, 24 May 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>2 Millionen Muslime machen bei Pilger-Fahrt Hadsch mit</title>
+      <link>https://www.nachrichtenleicht.de/meldung-5686.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/meldung-5686.html</guid>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Russland greift die Ukraine mit Hyper-Schall-Rakete an</title>
+      <link>https://www.nachrichtenleicht.de/hyper-schall-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hyper-schall-100.html</guid>
+      <pubDate>Mon, 25 May 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>2 Millionen Muslime machen bei Pilger-Fahrt Hadsch mit</title>
+      <link>https://www.nachrichtenleicht.de/pilger-mekka-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pilger-mekka-100.html</guid>
+      <pubDate>Mon, 25 May 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Es gibt wieder mehr Finken in deutschen Gärten - aber insgesamt weniger Vögel</title>
+      <link>https://www.nachrichtenleicht.de/vogel-zaehlung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/vogel-zaehlung-100.html</guid>
+      <pubDate>Tue, 26 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Regierung will den Bau von Wohnungen erleichtern</title>
+      <link>https://www.nachrichtenleicht.de/regierung-will-bauen-einfacher-machen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/regierung-will-bauen-einfacher-machen-100.html</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gedenk-Stätte für Holocaust plant Bildungs-Zentrum in München</title>
+      <link>https://www.nachrichtenleicht.de/yad-vashem-bildungszentrum-muenchen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/yad-vashem-bildungszentrum-muenchen-100.html</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stadt Erlangen rät, 12 Lieder auf Volks-Fest nicht zu spielen - und das sorgt für Streit</title>
+      <link>https://www.nachrichtenleicht.de/erlangen-streit-bergkirchweih-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/erlangen-streit-bergkirchweih-100.html</guid>
+      <pubDate>Thu, 28 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Drohnen-Einschlag in Hoch-Haus in Rumänien</title>
+      <link>https://www.nachrichtenleicht.de/drohne-in-rumaenisches-hochhaus-eingeschlagen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/drohne-in-rumaenisches-hochhaus-eingeschlagen-100.html</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ebola im Land Kongo: Kämpfe machen Behandlungen schwierig</title>
+      <link>https://www.nachrichtenleicht.de/ebola-who-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ebola-who-100.html</guid>
+      <pubDate>Fri, 29 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pride-Parade in Budapest findet in diesem Jahr statt</title>
+      <link>https://www.nachrichtenleicht.de/pride-parade-budapest-findet-statt-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/pride-parade-budapest-findet-statt-100.html</guid>
+      <pubDate>Fri, 29 May 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Familien-Ministerin fordert: Keine Bildschirme für Kinder unter 3</title>
+      <link>https://www.nachrichtenleicht.de/kinder-bildschirmzeit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinder-bildschirmzeit-100.html</guid>
+      <pubDate>Sat, 30 May 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wolfgang Kubicki ist neuer Vorsitzender von der Partei FDP</title>
+      <link>https://www.nachrichtenleicht.de/kubicki-vorsitz-fdp-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kubicki-vorsitz-fdp-100.html</guid>
+      <pubDate>Sat, 30 May 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bundes-Ärzte-Kammer fordert Werbe-Verbot für Zigaretten und Vapes</title>
+      <link>https://www.nachrichtenleicht.de/warnungen-zum-welt-nicht-raucher-tag-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/warnungen-zum-welt-nicht-raucher-tag-100.html</guid>
+      <pubDate>Sun, 31 May 2026 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
