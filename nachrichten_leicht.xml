@@ -6,162 +6,18 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:00:04 +0000</lastBuildDate>
     <item>
-      <title>In Nord-Amerika beginnt die Fußball-Weltmeisterschaft</title>
-      <link>https://www.nachrichtenleicht.de/fussball-wm-beginnt-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-wm-beginnt-100.html</guid>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0200</pubDate>
+      <title>Eltern machen sich Sorgen wegen Lehrer-Mangel</title>
+      <link>https://www.nachrichtenleicht.de/brandenburg-lehrermangel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/brandenburg-lehrermangel-100.html</guid>
+      <pubDate>Thu, 11 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Ethik-Rat findet Social-Media-Verbote keine gute Idee</title>
-      <link>https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</guid>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>USA lassen Schiedsrichter aus Somalia nicht einreisen</title>
-      <link>https://www.nachrichtenleicht.de/usa-lassen-schiedsrichter-aus-somalia-nicht-einreisen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-lassen-schiedsrichter-aus-somalia-nicht-einreisen-100.html</guid>
-      <pubDate>Wed, 10 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Alle Namen von deutschen Fußball-National-Spielern in Gebärden-Sprache</title>
-      <link>https://www.nachrichtenleicht.de/namen-deutschland-nationalelf-gebaerdensprache-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/namen-deutschland-nationalelf-gebaerdensprache-100.html</guid>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Umwelt-Schützer überkleben Schilder für Geschwindigkeit auf der Autobahn</title>
-      <link>https://www.nachrichtenleicht.de/greenpeace-tempolimit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/greenpeace-tempolimit-100.html</guid>
-      <pubDate>Mon, 08 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Iran und Israel greifen sich wieder gegenseitig an</title>
-      <link>https://www.nachrichtenleicht.de/iran-israel-angriffe-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-israel-angriffe-102.html</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Große Fahrrad-Demonstration in Berlin</title>
-      <link>https://www.nachrichtenleicht.de/sternfahrt-berlin-adfc-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sternfahrt-berlin-adfc-100.html</guid>
-      <pubDate>Sun, 07 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Russland trifft Atom-Müll-Lager</title>
-      <link>https://www.nachrichtenleicht.de/tschernobyl-angriff-atommuell-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tschernobyl-angriff-atommuell-100.html</guid>
-      <pubDate>Sun, 07 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lennart Karl hat sich verletzt und kann nicht spielen</title>
-      <link>https://www.nachrichtenleicht.de/lennartkarl-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lennartkarl-102.html</guid>
-      <pubDate>Sat, 06 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Zu viel Müll auf großen Musik-Festivals</title>
-      <link>https://www.nachrichtenleicht.de/muell-106.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/muell-106.html</guid>
-      <pubDate>Sat, 06 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Düsseldorf baut doch kein neues Opern-Haus</title>
-      <link>https://www.nachrichtenleicht.de/opernhaus-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/opernhaus-100.html</guid>
-      <pubDate>Fri, 05 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Regisseur Wim Wenders zieht alten Film zurück</title>
-      <link>https://www.nachrichtenleicht.de/kinski-wenders-film-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinski-wenders-film-100.html</guid>
-      <pubDate>Thu, 04 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Deutschland bekommt keinen Sitz im Sicherheits-Rat</title>
-      <link>https://www.nachrichtenleicht.de/uno-sicherheitsrat-deutschland-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/uno-sicherheitsrat-deutschland-100.html</guid>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>2025 gab es so viele Einbürgerungen wie noch nie</title>
-      <link>https://www.nachrichtenleicht.de/einbuergerungen-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/einbuergerungen-102.html</guid>
-      <pubDate>Wed, 03 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Die USA haben den Iran wieder angegriffen</title>
-      <link>https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-greifen-iran-an-100.html</guid>
-      <pubDate>Wed, 03 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>EU plant großen Einsatz gegen Wald-Brände</title>
-      <link>https://www.nachrichtenleicht.de/waldbraende-116.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waldbraende-116.html</guid>
-      <pubDate>Wed, 03 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Wichtige Auto-Bahn-Brücke ist gesperrt</title>
-      <link>https://www.nachrichtenleicht.de/bonn-autobahn-bruecke-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bonn-autobahn-bruecke-100.html</guid>
-      <pubDate>Thu, 04 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gesundheits-Ministerin legt Plan für Pflege-Versicherung vor</title>
-      <link>https://www.nachrichtenleicht.de/reform-pflege-versicherung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reform-pflege-versicherung-100.html</guid>
-      <pubDate>Fri, 05 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viel Widerstand gegen neue Rechen-Zentren</title>
-      <link>https://www.nachrichtenleicht.de/rechen-zentren-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rechen-zentren-100.html</guid>
-      <pubDate>Fri, 05 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In dem Land Australien sind fremde Tiere verboten - Behörden finden 100.000 Kakerlaken auf Zucht-Farm</title>
-      <link>https://www.nachrichtenleicht.de/kakerlaken-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kakerlaken-100.html</guid>
-      <pubDate>Fri, 05 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Viele Menschen informieren sich über die Arbeit der Bundeswehr</title>
-      <link>https://www.nachrichtenleicht.de/bundeswehr-174.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-174.html</guid>
-      <pubDate>Sat, 06 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Menschen denken mehr an andere, als sie glauben</title>
-      <link>https://www.nachrichtenleicht.de/kooperation-forschung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kooperation-forschung-100.html</guid>
-      <pubDate>Sun, 07 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Deutscher Tennis-Spieler Alexander Zverev gewinnt die "French Open"</title>
-      <link>https://www.nachrichtenleicht.de/zverev-122.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zverev-122.html</guid>
-      <pubDate>Sun, 07 Jun 2026 21:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Regierungs-Partei gewinnt Wahl in Armenien</title>
-      <link>https://www.nachrichtenleicht.de/armenien-wahl-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/armenien-wahl-100.html</guid>
-      <pubDate>Mon, 08 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>So viele politische Straf-Taten in Deutschland wie noch nie</title>
-      <link>https://www.nachrichtenleicht.de/politische-straftaten-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/politische-straftaten-102.html</guid>
-      <pubDate>Tue, 09 Jun 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Beim Film-Festival "Goldener Spatz" entscheiden Kinder über die Preise</title>
-      <link>https://www.nachrichtenleicht.de/goldener-spatz-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldener-spatz-102.html</guid>
-      <pubDate>Tue, 09 Jun 2026 18:00:00 +0200</pubDate>
+      <title>Mehr als 7.000 Kinder lesen gemeinsam in einem Stadion</title>
+      <link>https://www.nachrichtenleicht.de/weltrekord-in-mainz-mehr-als-tausende-kinder-lesen-gemeinsam-in-einem-stadion-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weltrekord-in-mainz-mehr-als-tausende-kinder-lesen-gemeinsam-in-einem-stadion-100.html</guid>
+      <pubDate>Wed, 10 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Ausländer-feindliche Proteste und Gewalt in der nord-irischen Stadt Belfast</title>
@@ -170,10 +26,148 @@
       <pubDate>Wed, 10 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mehr als 7.000 Kinder lesen gemeinsam in einem Stadion</title>
-      <link>https://www.nachrichtenleicht.de/weltrekord-in-mainz-mehr-als-tausende-kinder-lesen-gemeinsam-in-einem-stadion-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/weltrekord-in-mainz-mehr-als-tausende-kinder-lesen-gemeinsam-in-einem-stadion-100.html</guid>
-      <pubDate>Wed, 10 Jun 2026 18:00:00 +0200</pubDate>
+      <title>Beim Film-Festival "Goldener Spatz" entscheiden Kinder über die Preise</title>
+      <link>https://www.nachrichtenleicht.de/goldener-spatz-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goldener-spatz-102.html</guid>
+      <pubDate>Tue, 09 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>So viele politische Straf-Taten in Deutschland wie noch nie</title>
+      <link>https://www.nachrichtenleicht.de/politische-straftaten-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/politische-straftaten-102.html</guid>
+      <pubDate>Tue, 09 Jun 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Regierungs-Partei gewinnt Wahl in Armenien</title>
+      <link>https://www.nachrichtenleicht.de/armenien-wahl-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/armenien-wahl-100.html</guid>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Deutscher Tennis-Spieler Alexander Zverev gewinnt die "French Open"</title>
+      <link>https://www.nachrichtenleicht.de/zverev-122.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/zverev-122.html</guid>
+      <pubDate>Sun, 07 Jun 2026 21:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Menschen denken mehr an andere, als sie glauben</title>
+      <link>https://www.nachrichtenleicht.de/kooperation-forschung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kooperation-forschung-100.html</guid>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viele Menschen informieren sich über die Arbeit der Bundeswehr</title>
+      <link>https://www.nachrichtenleicht.de/bundeswehr-174.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bundeswehr-174.html</guid>
+      <pubDate>Sat, 06 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In dem Land Australien sind fremde Tiere verboten - Behörden finden 100.000 Kakerlaken auf Zucht-Farm</title>
+      <link>https://www.nachrichtenleicht.de/kakerlaken-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kakerlaken-100.html</guid>
+      <pubDate>Fri, 05 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Viel Widerstand gegen neue Rechen-Zentren</title>
+      <link>https://www.nachrichtenleicht.de/rechen-zentren-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/rechen-zentren-100.html</guid>
+      <pubDate>Fri, 05 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gesundheits-Ministerin legt Plan für Pflege-Versicherung vor</title>
+      <link>https://www.nachrichtenleicht.de/reform-pflege-versicherung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reform-pflege-versicherung-100.html</guid>
+      <pubDate>Fri, 05 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wichtige Auto-Bahn-Brücke ist gesperrt</title>
+      <link>https://www.nachrichtenleicht.de/bonn-autobahn-bruecke-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bonn-autobahn-bruecke-100.html</guid>
+      <pubDate>Thu, 04 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>EU plant großen Einsatz gegen Wald-Brände</title>
+      <link>https://www.nachrichtenleicht.de/waldbraende-116.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/waldbraende-116.html</guid>
+      <pubDate>Wed, 03 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Deutschland bekommt keinen Sitz im Sicherheits-Rat</title>
+      <link>https://www.nachrichtenleicht.de/uno-sicherheitsrat-deutschland-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/uno-sicherheitsrat-deutschland-100.html</guid>
+      <pubDate>Thu, 04 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Regisseur Wim Wenders zieht alten Film zurück</title>
+      <link>https://www.nachrichtenleicht.de/kinski-wenders-film-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinski-wenders-film-100.html</guid>
+      <pubDate>Thu, 04 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Düsseldorf baut doch kein neues Opern-Haus</title>
+      <link>https://www.nachrichtenleicht.de/opernhaus-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/opernhaus-100.html</guid>
+      <pubDate>Fri, 05 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zu viel Müll auf großen Musik-Festivals</title>
+      <link>https://www.nachrichtenleicht.de/muell-106.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/muell-106.html</guid>
+      <pubDate>Sat, 06 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lennart Karl hat sich verletzt und kann nicht spielen</title>
+      <link>https://www.nachrichtenleicht.de/lennartkarl-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/lennartkarl-102.html</guid>
+      <pubDate>Sat, 06 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Russland trifft Atom-Müll-Lager</title>
+      <link>https://www.nachrichtenleicht.de/tschernobyl-angriff-atommuell-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/tschernobyl-angriff-atommuell-100.html</guid>
+      <pubDate>Sun, 07 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Große Fahrrad-Demonstration in Berlin</title>
+      <link>https://www.nachrichtenleicht.de/sternfahrt-berlin-adfc-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/sternfahrt-berlin-adfc-100.html</guid>
+      <pubDate>Sun, 07 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Iran und Israel greifen sich wieder gegenseitig an</title>
+      <link>https://www.nachrichtenleicht.de/iran-israel-angriffe-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/iran-israel-angriffe-102.html</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Umwelt-Schützer überkleben Schilder für Geschwindigkeit auf der Autobahn</title>
+      <link>https://www.nachrichtenleicht.de/greenpeace-tempolimit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/greenpeace-tempolimit-100.html</guid>
+      <pubDate>Mon, 08 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alle Namen von deutschen Fußball-National-Spielern in Gebärden-Sprache</title>
+      <link>https://www.nachrichtenleicht.de/namen-deutschland-nationalelf-gebaerdensprache-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/namen-deutschland-nationalelf-gebaerdensprache-100.html</guid>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>USA lassen Schiedsrichter aus Somalia nicht einreisen</title>
+      <link>https://www.nachrichtenleicht.de/usa-lassen-schiedsrichter-aus-somalia-nicht-einreisen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-lassen-schiedsrichter-aus-somalia-nicht-einreisen-100.html</guid>
+      <pubDate>Wed, 10 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ethik-Rat findet Social-Media-Verbote keine gute Idee</title>
+      <link>https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</guid>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In Nord-Amerika beginnt die Fußball-Weltmeisterschaft</title>
+      <link>https://www.nachrichtenleicht.de/fussball-wm-beginnt-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/fussball-wm-beginnt-100.html</guid>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
