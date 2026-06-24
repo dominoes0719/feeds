@@ -6,198 +6,18 @@
     <description>Nachrichten Leicht</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:00:03 +0000</lastBuildDate>
     <item>
-      <title>Wolodymyr Selenskyj ist zu Gast beim G7-Treffen</title>
-      <link>https://www.nachrichtenleicht.de/g7-selenskyj-macron-trump-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/g7-selenskyj-macron-trump-102.html</guid>
-      <pubDate>Wed, 24 Jun 2026 17:00:00 +0200</pubDate>
+      <title>Gefährliche Hitze in vielen Ländern in Europa</title>
+      <link>https://www.nachrichtenleicht.de/hitze-europa-gefahr-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hitze-europa-gefahr-102.html</guid>
+      <pubDate>Wed, 24 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Experten schlagen neue Regeln für Kinder und Soziale Medien vor</title>
-      <link>https://www.nachrichtenleicht.de/kinder-soziale-medien-vorschlaege-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinder-soziale-medien-vorschlaege-100.html</guid>
-      <pubDate>Wed, 24 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In ganz Deutschland 2 Stunden lang keine Zug-Fahrt mehr</title>
-      <link>https://www.nachrichtenleicht.de/deutsche-bahn-stoerung-funk-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/deutsche-bahn-stoerung-funk-100.html</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Goethe-Institut feiert 75. Geburtstag</title>
-      <link>https://www.nachrichtenleicht.de/goethe-institut-118.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goethe-institut-118.html</guid>
-      <pubDate>Tue, 23 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Japanische Regierung will Mangas besser vor Betrügern schützen</title>
-      <link>https://www.nachrichtenleicht.de/japan-mangas-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-mangas-100.html</guid>
-      <pubDate>Tue, 23 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Schüler sollen mehr über aktuelle Kriege und Konflikte lernen</title>
-      <link>https://www.nachrichtenleicht.de/schule-unterricht-empfehlungen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schule-unterricht-empfehlungen-100.html</guid>
-      <pubDate>Mon, 22 Jun 2026 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Schweizer stimmen gegen Begrenzung der Bevölkerung auf 10 Millionen</title>
-      <link>https://www.nachrichtenleicht.de/schweiz-abstimmung-einwanderung-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schweiz-abstimmung-einwanderung-100.html</guid>
-      <pubDate>Mon, 22 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Welt-Star Bad Bunny tritt in Deutschland auf</title>
-      <link>https://www.nachrichtenleicht.de/bad-bunny-104.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bad-bunny-104.html</guid>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Menschen in Deutschland sollen später Rente bekommen</title>
-      <link>https://www.nachrichtenleicht.de/renten-vorschlaege-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/renten-vorschlaege-100.html</guid>
-      <pubDate>Sun, 21 Jun 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mehr als 100.000 Menschen bei Special Olympics in Saarbrücken</title>
-      <link>https://www.nachrichtenleicht.de/special-olympics-126.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/special-olympics-126.html</guid>
-      <pubDate>Sun, 21 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Protest gegen Kranken-Kassen-Gesetz</title>
-      <link>https://www.nachrichtenleicht.de/reform-krankenkassen-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reform-krankenkassen-100.html</guid>
-      <pubDate>Sat, 20 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Verletzte bei Blitzeinschlag im Süd-Westen von Deutschland</title>
-      <link>https://www.nachrichtenleicht.de/blitzeinschlag-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/blitzeinschlag-100.html</guid>
-      <pubDate>Sat, 20 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>CDU-Politiker Jens Spahn war bei 5 Treffen von US-Milliardär Peter Thiel</title>
-      <link>https://www.nachrichtenleicht.de/spahn-thiel-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/spahn-thiel-100.html</guid>
-      <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ethik-Rat findet Social-Media-Verbote keine gute Idee</title>
-      <link>https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</guid>
-      <pubDate>Fri, 19 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Wichtige Auto-Bahn-Brücke in Bonn muss teilweise neu gebaut werden</title>
-      <link>https://www.nachrichtenleicht.de/nord-bruecke-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nord-bruecke-100.html</guid>
-      <pubDate>Fri, 19 Jun 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>DFL und UEFA planen keine Trink-Pausen bei Fußball-Spielen</title>
-      <link>https://www.nachrichtenleicht.de/trink-pause-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trink-pause-100.html</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kron-Prinzessin Mette-Marit bekommt eine neue Lunge</title>
-      <link>https://www.nachrichtenleicht.de/neue-lunge-mette-marit-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neue-lunge-mette-marit-100.html</guid>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>So viele politische Straf-Taten in Deutschland wie noch nie</title>
-      <link>https://www.nachrichtenleicht.de/politische-straftaten-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/politische-straftaten-102.html</guid>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Das steht in dem Abkommen zwischen den Ländern USA und Iran</title>
-      <link>https://www.nachrichtenleicht.de/abkommen-iran-usa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abkommen-iran-usa-100.html</guid>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Erinnern an die Opfer von dem 17. Juni 1953</title>
-      <link>https://www.nachrichtenleicht.de/volksaufstand-ddr-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/volksaufstand-ddr-102.html</guid>
-      <pubDate>Wed, 17 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>13 Millionen Menschen in Afrika von Extrem-Wetter betroffen</title>
-      <link>https://www.nachrichtenleicht.de/klima-bericht-afrika-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/klima-bericht-afrika-100.html</guid>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Marine soll bei Minen-Räumung in Straße von Hormus helfen</title>
-      <link>https://www.nachrichtenleicht.de/marine-einsatz-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/marine-einsatz-100.html</guid>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ausländer-feindliche Proteste und Gewalt in der nord-irischen Stadt Belfast</title>
-      <link>https://www.nachrichtenleicht.de/nach-messer-angriff-auslaender-feindliche-proteste-und-gewalt-in-der-nord-irischen-stadt-belfast-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nach-messer-angriff-auslaender-feindliche-proteste-und-gewalt-in-der-nord-irischen-stadt-belfast-100.html</guid>
-      <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Streit vor dem Opern-Festival in Bayreuth</title>
-      <link>https://www.nachrichtenleicht.de/friedman-bayreuth-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/friedman-bayreuth-100.html</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Friedens-Gespräche zwischen USA und dem Iran abgesagt</title>
-      <link>https://www.nachrichtenleicht.de/usa-iran-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-iran-102.html</guid>
-      <pubDate>Fri, 19 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bald sollen viel weniger Menschen Wohn-Geld bekommen</title>
-      <link>https://www.nachrichtenleicht.de/wohngeld-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wohngeld-100.html</guid>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Künstler David Hockney ist tot</title>
-      <link>https://www.nachrichtenleicht.de/hockney-tot-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hockney-tot-100.html</guid>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Unbekannte Musik von Mozart entdeckt</title>
-      <link>https://www.nachrichtenleicht.de/mozart-unbekannte-musik-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mozart-unbekannte-musik-100.html</guid>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>EU beginnt Beitritts-Gespräche mit Ukraine und Moldau</title>
-      <link>https://www.nachrichtenleicht.de/ukraine-beitrittsgespraeche-eu-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-beitrittsgespraeche-eu-100.html</guid>
-      <pubDate>Sun, 21 Jun 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Groß-Britannien: Regierungs-Chef Keir Starmer tritt zurück</title>
-      <link>https://www.nachrichtenleicht.de/starmer-110.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/starmer-110.html</guid>
-      <pubDate>Mon, 22 Jun 2026 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demonstranten fordern mehr Rechte für Behinderte</title>
-      <link>https://www.nachrichtenleicht.de/protest-berlin-102.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/protest-berlin-102.html</guid>
-      <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>In Deutschland wird es in den nächsten Tagen sehr heiß</title>
-      <link>https://www.nachrichtenleicht.de/hitze-glocke-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hitze-glocke-100.html</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 +0200</pubDate>
+      <title>Bade-Gewässer in Europa sind fast alle sehr sauber</title>
+      <link>https://www.nachrichtenleicht.de/qualitaet-badeseen-europa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/qualitaet-badeseen-europa-100.html</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Bundes-Kanzler Merz will alle Renten-Vorschläge umsetzen</title>
@@ -206,10 +26,196 @@
       <pubDate>Tue, 23 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Bade-Gewässer in Europa sind fast alle sehr sauber</title>
-      <link>https://www.nachrichtenleicht.de/qualitaet-badeseen-europa-100.html</link>
-      <guid isPermaLink="false">https://www.nachrichtenleicht.de/qualitaet-badeseen-europa-100.html</guid>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0200</pubDate>
+      <title>In Deutschland wird es in den nächsten Tagen sehr heiß</title>
+      <link>https://www.nachrichtenleicht.de/hitze-glocke-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hitze-glocke-100.html</guid>
+      <pubDate>Tue, 23 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demonstranten fordern mehr Rechte für Behinderte</title>
+      <link>https://www.nachrichtenleicht.de/protest-berlin-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/protest-berlin-102.html</guid>
+      <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Groß-Britannien: Regierungs-Chef Keir Starmer tritt zurück</title>
+      <link>https://www.nachrichtenleicht.de/starmer-110.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/starmer-110.html</guid>
+      <pubDate>Mon, 22 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>EU beginnt Beitritts-Gespräche mit Ukraine und Moldau</title>
+      <link>https://www.nachrichtenleicht.de/ukraine-beitrittsgespraeche-eu-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ukraine-beitrittsgespraeche-eu-100.html</guid>
+      <pubDate>Sun, 21 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Unbekannte Musik von Mozart entdeckt</title>
+      <link>https://www.nachrichtenleicht.de/mozart-unbekannte-musik-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/mozart-unbekannte-musik-100.html</guid>
+      <pubDate>Sat, 20 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Künstler David Hockney ist tot</title>
+      <link>https://www.nachrichtenleicht.de/hockney-tot-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/hockney-tot-100.html</guid>
+      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bald sollen viel weniger Menschen Wohn-Geld bekommen</title>
+      <link>https://www.nachrichtenleicht.de/wohngeld-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/wohngeld-100.html</guid>
+      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Friedens-Gespräche zwischen USA und dem Iran abgesagt</title>
+      <link>https://www.nachrichtenleicht.de/usa-iran-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/usa-iran-102.html</guid>
+      <pubDate>Fri, 19 Jun 2026 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Streit vor dem Opern-Festival in Bayreuth</title>
+      <link>https://www.nachrichtenleicht.de/friedman-bayreuth-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/friedman-bayreuth-100.html</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ausländer-feindliche Proteste und Gewalt in der nord-irischen Stadt Belfast</title>
+      <link>https://www.nachrichtenleicht.de/nach-messer-angriff-auslaender-feindliche-proteste-und-gewalt-in-der-nord-irischen-stadt-belfast-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nach-messer-angriff-auslaender-feindliche-proteste-und-gewalt-in-der-nord-irischen-stadt-belfast-100.html</guid>
+      <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Marine soll bei Minen-Räumung in Straße von Hormus helfen</title>
+      <link>https://www.nachrichtenleicht.de/marine-einsatz-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/marine-einsatz-100.html</guid>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>13 Millionen Menschen in Afrika von Extrem-Wetter betroffen</title>
+      <link>https://www.nachrichtenleicht.de/klima-bericht-afrika-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/klima-bericht-afrika-100.html</guid>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erinnern an die Opfer von dem 17. Juni 1953</title>
+      <link>https://www.nachrichtenleicht.de/volksaufstand-ddr-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/volksaufstand-ddr-102.html</guid>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Das steht in dem Abkommen zwischen den Ländern USA und Iran</title>
+      <link>https://www.nachrichtenleicht.de/abkommen-iran-usa-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/abkommen-iran-usa-100.html</guid>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>So viele politische Straf-Taten in Deutschland wie noch nie</title>
+      <link>https://www.nachrichtenleicht.de/politische-straftaten-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/politische-straftaten-102.html</guid>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kron-Prinzessin Mette-Marit bekommt eine neue Lunge</title>
+      <link>https://www.nachrichtenleicht.de/neue-lunge-mette-marit-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/neue-lunge-mette-marit-100.html</guid>
+      <pubDate>Wed, 17 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>DFL und UEFA planen keine Trink-Pausen bei Fußball-Spielen</title>
+      <link>https://www.nachrichtenleicht.de/trink-pause-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/trink-pause-100.html</guid>
+      <pubDate>Thu, 18 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wichtige Auto-Bahn-Brücke in Bonn muss teilweise neu gebaut werden</title>
+      <link>https://www.nachrichtenleicht.de/nord-bruecke-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/nord-bruecke-100.html</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ethik-Rat findet Social-Media-Verbote keine gute Idee</title>
+      <link>https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/ethikrat-social-media-100.html</guid>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>CDU-Politiker Jens Spahn war bei 5 Treffen von US-Milliardär Peter Thiel</title>
+      <link>https://www.nachrichtenleicht.de/spahn-thiel-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/spahn-thiel-100.html</guid>
+      <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Verletzte bei Blitzeinschlag im Süd-Westen von Deutschland</title>
+      <link>https://www.nachrichtenleicht.de/blitzeinschlag-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/blitzeinschlag-100.html</guid>
+      <pubDate>Sat, 20 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Protest gegen Kranken-Kassen-Gesetz</title>
+      <link>https://www.nachrichtenleicht.de/reform-krankenkassen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/reform-krankenkassen-100.html</guid>
+      <pubDate>Sat, 20 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mehr als 100.000 Menschen bei Special Olympics in Saarbrücken</title>
+      <link>https://www.nachrichtenleicht.de/special-olympics-126.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/special-olympics-126.html</guid>
+      <pubDate>Sun, 21 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Menschen in Deutschland sollen später Rente bekommen</title>
+      <link>https://www.nachrichtenleicht.de/renten-vorschlaege-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/renten-vorschlaege-100.html</guid>
+      <pubDate>Sun, 21 Jun 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Welt-Star Bad Bunny tritt in Deutschland auf</title>
+      <link>https://www.nachrichtenleicht.de/bad-bunny-104.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/bad-bunny-104.html</guid>
+      <pubDate>Sun, 21 Jun 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Schweizer stimmen gegen Begrenzung der Bevölkerung auf 10 Millionen</title>
+      <link>https://www.nachrichtenleicht.de/schweiz-abstimmung-einwanderung-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schweiz-abstimmung-einwanderung-100.html</guid>
+      <pubDate>Mon, 22 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Schüler sollen mehr über aktuelle Kriege und Konflikte lernen</title>
+      <link>https://www.nachrichtenleicht.de/schule-unterricht-empfehlungen-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/schule-unterricht-empfehlungen-100.html</guid>
+      <pubDate>Mon, 22 Jun 2026 20:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Japanische Regierung will Mangas besser vor Betrügern schützen</title>
+      <link>https://www.nachrichtenleicht.de/japan-mangas-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/japan-mangas-100.html</guid>
+      <pubDate>Tue, 23 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Goethe-Institut feiert 75. Geburtstag</title>
+      <link>https://www.nachrichtenleicht.de/goethe-institut-118.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/goethe-institut-118.html</guid>
+      <pubDate>Tue, 23 Jun 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>In ganz Deutschland 2 Stunden lang keine Zug-Fahrt mehr</title>
+      <link>https://www.nachrichtenleicht.de/deutsche-bahn-stoerung-funk-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/deutsche-bahn-stoerung-funk-100.html</guid>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Experten schlagen neue Regeln für Kinder und Soziale Medien vor</title>
+      <link>https://www.nachrichtenleicht.de/kinder-soziale-medien-vorschlaege-100.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/kinder-soziale-medien-vorschlaege-100.html</guid>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wolodymyr Selenskyj ist zu Gast beim G7-Treffen</title>
+      <link>https://www.nachrichtenleicht.de/g7-selenskyj-macron-trump-102.html</link>
+      <guid isPermaLink="false">https://www.nachrichtenleicht.de/g7-selenskyj-macron-trump-102.html</guid>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
